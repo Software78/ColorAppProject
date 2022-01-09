@@ -17,6 +17,7 @@ class MyApp extends StatelessWidget {
       routes: {
         Settings.id: (context) => const Settings(),
       },
+      debugShowCheckedModeBanner: false,
       theme: ThemeData(primaryColor: const Color(0xff7165e3)),
       darkTheme: ThemeData.dark(),
       home: const MyAppHomePage(),
