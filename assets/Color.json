@@ -1,0 +1,6704 @@
+{
+"results" : [
+
+  {
+    "objectId": "k8i7HSjQOr",
+    "name": "Baker-Miller pink",
+    "hexCode": "FF91AF",
+    "createdAt": "2019-12-13T23:44:19.824Z",
+    "updatedAt": "2019-12-13T23:44:19.824Z"
+  },
+  {
+    "objectId": "tQKOLnCLdy",
+    "name": "Bright yellow (Crayola)",
+    "hexCode": "FFAA1D",
+    "createdAt": "2019-12-13T23:44:19.824Z",
+    "updatedAt": "2019-12-13T23:44:19.824Z"
+  },
+  {
+    "objectId": "pNTkJMF5Bj",
+    "name": "Amber",
+    "hexCode": "FFBF00",
+    "createdAt": "2019-12-13T23:44:19.824Z",
+    "updatedAt": "2019-12-13T23:44:19.824Z"
+  },
+  {
+    "objectId": "3tlbqwPRqd",
+    "name": "Amber (SAE/ECE)",
+    "hexCode": "FF7E00",
+    "createdAt": "2019-12-13T23:44:19.824Z",
+    "updatedAt": "2019-12-13T23:44:19.824Z"
+  },
+  {
+    "objectId": "7e8uiNAoWI",
+    "name": "Atomic tangerine",
+    "hexCode": "FF9966",
+    "createdAt": "2019-12-13T23:44:19.824Z",
+    "updatedAt": "2019-12-13T23:44:19.824Z"
+  },
+  {
+    "objectId": "yDr8oGOAZ6",
+    "name": "Bisque",
+    "hexCode": "FFE4C4",
+    "createdAt": "2019-12-13T23:44:19.824Z",
+    "updatedAt": "2019-12-13T23:44:19.824Z"
+  },
+  {
+    "objectId": "7P5vGvs7KF",
+    "name": "Candy apple red",
+    "hexCode": "FF0800",
+    "createdAt": "2019-12-13T23:44:19.824Z",
+    "updatedAt": "2019-12-13T23:44:19.824Z"
+  },
+  {
+    "objectId": "kxgtUbMkFt",
+    "name": "Baby powder",
+    "hexCode": "FEFEFA",
+    "createdAt": "2019-12-13T23:44:19.824Z",
+    "updatedAt": "2019-12-13T23:44:19.824Z"
+  },
+  {
+    "objectId": "R6Mq6lwM0Z",
+    "name": "Coquelicot",
+    "hexCode": "FF3800",
+    "createdAt": "2019-12-13T23:44:19.824Z",
+    "updatedAt": "2019-12-13T23:44:19.824Z"
+  },
+  {
+    "objectId": "Dru6ttcoCB",
+    "name": "Blanched almond",
+    "hexCode": "FFEBCD",
+    "createdAt": "2019-12-13T23:44:19.824Z",
+    "updatedAt": "2019-12-13T23:44:19.824Z"
+  },
+  {
+    "objectId": "B9p30ZvnBG",
+    "name": "Brilliant rose",
+    "hexCode": "FF55A3",
+    "createdAt": "2019-12-13T23:44:19.824Z",
+    "updatedAt": "2019-12-13T23:44:19.824Z"
+  },
+  {
+    "objectId": "rGeq4VN3JU",
+    "name": "Bittersweet",
+    "hexCode": "FE6F5E",
+    "createdAt": "2019-12-13T23:44:19.824Z",
+    "updatedAt": "2019-12-13T23:44:19.824Z"
+  },
+  {
+    "objectId": "5XGSsddbXi",
+    "name": "Cadmium yellow",
+    "hexCode": "FFF600",
+    "createdAt": "2019-12-13T23:44:19.824Z",
+    "updatedAt": "2019-12-13T23:44:19.824Z"
+  },
+  {
+    "objectId": "jrWYfK6s5d",
+    "name": "Canary yellow",
+    "hexCode": "FFEF00",
+    "createdAt": "2019-12-13T23:44:19.824Z",
+    "updatedAt": "2019-12-13T23:44:19.824Z"
+  },
+  {
+    "objectId": "5AGsZlnJSa",
+    "name": "Carnation pink",
+    "hexCode": "FFA6C9",
+    "createdAt": "2019-12-13T23:44:19.824Z",
+    "updatedAt": "2019-12-13T23:44:19.824Z"
+  },
+  {
+    "objectId": "XQHKm9cfuF",
+    "name": "Canary",
+    "hexCode": "FFFF99",
+    "createdAt": "2019-12-13T23:44:19.824Z",
+    "updatedAt": "2019-12-13T23:44:19.824Z"
+  },
+  {
+    "objectId": "nkaCm5pFI8",
+    "name": "Cherry blossom pink",
+    "hexCode": "FFB7C5",
+    "createdAt": "2019-12-13T23:44:19.824Z",
+    "updatedAt": "2019-12-13T23:44:19.824Z"
+  },
+  {
+    "objectId": "tHNhwaSyIP",
+    "name": "Coral",
+    "hexCode": "FF7F50",
+    "createdAt": "2019-12-13T23:44:19.824Z",
+    "updatedAt": "2019-12-13T23:44:19.824Z"
+  },
+  {
+    "objectId": "oW79T1aSbu",
+    "name": "Chinese yellow",
+    "hexCode": "FFB200",
+    "createdAt": "2019-12-13T23:44:19.824Z",
+    "updatedAt": "2019-12-13T23:44:19.824Z"
+  },
+  {
+    "objectId": "Mr3oz7UKG5",
+    "name": "Chrome yellow",
+    "hexCode": "FFA700",
+    "createdAt": "2019-12-13T23:44:19.824Z",
+    "updatedAt": "2019-12-13T23:44:19.824Z"
+  },
+  {
+    "objectId": "JsC7fXR27q",
+    "name": "Cyber yellow",
+    "hexCode": "FFD300",
+    "createdAt": "2019-12-13T23:44:20.150Z",
+    "updatedAt": "2019-12-13T23:44:20.150Z"
+  },
+  {
+    "objectId": "RVnR8KrNiC",
+    "name": "Deep pink",
+    "hexCode": "FF1493",
+    "createdAt": "2019-12-13T23:44:20.150Z",
+    "updatedAt": "2019-12-13T23:44:20.150Z"
+  },
+  {
+    "objectId": "2Qi2uxlBAg",
+    "name": "Aureolin",
+    "hexCode": "FDEE00",
+    "createdAt": "2019-12-13T23:44:20.150Z",
+    "updatedAt": "2019-12-13T23:44:20.150Z"
+  },
+  {
+    "objectId": "tsqXZWPFIi",
+    "name": "Banana Mania",
+    "hexCode": "FAE7B5",
+    "createdAt": "2019-12-13T23:44:20.150Z",
+    "updatedAt": "2019-12-13T23:44:20.150Z"
+  },
+  {
+    "objectId": "YYUuv2dNB9",
+    "name": "Cotton candy",
+    "hexCode": "FFBCD9",
+    "createdAt": "2019-12-13T23:44:20.150Z",
+    "updatedAt": "2019-12-13T23:44:20.150Z"
+  },
+  {
+    "objectId": "JXrn2DKwga",
+    "name": "Cream",
+    "hexCode": "FFFDD0",
+    "createdAt": "2019-12-13T23:44:20.150Z",
+    "updatedAt": "2019-12-13T23:44:20.150Z"
+  },
+  {
+    "objectId": "9Qhx9COMbN",
+    "name": "Cosmic latte",
+    "hexCode": "FFF8E7",
+    "createdAt": "2019-12-13T23:44:20.150Z",
+    "updatedAt": "2019-12-13T23:44:20.150Z"
+  },
+  {
+    "objectId": "KhwaDboX2G",
+    "name": "Cornsilk",
+    "hexCode": "FFF8DC",
+    "createdAt": "2019-12-13T23:44:20.150Z",
+    "updatedAt": "2019-12-13T23:44:20.150Z"
+  },
+  {
+    "objectId": "yRPatAAaC6",
+    "name": "Dark orange",
+    "hexCode": "FF8C00",
+    "createdAt": "2019-12-13T23:44:20.150Z",
+    "updatedAt": "2019-12-13T23:44:20.150Z"
+  },
+  {
+    "objectId": "O8y2sqpCs7",
+    "name": "Deep saffron",
+    "hexCode": "FF9933",
+    "createdAt": "2019-12-13T23:44:20.150Z",
+    "updatedAt": "2019-12-13T23:44:20.150Z"
+  },
+  {
+    "objectId": "tnpqbszh7H",
+    "name": "Floral white",
+    "hexCode": "FFFAF0",
+    "createdAt": "2019-12-13T23:44:20.150Z",
+    "updatedAt": "2019-12-13T23:44:20.150Z"
+  },
+  {
+    "objectId": "3ShSxyV4w2",
+    "name": "Fiery rose",
+    "hexCode": "FF5470",
+    "createdAt": "2019-12-13T23:44:20.150Z",
+    "updatedAt": "2019-12-13T23:44:20.150Z"
+  },
+  {
+    "objectId": "MXJZhV6BlH",
+    "name": "French pink",
+    "hexCode": "FD6C9E",
+    "createdAt": "2019-12-13T23:44:20.150Z",
+    "updatedAt": "2019-12-13T23:44:20.150Z"
+  },
+  {
+    "objectId": "xlbZESWj7x",
+    "name": "Fuchsia",
+    "hexCode": "FF00FF",
+    "createdAt": "2019-12-13T23:44:20.150Z",
+    "updatedAt": "2019-12-13T23:44:20.150Z"
+  },
+  {
+    "objectId": "QYzzuFnRiX",
+    "name": "French fuchsia",
+    "hexCode": "FD3F92",
+    "createdAt": "2019-12-13T23:44:20.150Z",
+    "updatedAt": "2019-12-13T23:44:20.150Z"
+  },
+  {
+    "objectId": "sq3Ynk0Stz",
+    "name": "Antique white",
+    "hexCode": "FAEBD7",
+    "createdAt": "2019-12-13T23:44:20.150Z",
+    "updatedAt": "2019-12-13T23:44:20.150Z"
+  },
+  {
+    "objectId": "VPpNMNwYbw",
+    "name": "Blond",
+    "hexCode": "FAF0BE",
+    "createdAt": "2019-12-13T23:44:20.150Z",
+    "updatedAt": "2019-12-13T23:44:20.150Z"
+  },
+  {
+    "objectId": "FDEqdE1b7X",
+    "name": "Brink pink",
+    "hexCode": "FB607F",
+    "createdAt": "2019-12-13T23:44:20.151Z",
+    "updatedAt": "2019-12-13T23:44:20.151Z"
+  },
+  {
+    "objectId": "QNv4OhdRgf",
+    "name": "Apricot",
+    "hexCode": "FBCEB1",
+    "createdAt": "2019-12-13T23:44:20.150Z",
+    "updatedAt": "2019-12-13T23:44:20.150Z"
+  },
+  {
+    "objectId": "MTXUHwjgCp",
+    "name": "Corn",
+    "hexCode": "FBEC5D",
+    "createdAt": "2019-12-13T23:44:20.151Z",
+    "updatedAt": "2019-12-13T23:44:20.151Z"
+  },
+  {
+    "objectId": "G4dZJw2aqA",
+    "name": "Coral pink",
+    "hexCode": "F88379",
+    "createdAt": "2019-12-13T23:44:20.622Z",
+    "updatedAt": "2019-12-13T23:44:20.622Z"
+  },
+  {
+    "objectId": "ROqsjngp6b",
+    "name": "Cultured",
+    "hexCode": "F5F5F5",
+    "createdAt": "2019-12-13T23:44:20.622Z",
+    "updatedAt": "2019-12-13T23:44:20.622Z"
+  },
+  {
+    "objectId": "pYS8p4sdCY",
+    "name": "Cameo pink",
+    "hexCode": "EFBBCC",
+    "createdAt": "2019-12-13T23:44:20.622Z",
+    "updatedAt": "2019-12-13T23:44:20.622Z"
+  },
+  {
+    "objectId": "6WBlY3F2yv",
+    "name": "Champagne",
+    "hexCode": "F7E7CE",
+    "createdAt": "2019-12-13T23:44:20.622Z",
+    "updatedAt": "2019-12-13T23:44:20.622Z"
+  },
+  {
+    "objectId": "17IHjiWFQy",
+    "name": "Flickr Pink",
+    "hexCode": "FB0081",
+    "createdAt": "2019-12-13T23:44:20.622Z",
+    "updatedAt": "2019-12-13T23:44:20.622Z"
+  },
+  {
+    "objectId": "zc1BTwB51S",
+    "name": "Deep champagne",
+    "hexCode": "FAD6A5",
+    "createdAt": "2019-12-13T23:44:20.622Z",
+    "updatedAt": "2019-12-13T23:44:20.622Z"
+  },
+  {
+    "objectId": "tic43ACRPh",
+    "name": "Congo pink",
+    "hexCode": "F88379",
+    "createdAt": "2019-12-13T23:44:20.622Z",
+    "updatedAt": "2019-12-13T23:44:20.622Z"
+  },
+  {
+    "objectId": "K4zbgF8C4n",
+    "name": "Champagne pink",
+    "hexCode": "F1DDCF",
+    "createdAt": "2019-12-13T23:44:20.622Z",
+    "updatedAt": "2019-12-13T23:44:20.622Z"
+  },
+  {
+    "objectId": "fGgVpKmBTI",
+    "name": "Baby pink",
+    "hexCode": "F4C2C2",
+    "createdAt": "2019-12-13T23:44:20.622Z",
+    "updatedAt": "2019-12-13T23:44:20.622Z"
+  },
+  {
+    "objectId": "BFGOQYq34y",
+    "name": "Beige",
+    "hexCode": "F5F5DC",
+    "createdAt": "2019-12-13T23:44:20.622Z",
+    "updatedAt": "2019-12-13T23:44:20.622Z"
+  },
+  {
+    "objectId": "FPwXfGmbhA",
+    "name": "French rose",
+    "hexCode": "F64A8A",
+    "createdAt": "2019-12-13T23:44:20.622Z",
+    "updatedAt": "2019-12-13T23:44:20.622Z"
+  },
+  {
+    "objectId": "GXYTUy6pdK",
+    "name": "Cyclamen",
+    "hexCode": "F56FA1",
+    "createdAt": "2019-12-13T23:44:20.622Z",
+    "updatedAt": "2019-12-13T23:44:20.622Z"
+  },
+  {
+    "objectId": "QvvgaBDzE6",
+    "name": "Azure (X11/web color)",
+    "hexCode": "F0FFFF",
+    "createdAt": "2019-12-13T23:44:20.622Z",
+    "updatedAt": "2019-12-13T23:44:20.622Z"
+  },
+  {
+    "objectId": "AhMU0ohH7z",
+    "name": "Alice blue",
+    "hexCode": "F0F8FF",
+    "createdAt": "2019-12-13T23:44:20.622Z",
+    "updatedAt": "2019-12-13T23:44:20.622Z"
+  },
+  {
+    "objectId": "wTVjRIsZFr",
+    "name": "Fashion fuchsia",
+    "hexCode": "F400A1",
+    "createdAt": "2019-12-13T23:44:20.622Z",
+    "updatedAt": "2019-12-13T23:44:20.622Z"
+  },
+  {
+    "objectId": "STnHF1vC45",
+    "name": "Almond",
+    "hexCode": "EFDECD",
+    "createdAt": "2019-12-13T23:44:20.622Z",
+    "updatedAt": "2019-12-13T23:44:20.622Z"
+  },
+  {
+    "objectId": "rmNEN8LCk0",
+    "name": "Eggshell",
+    "hexCode": "F0EAD6",
+    "createdAt": "2019-12-13T23:44:20.622Z",
+    "updatedAt": "2019-12-13T23:44:20.622Z"
+  },
+  {
+    "objectId": "He2duXwg6e",
+    "name": "Dutch white",
+    "hexCode": "EFDFBB",
+    "createdAt": "2019-12-13T23:44:20.622Z",
+    "updatedAt": "2019-12-13T23:44:20.622Z"
+  },
+  {
+    "objectId": "TFea09OnG3",
+    "name": "Amaranth pink",
+    "hexCode": "F19CBB",
+    "createdAt": "2019-12-13T23:44:20.622Z",
+    "updatedAt": "2019-12-13T23:44:20.622Z"
+  },
+  {
+    "objectId": "iukfuWGVie",
+    "name": "Buff",
+    "hexCode": "F0DC82",
+    "createdAt": "2019-12-13T23:44:20.622Z",
+    "updatedAt": "2019-12-13T23:44:20.622Z"
+  },
+  {
+    "objectId": "LSfKlwWH9W",
+    "name": "Desert sand",
+    "hexCode": "EDC9AF",
+    "createdAt": "2019-12-13T23:44:20.672Z",
+    "updatedAt": "2019-12-13T23:44:20.672Z"
+  },
+  {
+    "objectId": "djjmPcGRJ5",
+    "name": "Cadmium orange",
+    "hexCode": "ED872D",
+    "createdAt": "2019-12-13T23:44:20.671Z",
+    "updatedAt": "2019-12-13T23:44:20.671Z"
+  },
+  {
+    "objectId": "5IKrcKecAW",
+    "name": "Arylide yellow",
+    "hexCode": "E9D66B",
+    "createdAt": "2019-12-13T23:44:20.672Z",
+    "updatedAt": "2019-12-13T23:44:20.672Z"
+  },
+  {
+    "objectId": "0m1SpFp1HE",
+    "name": "Fire opal",
+    "hexCode": "E95C4B",
+    "createdAt": "2019-12-13T23:44:20.672Z",
+    "updatedAt": "2019-12-13T23:44:20.672Z"
+  },
+  {
+    "objectId": "5EGVUG5YgQ",
+    "name": "Alabaster",
+    "hexCode": "EDEAE0",
+    "createdAt": "2019-12-13T23:44:20.671Z",
+    "updatedAt": "2019-12-13T23:44:20.671Z"
+  },
+  {
+    "objectId": "TGacbllNQB",
+    "name": "Carrot orange",
+    "hexCode": "ED9121",
+    "createdAt": "2019-12-13T23:44:20.672Z",
+    "updatedAt": "2019-12-13T23:44:20.672Z"
+  },
+  {
+    "objectId": "F2iMoTC8id",
+    "name": "Flax",
+    "hexCode": "EEDC82",
+    "createdAt": "2019-12-13T23:44:20.672Z",
+    "updatedAt": "2019-12-13T23:44:20.672Z"
+  },
+  {
+    "objectId": "rzt5hwSfS4",
+    "name": "Burnt sienna",
+    "hexCode": "E97451",
+    "createdAt": "2019-12-13T23:44:20.672Z",
+    "updatedAt": "2019-12-13T23:44:20.672Z"
+  },
+  {
+    "objectId": "Q86NnhHFQz",
+    "name": "Cadmium red",
+    "hexCode": "E30022",
+    "createdAt": "2019-12-13T23:44:20.672Z",
+    "updatedAt": "2019-12-13T23:44:20.672Z"
+  },
+  {
+    "objectId": "rlWSBgFUR4",
+    "name": "Dark salmon",
+    "hexCode": "E9967A",
+    "createdAt": "2019-12-13T23:44:20.672Z",
+    "updatedAt": "2019-12-13T23:44:20.672Z"
+  },
+  {
+    "objectId": "FVBNzgWOIb",
+    "name": "Flame",
+    "hexCode": "E25822",
+    "createdAt": "2019-12-13T23:44:20.672Z",
+    "updatedAt": "2019-12-13T23:44:20.672Z"
+  },
+  {
+    "objectId": "OHqRV9Q27c",
+    "name": "Bone",
+    "hexCode": "E3DAC9",
+    "createdAt": "2019-12-13T23:44:20.672Z",
+    "updatedAt": "2019-12-13T23:44:20.672Z"
+  },
+  {
+    "objectId": "p8PgCK5BMg",
+    "name": "Amaranth",
+    "hexCode": "E52B50",
+    "createdAt": "2019-12-13T23:44:20.672Z",
+    "updatedAt": "2019-12-13T23:44:20.672Z"
+  },
+  {
+    "objectId": "HS2PFvpJFb",
+    "name": "Frostbite",
+    "hexCode": "E936A7",
+    "createdAt": "2019-12-13T23:44:20.672Z",
+    "updatedAt": "2019-12-13T23:44:20.672Z"
+  },
+  {
+    "objectId": "LESqLIwCMi",
+    "name": "Fulvous",
+    "hexCode": "E48400",
+    "createdAt": "2019-12-13T23:44:20.672Z",
+    "updatedAt": "2019-12-13T23:44:20.672Z"
+  },
+  {
+    "objectId": "7ldwQQyS2Y",
+    "name": "Charm pink",
+    "hexCode": "E68FAC",
+    "createdAt": "2019-12-13T23:44:20.672Z",
+    "updatedAt": "2019-12-13T23:44:20.672Z"
+  },
+  {
+    "objectId": "AmF5NsnD7B",
+    "name": "Candy pink",
+    "hexCode": "E4717A",
+    "createdAt": "2019-12-13T23:44:20.672Z",
+    "updatedAt": "2019-12-13T23:44:20.672Z"
+  },
+  {
+    "objectId": "PeWmF8SsYD",
+    "name": "Fawn",
+    "hexCode": "E5AA70",
+    "createdAt": "2019-12-13T23:44:20.672Z",
+    "updatedAt": "2019-12-13T23:44:20.672Z"
+  },
+  {
+    "objectId": "HxFRE5dA8P",
+    "name": "Citrine",
+    "hexCode": "E4D00A",
+    "createdAt": "2019-12-13T23:44:20.672Z",
+    "updatedAt": "2019-12-13T23:44:20.672Z"
+  },
+  {
+    "objectId": "u6DmRWaqGF",
+    "name": "Cinnabar",
+    "hexCode": "E34234",
+    "createdAt": "2019-12-13T23:44:20.672Z",
+    "updatedAt": "2019-12-13T23:44:20.672Z"
+  },
+  {
+    "objectId": "yDBgcZpOGc",
+    "name": "CG red",
+    "hexCode": "E03C31",
+    "createdAt": "2019-12-13T23:44:20.952Z",
+    "updatedAt": "2019-12-13T23:44:20.952Z"
+  },
+  {
+    "objectId": "crCjzt8Q11",
+    "name": "Crimson",
+    "hexCode": "DC143C",
+    "createdAt": "2019-12-13T23:44:20.952Z",
+    "updatedAt": "2019-12-13T23:44:20.952Z"
+  },
+  {
+    "objectId": "wta4ZLHX6h",
+    "name": "Earth yellow",
+    "hexCode": "E1A95F",
+    "createdAt": "2019-12-13T23:44:20.952Z",
+    "updatedAt": "2019-12-13T23:44:20.952Z"
+  },
+  {
+    "objectId": "1GEgTJracE",
+    "name": "China pink",
+    "hexCode": "DE6FA1",
+    "createdAt": "2019-12-13T23:44:20.952Z",
+    "updatedAt": "2019-12-13T23:44:20.952Z"
+  },
+  {
+    "objectId": "K6yzZF3bzV",
+    "name": "Blush",
+    "hexCode": "DE5D83",
+    "createdAt": "2019-12-13T23:44:20.952Z",
+    "updatedAt": "2019-12-13T23:44:20.952Z"
+  },
+  {
+    "objectId": "0qYfViyy7g",
+    "name": "Chartreuse (traditional)",
+    "hexCode": "DFFF00",
+    "createdAt": "2019-12-13T23:44:20.952Z",
+    "updatedAt": "2019-12-13T23:44:20.952Z"
+  },
+  {
+    "objectId": "kFyR0hHySE",
+    "name": "Burlywood",
+    "hexCode": "DEB887",
+    "createdAt": "2019-12-13T23:44:20.952Z",
+    "updatedAt": "2019-12-13T23:44:20.952Z"
+  },
+  {
+    "objectId": "JS1InI1lx0",
+    "name": "Cerise",
+    "hexCode": "DE3163",
+    "createdAt": "2019-12-13T23:44:20.952Z",
+    "updatedAt": "2019-12-13T23:44:20.952Z"
+  },
+  {
+    "objectId": "qfdyiR6JNo",
+    "name": "Barbie Pink",
+    "hexCode": "DA1884",
+    "createdAt": "2019-12-13T23:44:20.952Z",
+    "updatedAt": "2019-12-13T23:44:20.952Z"
+  },
+  {
+    "objectId": "5XTjZL6paa",
+    "name": "Fandango pink",
+    "hexCode": "DE5285",
+    "createdAt": "2019-12-13T23:44:20.952Z",
+    "updatedAt": "2019-12-13T23:44:20.952Z"
+  },
+  {
+    "objectId": "0vxh4faCDU",
+    "name": "Deep cerise",
+    "hexCode": "DA3287",
+    "createdAt": "2019-12-13T23:44:20.952Z",
+    "updatedAt": "2019-12-13T23:44:20.952Z"
+  },
+  {
+    "objectId": "lEGYWgpdDu",
+    "name": "Chocolate (web)",
+    "hexCode": "D2691E",
+    "createdAt": "2019-12-13T23:44:20.952Z",
+    "updatedAt": "2019-12-13T23:44:20.952Z"
+  },
+  {
+    "objectId": "9vOmpIESv9",
+    "name": "Bright lilac",
+    "hexCode": "D891EF",
+    "createdAt": "2019-12-13T23:44:20.952Z",
+    "updatedAt": "2019-12-13T23:44:20.952Z"
+  },
+  {
+    "objectId": "RA5EtxWWEj",
+    "name": "Dogwood rose",
+    "hexCode": "D71868",
+    "createdAt": "2019-12-13T23:44:20.952Z",
+    "updatedAt": "2019-12-13T23:44:20.952Z"
+  },
+  {
+    "objectId": "qDH3jTARKq",
+    "name": "Carmine (M&P)",
+    "hexCode": "D70040",
+    "createdAt": "2019-12-13T23:44:20.952Z",
+    "updatedAt": "2019-12-13T23:44:20.952Z"
+  },
+  {
+    "objectId": "NILAlsMKbz",
+    "name": "Copper (Crayola)",
+    "hexCode": "DA8A67",
+    "createdAt": "2019-12-13T23:44:20.952Z",
+    "updatedAt": "2019-12-13T23:44:20.952Z"
+  },
+  {
+    "objectId": "tGuAj5afoj",
+    "name": "Amaranth red",
+    "hexCode": "D3212D",
+    "createdAt": "2019-12-13T23:44:20.952Z",
+    "updatedAt": "2019-12-13T23:44:20.952Z"
+  },
+  {
+    "objectId": "cbjZNd2FKs",
+    "name": "French mauve",
+    "hexCode": "D473D4",
+    "createdAt": "2019-12-13T23:44:20.952Z",
+    "updatedAt": "2019-12-13T23:44:20.952Z"
+  },
+  {
+    "objectId": "TfHhT1HaLB",
+    "name": "Cocoa brown",
+    "hexCode": "D2691E",
+    "createdAt": "2019-12-13T23:44:20.953Z",
+    "updatedAt": "2019-12-13T23:44:20.953Z"
+  },
+  {
+    "objectId": "8sVtCH7GNr",
+    "name": "Arctic lime",
+    "hexCode": "D0FF14",
+    "createdAt": "2019-12-13T23:44:20.952Z",
+    "updatedAt": "2019-12-13T23:44:20.952Z"
+  },
+  {
+    "objectId": "1Lo62aLLHM",
+    "name": "Fire engine red",
+    "hexCode": "CE2029",
+    "createdAt": "2019-12-13T23:44:21.138Z",
+    "updatedAt": "2019-12-13T23:44:21.138Z"
+  },
+  {
+    "objectId": "lyaUfmgUGB",
+    "name": "Cedar Chest",
+    "hexCode": "C95A49",
+    "createdAt": "2019-12-13T23:44:21.138Z",
+    "updatedAt": "2019-12-13T23:44:21.138Z"
+  },
+  {
+    "objectId": "F9eVvyPjye",
+    "name": "Camel",
+    "hexCode": "C19A6B",
+    "createdAt": "2019-12-13T23:44:21.138Z",
+    "updatedAt": "2019-12-13T23:44:21.138Z"
+  },
+  {
+    "objectId": "A7Z3Qou4KZ",
+    "name": "Burnt orange",
+    "hexCode": "CC5500",
+    "createdAt": "2019-12-13T23:44:21.138Z",
+    "updatedAt": "2019-12-13T23:44:21.138Z"
+  },
+  {
+    "objectId": "UaLvljI9kQ",
+    "name": "French raspberry",
+    "hexCode": "C72C48",
+    "createdAt": "2019-12-13T23:44:21.138Z",
+    "updatedAt": "2019-12-13T23:44:21.138Z"
+  },
+  {
+    "objectId": "lAWncOoL5W",
+    "name": "Aero blue",
+    "hexCode": "C9FFE5",
+    "createdAt": "2019-12-13T23:44:21.138Z",
+    "updatedAt": "2019-12-13T23:44:21.138Z"
+  },
+  {
+    "objectId": "Mo2kE05yco",
+    "name": "Bitter lemon",
+    "hexCode": "CAE00D",
+    "createdAt": "2019-12-13T23:44:21.138Z",
+    "updatedAt": "2019-12-13T23:44:21.138Z"
+  },
+  {
+    "objectId": "Gf3Q6mCBgi",
+    "name": "Cinnamon Satin",
+    "hexCode": "CD607E",
+    "createdAt": "2019-12-13T23:44:21.138Z",
+    "updatedAt": "2019-12-13T23:44:21.138Z"
+  },
+  {
+    "objectId": "jwTKINnMAV",
+    "name": "Bright maroon",
+    "hexCode": "C32148",
+    "createdAt": "2019-12-13T23:44:21.138Z",
+    "updatedAt": "2019-12-13T23:44:21.138Z"
+  },
+  {
+    "objectId": "2LM8qJuaBo",
+    "name": "Desert",
+    "hexCode": "C19A6B",
+    "createdAt": "2019-12-13T23:44:21.138Z",
+    "updatedAt": "2019-12-13T23:44:21.138Z"
+  },
+  {
+    "objectId": "wmRmCLKqkZ",
+    "name": "Fuchsia purple",
+    "hexCode": "CC397B",
+    "createdAt": "2019-12-13T23:44:21.138Z",
+    "updatedAt": "2019-12-13T23:44:21.138Z"
+  },
+  {
+    "objectId": "yMSdkqxoOn",
+    "name": "English vermillion",
+    "hexCode": "CC474B",
+    "createdAt": "2019-12-13T23:44:21.138Z",
+    "updatedAt": "2019-12-13T23:44:21.138Z"
+  },
+  {
+    "objectId": "vShXA4Szyh",
+    "name": "Antique brass",
+    "hexCode": "CD9575",
+    "createdAt": "2019-12-13T23:44:21.138Z",
+    "updatedAt": "2019-12-13T23:44:21.138Z"
+  },
+  {
+    "objectId": "y02boDo7lJ",
+    "name": "Bronze",
+    "hexCode": "CD7F32",
+    "createdAt": "2019-12-13T23:44:21.138Z",
+    "updatedAt": "2019-12-13T23:44:21.138Z"
+  },
+  {
+    "objectId": "XJMG5tDbA8",
+    "name": "Electric lime",
+    "hexCode": "CCFF00",
+    "createdAt": "2019-12-13T23:44:21.138Z",
+    "updatedAt": "2019-12-13T23:44:21.138Z"
+  },
+  {
+    "objectId": "gG4ODhqAdX",
+    "name": "Fuchsia rose",
+    "hexCode": "C74375",
+    "createdAt": "2019-12-13T23:44:21.138Z",
+    "updatedAt": "2019-12-13T23:44:21.138Z"
+  },
+  {
+    "objectId": "cnrkoTnXmC",
+    "name": "Brick red",
+    "hexCode": "CB4154",
+    "createdAt": "2019-12-13T23:44:21.138Z",
+    "updatedAt": "2019-12-13T23:44:21.138Z"
+  },
+  {
+    "objectId": "DPhJlQJ3F0",
+    "name": "Alloy orange",
+    "hexCode": "C46210",
+    "createdAt": "2019-12-13T23:44:21.138Z",
+    "updatedAt": "2019-12-13T23:44:21.138Z"
+  },
+  {
+    "objectId": "G6tHahOUj3",
+    "name": "Copper red",
+    "hexCode": "CB6D51",
+    "createdAt": "2019-12-13T23:44:21.138Z",
+    "updatedAt": "2019-12-13T23:44:21.138Z"
+  },
+  {
+    "objectId": "Tzk1s5R0XO",
+    "name": "Cardinal",
+    "hexCode": "C41E3A",
+    "createdAt": "2019-12-13T23:44:21.138Z",
+    "updatedAt": "2019-12-13T23:44:21.138Z"
+  },
+  {
+    "objectId": "hR9EsAOTPu",
+    "name": "Bitter lime",
+    "hexCode": "BFFF00",
+    "createdAt": "2019-12-13T23:44:21.210Z",
+    "updatedAt": "2019-12-13T23:44:21.210Z"
+  },
+  {
+    "objectId": "IEpEO0szLD",
+    "name": "English lavender",
+    "hexCode": "B48395",
+    "createdAt": "2019-12-13T23:44:21.211Z",
+    "updatedAt": "2019-12-13T23:44:21.211Z"
+  },
+  {
+    "objectId": "AiqWHIldaI",
+    "name": "Celeste",
+    "hexCode": "B2FFFF",
+    "createdAt": "2019-12-13T23:44:21.211Z",
+    "updatedAt": "2019-12-13T23:44:21.211Z"
+  },
+  {
+    "objectId": "rWvW6yNAeR",
+    "name": "Dark khaki",
+    "hexCode": "BDB76B",
+    "createdAt": "2019-12-13T23:44:21.211Z",
+    "updatedAt": "2019-12-13T23:44:21.211Z"
+  },
+  {
+    "objectId": "0XCyXVIDyx",
+    "name": "Fallow",
+    "hexCode": "C19A6B",
+    "createdAt": "2019-12-13T23:44:21.210Z",
+    "updatedAt": "2019-12-13T23:44:21.210Z"
+  },
+  {
+    "objectId": "J7yYBVyexB",
+    "name": "Fuchsia (Crayola)",
+    "hexCode": "C154C1",
+    "createdAt": "2019-12-13T23:44:21.210Z",
+    "updatedAt": "2019-12-13T23:44:21.210Z"
+  },
+  {
+    "objectId": "BhrOQeUTEj",
+    "name": "Ecru",
+    "hexCode": "C2B280",
+    "createdAt": "2019-12-13T23:44:21.210Z",
+    "updatedAt": "2019-12-13T23:44:21.210Z"
+  },
+  {
+    "objectId": "uramfD0ZsU",
+    "name": "Bittersweet shimmer",
+    "hexCode": "BF4F51",
+    "createdAt": "2019-12-13T23:44:21.210Z",
+    "updatedAt": "2019-12-13T23:44:21.210Z"
+  },
+  {
+    "objectId": "rLZnPitdD0",
+    "name": "Beau blue",
+    "hexCode": "BCD4E6",
+    "createdAt": "2019-12-13T23:44:21.210Z",
+    "updatedAt": "2019-12-13T23:44:21.210Z"
+  },
+  {
+    "objectId": "XVq2EcBE67",
+    "name": "Black Shadows",
+    "hexCode": "BFAFB2",
+    "createdAt": "2019-12-13T23:44:21.210Z",
+    "updatedAt": "2019-12-13T23:44:21.210Z"
+  },
+  {
+    "objectId": "NAbfFf8UKB",
+    "name": "Electric purple",
+    "hexCode": "BF00FF",
+    "createdAt": "2019-12-13T23:44:21.210Z",
+    "updatedAt": "2019-12-13T23:44:21.210Z"
+  },
+  {
+    "objectId": "TRL5ZovrJ2",
+    "name": "Byzantine",
+    "hexCode": "BD33A4",
+    "createdAt": "2019-12-13T23:44:21.210Z",
+    "updatedAt": "2019-12-13T23:44:21.210Z"
+  },
+  {
+    "objectId": "aEzZ6nscbq",
+    "name": "Columbia Blue",
+    "hexCode": "B9D9EB",
+    "createdAt": "2019-12-13T23:44:21.211Z",
+    "updatedAt": "2019-12-13T23:44:21.211Z"
+  },
+  {
+    "objectId": "isHVHGiC8h",
+    "name": "Dark goldenrod",
+    "hexCode": "B8860B",
+    "createdAt": "2019-12-13T23:44:21.211Z",
+    "updatedAt": "2019-12-13T23:44:21.211Z"
+  },
+  {
+    "objectId": "wnGuYnO9IS",
+    "name": "Copper",
+    "hexCode": "B87333",
+    "createdAt": "2019-12-13T23:44:21.211Z",
+    "updatedAt": "2019-12-13T23:44:21.211Z"
+  },
+  {
+    "objectId": "DCusqRKh93",
+    "name": "Deep chestnut",
+    "hexCode": "B94E48",
+    "createdAt": "2019-12-13T23:44:21.211Z",
+    "updatedAt": "2019-12-13T23:44:21.211Z"
+  },
+  {
+    "objectId": "HD5RqI27Fn",
+    "name": "Carnelian",
+    "hexCode": "B31B1B",
+    "createdAt": "2019-12-13T23:44:21.211Z",
+    "updatedAt": "2019-12-13T23:44:21.211Z"
+  },
+  {
+    "objectId": "hFEWNWbkPN",
+    "name": "African violet",
+    "hexCode": "B284BE",
+    "createdAt": "2019-12-13T23:44:21.211Z",
+    "updatedAt": "2019-12-13T23:44:21.211Z"
+  },
+  {
+    "objectId": "e3fneaIWRG",
+    "name": "Fandango",
+    "hexCode": "B53389",
+    "createdAt": "2019-12-13T23:44:21.211Z",
+    "updatedAt": "2019-12-13T23:44:21.211Z"
+  },
+  {
+    "objectId": "m9xFE1HEvo",
+    "name": "Ash gray",
+    "hexCode": "B2BEB5",
+    "createdAt": "2019-12-13T23:44:21.211Z",
+    "updatedAt": "2019-12-13T23:44:21.211Z"
+  },
+  {
+    "objectId": "Fvv4XRwG1T",
+    "name": "Copper penny",
+    "hexCode": "AD6F69",
+    "createdAt": "2019-12-13T23:44:21.582Z",
+    "updatedAt": "2019-12-13T23:44:21.582Z"
+  },
+  {
+    "objectId": "bq8Vbk0ASj",
+    "name": "Auburn",
+    "hexCode": "A52A2A",
+    "createdAt": "2019-12-13T23:44:21.582Z",
+    "updatedAt": "2019-12-13T23:44:21.582Z"
+  },
+  {
+    "objectId": "eFfuZCCk1H",
+    "name": "Celadon",
+    "hexCode": "ACE1AF",
+    "createdAt": "2019-12-13T23:44:21.582Z",
+    "updatedAt": "2019-12-13T23:44:21.582Z"
+  },
+  {
+    "objectId": "F0nTcwK922",
+    "name": "Acid green",
+    "hexCode": "B0BF1A",
+    "createdAt": "2019-12-13T23:44:21.582Z",
+    "updatedAt": "2019-12-13T23:44:21.582Z"
+  },
+  {
+    "objectId": "zeJK2qSI5k",
+    "name": "Amaranth purple",
+    "hexCode": "AB274F",
+    "createdAt": "2019-12-13T23:44:21.582Z",
+    "updatedAt": "2019-12-13T23:44:21.582Z"
+  },
+  {
+    "objectId": "HQbFiFRaeN",
+    "name": "Brown sugar",
+    "hexCode": "AF6E4D",
+    "createdAt": "2019-12-13T23:44:21.582Z",
+    "updatedAt": "2019-12-13T23:44:21.582Z"
+  },
+  {
+    "objectId": "LKwMdvr3YF",
+    "name": "Blue bell",
+    "hexCode": "A2A2D0",
+    "createdAt": "2019-12-13T23:44:21.583Z",
+    "updatedAt": "2019-12-13T23:44:21.583Z"
+  },
+  {
+    "objectId": "4zJgo4PEIl",
+    "name": "Firebrick",
+    "hexCode": "B22222",
+    "createdAt": "2019-12-13T23:44:21.582Z",
+    "updatedAt": "2019-12-13T23:44:21.582Z"
+  },
+  {
+    "objectId": "6nWcNzNjuV",
+    "name": "Chinese red",
+    "hexCode": "AA381E",
+    "createdAt": "2019-12-13T23:44:21.582Z",
+    "updatedAt": "2019-12-13T23:44:21.582Z"
+  },
+  {
+    "objectId": "DwJWRCBADt",
+    "name": "English red",
+    "hexCode": "AB4B52",
+    "createdAt": "2019-12-13T23:44:21.582Z",
+    "updatedAt": "2019-12-13T23:44:21.582Z"
+  },
+  {
+    "objectId": "mxwNjL6crG",
+    "name": "Café au lait",
+    "hexCode": "A67B5B",
+    "createdAt": "2019-12-13T23:44:21.582Z",
+    "updatedAt": "2019-12-13T23:44:21.582Z"
+  },
+  {
+    "objectId": "oYH1hkDzHu",
+    "name": "Cadet blue (Crayola)",
+    "hexCode": "A9B2C3",
+    "createdAt": "2019-12-13T23:44:21.582Z",
+    "updatedAt": "2019-12-13T23:44:21.582Z"
+  },
+  {
+    "objectId": "Ud6YndAn87",
+    "name": "Blizzard blue",
+    "hexCode": "ACE5EE",
+    "createdAt": "2019-12-13T23:44:21.582Z",
+    "updatedAt": "2019-12-13T23:44:21.582Z"
+  },
+  {
+    "objectId": "QEpRulIvCK",
+    "name": "China rose",
+    "hexCode": "A8516E",
+    "createdAt": "2019-12-13T23:44:21.582Z",
+    "updatedAt": "2019-12-13T23:44:21.582Z"
+  },
+  {
+    "objectId": "GrGfXNDQ6Y",
+    "name": "French beige",
+    "hexCode": "A67B5B",
+    "createdAt": "2019-12-13T23:44:21.582Z",
+    "updatedAt": "2019-12-13T23:44:21.582Z"
+  },
+  {
+    "objectId": "gTJYPuNazN",
+    "name": "Blast-off bronze",
+    "hexCode": "A57164",
+    "createdAt": "2019-12-13T23:44:21.582Z",
+    "updatedAt": "2019-12-13T23:44:21.582Z"
+  },
+  {
+    "objectId": "B3dhSlI0r4",
+    "name": "Flirt",
+    "hexCode": "A2006D",
+    "createdAt": "2019-12-13T23:44:21.583Z",
+    "updatedAt": "2019-12-13T23:44:21.583Z"
+  },
+  {
+    "objectId": "lxXmKtDXkS",
+    "name": "Android green",
+    "hexCode": "A4C639",
+    "createdAt": "2019-12-13T23:44:21.582Z",
+    "updatedAt": "2019-12-13T23:44:21.582Z"
+  },
+  {
+    "objectId": "1kWZkFRzbh",
+    "name": "Cambridge blue",
+    "hexCode": "A3C1AD",
+    "createdAt": "2019-12-13T23:44:21.583Z",
+    "updatedAt": "2019-12-13T23:44:21.583Z"
+  },
+  {
+    "objectId": "1uy6DstFEa",
+    "name": "Baby blue eyes",
+    "hexCode": "A1CAF1",
+    "createdAt": "2019-12-13T23:44:21.583Z",
+    "updatedAt": "2019-12-13T23:44:21.583Z"
+  },
+  {
+    "objectId": "lyVPACqwjE",
+    "name": "Amaranth (M&P)",
+    "hexCode": "9F2B68",
+    "createdAt": "2019-12-13T23:44:21.765Z",
+    "updatedAt": "2019-12-13T23:44:21.765Z"
+  },
+  {
+    "objectId": "iZG5Mg1Mor",
+    "name": "Cinereous",
+    "hexCode": "98817B",
+    "createdAt": "2019-12-13T23:44:21.765Z",
+    "updatedAt": "2019-12-13T23:44:21.765Z"
+  },
+  {
+    "objectId": "vCn1WIOeoV",
+    "name": "Drab",
+    "hexCode": "967117",
+    "createdAt": "2019-12-13T23:44:21.765Z",
+    "updatedAt": "2019-12-13T23:44:21.765Z"
+  },
+  {
+    "objectId": "0D1Ct58jos",
+    "name": "Citron",
+    "hexCode": "9FA91F",
+    "createdAt": "2019-12-13T23:44:21.765Z",
+    "updatedAt": "2019-12-13T23:44:21.765Z"
+  },
+  {
+    "objectId": "PHyhixzDEX",
+    "name": "Beaver",
+    "hexCode": "9F8170",
+    "createdAt": "2019-12-13T23:44:21.765Z",
+    "updatedAt": "2019-12-13T23:44:21.765Z"
+  },
+  {
+    "objectId": "X69ISKbQfq",
+    "name": "Crimson (UA)",
+    "hexCode": "9E1B32",
+    "createdAt": "2019-12-13T23:44:21.765Z",
+    "updatedAt": "2019-12-13T23:44:21.765Z"
+  },
+  {
+    "objectId": "mCm149o4TP",
+    "name": "Cadet grey",
+    "hexCode": "91A3B0",
+    "createdAt": "2019-12-13T23:44:21.765Z",
+    "updatedAt": "2019-12-13T23:44:21.765Z"
+  },
+  {
+    "objectId": "8RcAXxeEPt",
+    "name": "Burnished brown",
+    "hexCode": "A17A74",
+    "createdAt": "2019-12-13T23:44:21.765Z",
+    "updatedAt": "2019-12-13T23:44:21.765Z"
+  },
+  {
+    "objectId": "etq9XCE5Nl",
+    "name": "Big dip o’ruby",
+    "hexCode": "9C2542",
+    "createdAt": "2019-12-13T23:44:21.765Z",
+    "updatedAt": "2019-12-13T23:44:21.765Z"
+  },
+  {
+    "objectId": "gI6GZaNfQa",
+    "name": "French lime",
+    "hexCode": "9EFD38",
+    "createdAt": "2019-12-13T23:44:21.765Z",
+    "updatedAt": "2019-12-13T23:44:21.765Z"
+  },
+  {
+    "objectId": "vdZHHsID17",
+    "name": "Amethyst",
+    "hexCode": "9966CC",
+    "createdAt": "2019-12-13T23:44:21.765Z",
+    "updatedAt": "2019-12-13T23:44:21.765Z"
+  },
+  {
+    "objectId": "25hUCrdsnF",
+    "name": "Copper rose",
+    "hexCode": "996666",
+    "createdAt": "2019-12-13T23:44:21.765Z",
+    "updatedAt": "2019-12-13T23:44:21.765Z"
+  },
+  {
+    "objectId": "YPnSm0uEPd",
+    "name": "Eton blue",
+    "hexCode": "96C8A2",
+    "createdAt": "2019-12-13T23:44:21.765Z",
+    "updatedAt": "2019-12-13T23:44:21.765Z"
+  },
+  {
+    "objectId": "G2NsvDonbU",
+    "name": "Carmine",
+    "hexCode": "960018",
+    "createdAt": "2019-12-13T23:44:21.765Z",
+    "updatedAt": "2019-12-13T23:44:21.765Z"
+  },
+  {
+    "objectId": "rZfKS7A1EM",
+    "name": "Bistre brown",
+    "hexCode": "967117",
+    "createdAt": "2019-12-13T23:44:21.765Z",
+    "updatedAt": "2019-12-13T23:44:21.765Z"
+  },
+  {
+    "objectId": "HbuUNXQnbi",
+    "name": "Dark orchid",
+    "hexCode": "9932CC",
+    "createdAt": "2019-12-13T23:44:21.765Z",
+    "updatedAt": "2019-12-13T23:44:21.765Z"
+  },
+  {
+    "objectId": "UxmO0WH3dU",
+    "name": "Dark violet",
+    "hexCode": "9400D3",
+    "createdAt": "2019-12-13T23:44:21.765Z",
+    "updatedAt": "2019-12-13T23:44:21.765Z"
+  },
+  {
+    "objectId": "q3foRBmDvq",
+    "name": "Artichoke",
+    "hexCode": "8F9779",
+    "createdAt": "2019-12-13T23:44:21.766Z",
+    "updatedAt": "2019-12-13T23:44:21.766Z"
+  },
+  {
+    "objectId": "zCy9yYNiwk",
+    "name": "Chestnut",
+    "hexCode": "954535",
+    "createdAt": "2019-12-13T23:44:21.765Z",
+    "updatedAt": "2019-12-13T23:44:21.765Z"
+  },
+  {
+    "objectId": "XXYdZjKXLV",
+    "name": "Antique fuchsia",
+    "hexCode": "915C83",
+    "createdAt": "2019-12-13T23:44:21.765Z",
+    "updatedAt": "2019-12-13T23:44:21.765Z"
+  },
+  {
+    "objectId": "ne9C0yn2N9",
+    "name": "Dark sea green",
+    "hexCode": "8FBC8F",
+    "createdAt": "2019-12-13T23:44:21.965Z",
+    "updatedAt": "2019-12-13T23:44:21.965Z"
+  },
+  {
+    "objectId": "SsFWuKPWS5",
+    "name": "Baby blue",
+    "hexCode": "89CFF0",
+    "createdAt": "2019-12-13T23:44:21.965Z",
+    "updatedAt": "2019-12-13T23:44:21.965Z"
+  },
+  {
+    "objectId": "TE6hPlbctf",
+    "name": "Cool grey",
+    "hexCode": "8C92AC",
+    "createdAt": "2019-12-13T23:44:21.965Z",
+    "updatedAt": "2019-12-13T23:44:21.965Z"
+  },
+  {
+    "objectId": "ffzspMm9C3",
+    "name": "Dark magenta",
+    "hexCode": "8B008B",
+    "createdAt": "2019-12-13T23:44:21.965Z",
+    "updatedAt": "2019-12-13T23:44:21.965Z"
+  },
+  {
+    "objectId": "x9RwCV9MJp",
+    "name": "Cordovan",
+    "hexCode": "893F45",
+    "createdAt": "2019-12-13T23:44:21.965Z",
+    "updatedAt": "2019-12-13T23:44:21.965Z"
+  },
+  {
+    "objectId": "5uqqbuUKhr",
+    "name": "Dark sky blue",
+    "hexCode": "8CBED6",
+    "createdAt": "2019-12-13T23:44:21.965Z",
+    "updatedAt": "2019-12-13T23:44:21.965Z"
+  },
+  {
+    "objectId": "DVPknfUKAp",
+    "name": "Apple green",
+    "hexCode": "8DB600",
+    "createdAt": "2019-12-13T23:44:21.965Z",
+    "updatedAt": "2019-12-13T23:44:21.965Z"
+  },
+  {
+    "objectId": "Pn4WXNfubO",
+    "name": "Brown",
+    "hexCode": "88540B",
+    "createdAt": "2019-12-13T23:44:21.965Z",
+    "updatedAt": "2019-12-13T23:44:21.965Z"
+  },
+  {
+    "objectId": "MSzDpalECx",
+    "name": "Asparagus",
+    "hexCode": "87A96B",
+    "createdAt": "2019-12-13T23:44:21.965Z",
+    "updatedAt": "2019-12-13T23:44:21.965Z"
+  },
+  {
+    "objectId": "CirAfoY6U5",
+    "name": "Brandy",
+    "hexCode": "87413F",
+    "createdAt": "2019-12-13T23:44:21.965Z",
+    "updatedAt": "2019-12-13T23:44:21.965Z"
+  },
+  {
+    "objectId": "HhTab6E9XX",
+    "name": "Electric violet",
+    "hexCode": "8F00FF",
+    "createdAt": "2019-12-13T23:44:21.965Z",
+    "updatedAt": "2019-12-13T23:44:21.965Z"
+  },
+  {
+    "objectId": "M6Q5kWMRjY",
+    "name": "Blue-violet",
+    "hexCode": "8A2BE2",
+    "createdAt": "2019-12-13T23:44:21.965Z",
+    "updatedAt": "2019-12-13T23:44:21.965Z"
+  },
+  {
+    "objectId": "wuoiNsLrW6",
+    "name": "Burnt umber",
+    "hexCode": "8A3324",
+    "createdAt": "2019-12-13T23:44:21.965Z",
+    "updatedAt": "2019-12-13T23:44:21.965Z"
+  },
+  {
+    "objectId": "2uHEJwZDYO",
+    "name": "Dark red",
+    "hexCode": "8B0000",
+    "createdAt": "2019-12-13T23:44:21.965Z",
+    "updatedAt": "2019-12-13T23:44:21.965Z"
+  },
+  {
+    "objectId": "IKHqkLmQQA",
+    "name": "French violet",
+    "hexCode": "8806CE",
+    "createdAt": "2019-12-13T23:44:21.965Z",
+    "updatedAt": "2019-12-13T23:44:21.965Z"
+  },
+  {
+    "objectId": "d6z6mULzMP",
+    "name": "French lilac",
+    "hexCode": "86608E",
+    "createdAt": "2019-12-13T23:44:21.965Z",
+    "updatedAt": "2019-12-13T23:44:21.965Z"
+  },
+  {
+    "objectId": "hZWwNBmR41",
+    "name": "Fuzzy Wuzzy",
+    "hexCode": "87421F",
+    "createdAt": "2019-12-13T23:44:21.965Z",
+    "updatedAt": "2019-12-13T23:44:21.965Z"
+  },
+  {
+    "objectId": "ySgWj3Aw8J",
+    "name": "Antique ruby",
+    "hexCode": "841B2D",
+    "createdAt": "2019-12-13T23:44:21.965Z",
+    "updatedAt": "2019-12-13T23:44:21.965Z"
+  },
+  {
+    "objectId": "wHBIaClPdB",
+    "name": "Battleship grey",
+    "hexCode": "848482",
+    "createdAt": "2019-12-13T23:44:21.965Z",
+    "updatedAt": "2019-12-13T23:44:21.965Z"
+  },
+  {
+    "objectId": "QlHXJ6zzag",
+    "name": "Chinese violet",
+    "hexCode": "856088",
+    "createdAt": "2019-12-13T23:44:21.965Z",
+    "updatedAt": "2019-12-13T23:44:21.965Z"
+  },
+  {
+    "objectId": "HOiKW4BDLP",
+    "name": "Chartreuse (web)",
+    "hexCode": "7FFF00",
+    "createdAt": "2019-12-13T23:44:22.212Z",
+    "updatedAt": "2019-12-13T23:44:22.212Z"
+  },
+  {
+    "objectId": "1qaBnNk7Op",
+    "name": "Aero",
+    "hexCode": "7CB9E8",
+    "createdAt": "2019-12-13T23:44:22.212Z",
+    "updatedAt": "2019-12-13T23:44:22.212Z"
+  },
+  {
+    "objectId": "rOfM8ZGV3w",
+    "name": "Coyote brown",
+    "hexCode": "81613C",
+    "createdAt": "2019-12-13T23:44:22.212Z",
+    "updatedAt": "2019-12-13T23:44:22.212Z"
+  },
+  {
+    "objectId": "yYoatCnExq",
+    "name": "Byzantium",
+    "hexCode": "702963",
+    "createdAt": "2019-12-13T23:44:22.212Z",
+    "updatedAt": "2019-12-13T23:44:22.212Z"
+  },
+  {
+    "objectId": "BL5YoxUyH9",
+    "name": "Chocolate (traditional)",
+    "hexCode": "7B3F00",
+    "createdAt": "2019-12-13T23:44:22.212Z",
+    "updatedAt": "2019-12-13T23:44:22.212Z"
+  },
+  {
+    "objectId": "jVG5MgfGqn",
+    "name": "Aquamarine",
+    "hexCode": "7FFFD4",
+    "createdAt": "2019-12-13T23:44:22.212Z",
+    "updatedAt": "2019-12-13T23:44:22.212Z"
+  },
+  {
+    "objectId": "tz0QE0BmDs",
+    "name": "French bistre",
+    "hexCode": "856D4D",
+    "createdAt": "2019-12-13T23:44:22.212Z",
+    "updatedAt": "2019-12-13T23:44:22.212Z"
+  },
+  {
+    "objectId": "7MjsqODmZg",
+    "name": "Burgundy",
+    "hexCode": "800020",
+    "createdAt": "2019-12-13T23:44:22.212Z",
+    "updatedAt": "2019-12-13T23:44:22.212Z"
+  },
+  {
+    "objectId": "f2nz8B2EwY",
+    "name": "Deep taupe",
+    "hexCode": "7E5E60",
+    "createdAt": "2019-12-13T23:44:22.212Z",
+    "updatedAt": "2019-12-13T23:44:22.212Z"
+  },
+  {
+    "objectId": "kfBpZzSuW0",
+    "name": "Falu red",
+    "hexCode": "801818",
+    "createdAt": "2019-12-13T23:44:22.212Z",
+    "updatedAt": "2019-12-13T23:44:22.212Z"
+  },
+  {
+    "objectId": "XcK0mhOb94",
+    "name": "Barn red",
+    "hexCode": "7C0A02",
+    "createdAt": "2019-12-13T23:44:22.212Z",
+    "updatedAt": "2019-12-13T23:44:22.212Z"
+  },
+  {
+    "objectId": "31U9fX86AB",
+    "name": "Claret",
+    "hexCode": "7F1734",
+    "createdAt": "2019-12-13T23:44:22.212Z",
+    "updatedAt": "2019-12-13T23:44:22.212Z"
+  },
+  {
+    "objectId": "s0jbJPEB9C",
+    "name": "French sky blue",
+    "hexCode": "77B5FE",
+    "createdAt": "2019-12-13T23:44:22.212Z",
+    "updatedAt": "2019-12-13T23:44:22.212Z"
+  },
+  {
+    "objectId": "ezEdWE1cF5",
+    "name": "Electric blue",
+    "hexCode": "7DF9FF",
+    "createdAt": "2019-12-13T23:44:22.212Z",
+    "updatedAt": "2019-12-13T23:44:22.212Z"
+  },
+  {
+    "objectId": "o83xUJaaMA",
+    "name": "Bole",
+    "hexCode": "79443B",
+    "createdAt": "2019-12-13T23:44:22.212Z",
+    "updatedAt": "2019-12-13T23:44:22.212Z"
+  },
+  {
+    "objectId": "F7tXB7kblL",
+    "name": "Coffee",
+    "hexCode": "6F4E37",
+    "createdAt": "2019-12-13T23:44:22.212Z",
+    "updatedAt": "2019-12-13T23:44:22.212Z"
+  },
+  {
+    "objectId": "y7QOGwVlUu",
+    "name": "Air superiority blue",
+    "hexCode": "72A0C1",
+    "createdAt": "2019-12-13T23:44:22.212Z",
+    "updatedAt": "2019-12-13T23:44:22.212Z"
+  },
+  {
+    "objectId": "Hxs0fOEEk7",
+    "name": "Blue-violet (Crayola)",
+    "hexCode": "7366BD",
+    "createdAt": "2019-12-13T23:44:22.212Z",
+    "updatedAt": "2019-12-13T23:44:22.212Z"
+  },
+  {
+    "objectId": "wc96lmqVvB",
+    "name": "Bud green",
+    "hexCode": "7BB661",
+    "createdAt": "2019-12-13T23:44:22.212Z",
+    "updatedAt": "2019-12-13T23:44:22.212Z"
+  },
+  {
+    "objectId": "07WCu2aEsX",
+    "name": "Catawba",
+    "hexCode": "703642",
+    "createdAt": "2019-12-13T23:44:22.212Z",
+    "updatedAt": "2019-12-13T23:44:22.212Z"
+  },
+  {
+    "objectId": "HQrUxBohBD",
+    "name": "Cornflower blue",
+    "hexCode": "6495ED",
+    "createdAt": "2019-12-13T23:44:22.404Z",
+    "updatedAt": "2019-12-13T23:44:22.404Z"
+  },
+  {
+    "objectId": "deveFNqxz5",
+    "name": "Electric indigo",
+    "hexCode": "6F00FF",
+    "createdAt": "2019-12-13T23:44:22.404Z",
+    "updatedAt": "2019-12-13T23:44:22.404Z"
+  },
+  {
+    "objectId": "Io2tSfK1Ut",
+    "name": "Eminence",
+    "hexCode": "6C3082",
+    "createdAt": "2019-12-13T23:44:22.404Z",
+    "updatedAt": "2019-12-13T23:44:22.404Z"
+  },
+  {
+    "objectId": "pie5pxQCAg",
+    "name": "Blue-gray",
+    "hexCode": "6699CC",
+    "createdAt": "2019-12-13T23:44:22.404Z",
+    "updatedAt": "2019-12-13T23:44:22.404Z"
+  },
+  {
+    "objectId": "hOtrdeNfgC",
+    "name": "Field drab",
+    "hexCode": "6C541E",
+    "createdAt": "2019-12-13T23:44:22.404Z",
+    "updatedAt": "2019-12-13T23:44:22.404Z"
+  },
+  {
+    "objectId": "qLvVzhMuFH",
+    "name": "Blood red",
+    "hexCode": "660000",
+    "createdAt": "2019-12-13T23:44:22.404Z",
+    "updatedAt": "2019-12-13T23:44:22.404Z"
+  },
+  {
+    "objectId": "vGGfYuMPVG",
+    "name": "Cerulean frost",
+    "hexCode": "6D9BC3",
+    "createdAt": "2019-12-13T23:44:22.404Z",
+    "updatedAt": "2019-12-13T23:44:22.404Z"
+  },
+  {
+    "objectId": "EY2su3vujt",
+    "name": "Dim gray",
+    "hexCode": "696969",
+    "createdAt": "2019-12-13T23:44:22.404Z",
+    "updatedAt": "2019-12-13T23:44:22.404Z"
+  },
+  {
+    "objectId": "FVujkrW8KB",
+    "name": "Bright green",
+    "hexCode": "66FF00",
+    "createdAt": "2019-12-13T23:44:22.404Z",
+    "updatedAt": "2019-12-13T23:44:22.404Z"
+  },
+  {
+    "objectId": "iIbTfGp6MQ",
+    "name": "Cadet blue",
+    "hexCode": "5F9EA0",
+    "createdAt": "2019-12-13T23:44:22.404Z",
+    "updatedAt": "2019-12-13T23:44:22.404Z"
+  },
+  {
+    "objectId": "MSBkzQpN0c",
+    "name": "Dark blue-gray",
+    "hexCode": "666699",
+    "createdAt": "2019-12-13T23:44:22.404Z",
+    "updatedAt": "2019-12-13T23:44:22.404Z"
+  },
+  {
+    "objectId": "05oABS0gSA",
+    "name": "Cyber grape",
+    "hexCode": "58427C",
+    "createdAt": "2019-12-13T23:44:22.404Z",
+    "updatedAt": "2019-12-13T23:44:22.404Z"
+  },
+  {
+    "objectId": "RlA7NVx2sF",
+    "name": "Caput mortuum",
+    "hexCode": "592720",
+    "createdAt": "2019-12-13T23:44:22.404Z",
+    "updatedAt": "2019-12-13T23:44:22.404Z"
+  },
+  {
+    "objectId": "hPFnRkIDrv",
+    "name": "Eggplant",
+    "hexCode": "614051",
+    "createdAt": "2019-12-13T23:44:22.404Z",
+    "updatedAt": "2019-12-13T23:44:22.404Z"
+  },
+  {
+    "objectId": "uAgImAycRZ",
+    "name": "Dark byzantium",
+    "hexCode": "5D3954",
+    "createdAt": "2019-12-13T23:44:22.404Z",
+    "updatedAt": "2019-12-13T23:44:22.404Z"
+  },
+  {
+    "objectId": "H8smN8b8Ce",
+    "name": "Antique bronze",
+    "hexCode": "665D1E",
+    "createdAt": "2019-12-13T23:44:22.404Z",
+    "updatedAt": "2019-12-13T23:44:22.404Z"
+  },
+  {
+    "objectId": "UCOBjHFkdE",
+    "name": "Forest green (Crayola)",
+    "hexCode": "5FA777",
+    "createdAt": "2019-12-13T23:44:22.404Z",
+    "updatedAt": "2019-12-13T23:44:22.404Z"
+  },
+  {
+    "objectId": "NIDPbmVIR2",
+    "name": "Dark brown",
+    "hexCode": "654321",
+    "createdAt": "2019-12-13T23:44:22.404Z",
+    "updatedAt": "2019-12-13T23:44:22.404Z"
+  },
+  {
+    "objectId": "EcTUeByto2",
+    "name": "Avocado",
+    "hexCode": "568203",
+    "createdAt": "2019-12-13T23:44:22.404Z",
+    "updatedAt": "2019-12-13T23:44:22.404Z"
+  },
+  {
+    "objectId": "Bj8dDYKNcD",
+    "name": "Blue jeans",
+    "hexCode": "5DADEC",
+    "createdAt": "2019-12-13T23:44:22.404Z",
+    "updatedAt": "2019-12-13T23:44:22.404Z"
+  },
+  {
+    "objectId": "G5qjMNwrtn",
+    "name": "Dark electric blue",
+    "hexCode": "536878",
+    "createdAt": "2019-12-13T23:44:22.691Z",
+    "updatedAt": "2019-12-13T23:44:22.691Z"
+  },
+  {
+    "objectId": "uRjEzSADGq",
+    "name": "Dark liver (horses)",
+    "hexCode": "543D37",
+    "createdAt": "2019-12-13T23:44:22.691Z",
+    "updatedAt": "2019-12-13T23:44:22.691Z"
+  },
+  {
+    "objectId": "GsgFBJCXZt",
+    "name": "Café noir",
+    "hexCode": "4B3621",
+    "createdAt": "2019-12-13T23:44:22.691Z",
+    "updatedAt": "2019-12-13T23:44:22.691Z"
+  },
+  {
+    "objectId": "FywFXOSkHR",
+    "name": "Emerald",
+    "hexCode": "50C878",
+    "createdAt": "2019-12-13T23:44:22.691Z",
+    "updatedAt": "2019-12-13T23:44:22.691Z"
+  },
+  {
+    "objectId": "Q6pxbRV3uS",
+    "name": "Carolina blue",
+    "hexCode": "56A0D3",
+    "createdAt": "2019-12-13T23:44:22.691Z",
+    "updatedAt": "2019-12-13T23:44:22.691Z"
+  },
+  {
+    "objectId": "4K7fGthmkv",
+    "name": "Cadet",
+    "hexCode": "536872",
+    "createdAt": "2019-12-13T23:44:22.691Z",
+    "updatedAt": "2019-12-13T23:44:22.691Z"
+  },
+  {
+    "objectId": "Dwr3CtU7fI",
+    "name": "Dark liver",
+    "hexCode": "534B4F",
+    "createdAt": "2019-12-13T23:44:22.691Z",
+    "updatedAt": "2019-12-13T23:44:22.691Z"
+  },
+  {
+    "objectId": "kUFlxiO4J2",
+    "name": "English violet",
+    "hexCode": "563C5C",
+    "createdAt": "2019-12-13T23:44:22.691Z",
+    "updatedAt": "2019-12-13T23:44:22.691Z"
+  },
+  {
+    "objectId": "PQM8ipOScF",
+    "name": "Dark olive green",
+    "hexCode": "556B2F",
+    "createdAt": "2019-12-13T23:44:22.691Z",
+    "updatedAt": "2019-12-13T23:44:22.691Z"
+  },
+  {
+    "objectId": "vlXegmgTj8",
+    "name": "Black coral",
+    "hexCode": "54626F",
+    "createdAt": "2019-12-13T23:44:22.691Z",
+    "updatedAt": "2019-12-13T23:44:22.691Z"
+  },
+  {
+    "objectId": "NAWPjwep28",
+    "name": "Blue yonder",
+    "hexCode": "5072A7",
+    "createdAt": "2019-12-13T23:44:22.691Z",
+    "updatedAt": "2019-12-13T23:44:22.691Z"
+  },
+  {
+    "objectId": "cE2NTOpka8",
+    "name": "Ebony",
+    "hexCode": "555D50",
+    "createdAt": "2019-12-13T23:44:22.691Z",
+    "updatedAt": "2019-12-13T23:44:22.691Z"
+  },
+  {
+    "objectId": "ba4TK02TOA",
+    "name": "Davy's grey",
+    "hexCode": "555555",
+    "createdAt": "2019-12-13T23:44:22.691Z",
+    "updatedAt": "2019-12-13T23:44:22.691Z"
+  },
+  {
+    "objectId": "GqPk7hX9co",
+    "name": "Army green",
+    "hexCode": "4B5320",
+    "createdAt": "2019-12-13T23:44:22.691Z",
+    "updatedAt": "2019-12-13T23:44:22.691Z"
+  },
+  {
+    "objectId": "lAD4CO0WK6",
+    "name": "Feldgrau",
+    "hexCode": "4D5D53",
+    "createdAt": "2019-12-13T23:44:22.691Z",
+    "updatedAt": "2019-12-13T23:44:22.691Z"
+  },
+  {
+    "objectId": "rZlr3GwRiz",
+    "name": "Fern green",
+    "hexCode": "4F7942",
+    "createdAt": "2019-12-13T23:44:22.691Z",
+    "updatedAt": "2019-12-13T23:44:22.691Z"
+  },
+  {
+    "objectId": "11GELMOs9k",
+    "name": "Dark moss green",
+    "hexCode": "4A5D23",
+    "createdAt": "2019-12-13T23:44:22.691Z",
+    "updatedAt": "2019-12-13T23:44:22.691Z"
+  },
+  {
+    "objectId": "KRCDOMRRd0",
+    "name": "Dark lava",
+    "hexCode": "483C32",
+    "createdAt": "2019-12-13T23:44:22.691Z",
+    "updatedAt": "2019-12-13T23:44:22.691Z"
+  },
+  {
+    "objectId": "sIG9Gw8wo0",
+    "name": "Blue-violet (color wheel)",
+    "hexCode": "4D1A7F",
+    "createdAt": "2019-12-13T23:44:22.691Z",
+    "updatedAt": "2019-12-13T23:44:22.691Z"
+  },
+  {
+    "objectId": "8eskaG7vFO",
+    "name": "Deep Space Sparkle",
+    "hexCode": "4A646C",
+    "createdAt": "2019-12-13T23:44:22.691Z",
+    "updatedAt": "2019-12-13T23:44:22.691Z"
+  },
+  {
+    "objectId": "DSm9AMqcwt",
+    "name": "Dark slate blue",
+    "hexCode": "483D8B",
+    "createdAt": "2019-12-13T23:44:22.860Z",
+    "updatedAt": "2019-12-13T23:44:22.860Z"
+  },
+  {
+    "objectId": "uIFT01Lgjc",
+    "name": "Black bean",
+    "hexCode": "3D0C02",
+    "createdAt": "2019-12-13T23:44:22.860Z",
+    "updatedAt": "2019-12-13T23:44:22.860Z"
+  },
+  {
+    "objectId": "Im3ovNIpQX",
+    "name": "Bistre",
+    "hexCode": "3D2B1F",
+    "createdAt": "2019-12-13T23:44:22.860Z",
+    "updatedAt": "2019-12-13T23:44:22.860Z"
+  },
+  {
+    "objectId": "qFz4HF4BXq",
+    "name": "Black olive",
+    "hexCode": "3B3C36",
+    "createdAt": "2019-12-13T23:44:22.860Z",
+    "updatedAt": "2019-12-13T23:44:22.860Z"
+  },
+  {
+    "objectId": "KbgFwx3JCl",
+    "name": "Bluetiful",
+    "hexCode": "3C69E7",
+    "createdAt": "2019-12-13T23:44:22.860Z",
+    "updatedAt": "2019-12-13T23:44:22.860Z"
+  },
+  {
+    "objectId": "rBqzJ9ye9L",
+    "name": "B'dazzled blue",
+    "hexCode": "2E5894",
+    "createdAt": "2019-12-13T23:44:22.860Z",
+    "updatedAt": "2019-12-13T23:44:22.860Z"
+  },
+  {
+    "objectId": "XHxx0MYF7I",
+    "name": "Charcoal",
+    "hexCode": "36454F",
+    "createdAt": "2019-12-13T23:44:22.860Z",
+    "updatedAt": "2019-12-13T23:44:22.860Z"
+  },
+  {
+    "objectId": "ypv8sGTEzB",
+    "name": "Cerulean blue",
+    "hexCode": "2A52BE",
+    "createdAt": "2019-12-13T23:44:22.861Z",
+    "updatedAt": "2019-12-13T23:44:22.861Z"
+  },
+  {
+    "objectId": "yRkEJoAGNI",
+    "name": "Cosmic cobalt",
+    "hexCode": "2E2D88",
+    "createdAt": "2019-12-13T23:44:22.861Z",
+    "updatedAt": "2019-12-13T23:44:22.861Z"
+  },
+  {
+    "objectId": "k8hqfzXkEB",
+    "name": "Celadon green",
+    "hexCode": "2F847C",
+    "createdAt": "2019-12-13T23:44:22.860Z",
+    "updatedAt": "2019-12-13T23:44:22.860Z"
+  },
+  {
+    "objectId": "L3SIiVbnfJ",
+    "name": "Black coffee",
+    "hexCode": "3B2F2F",
+    "createdAt": "2019-12-13T23:44:22.860Z",
+    "updatedAt": "2019-12-13T23:44:22.860Z"
+  },
+  {
+    "objectId": "DK2GGuWu6R",
+    "name": "Amazon",
+    "hexCode": "3B7A57",
+    "createdAt": "2019-12-13T23:44:22.860Z",
+    "updatedAt": "2019-12-13T23:44:22.860Z"
+  },
+  {
+    "objectId": "25FP5if5uO",
+    "name": "Dark sienna",
+    "hexCode": "3C1414",
+    "createdAt": "2019-12-13T23:44:22.860Z",
+    "updatedAt": "2019-12-13T23:44:22.860Z"
+  },
+  {
+    "objectId": "beKDILpoEo",
+    "name": "Blue (pigment)",
+    "hexCode": "333399",
+    "createdAt": "2019-12-13T23:44:22.860Z",
+    "updatedAt": "2019-12-13T23:44:22.860Z"
+  },
+  {
+    "objectId": "RCLhCVC0eB",
+    "name": "Dark slate gray",
+    "hexCode": "2F4F4F",
+    "createdAt": "2019-12-13T23:44:22.861Z",
+    "updatedAt": "2019-12-13T23:44:22.861Z"
+  },
+  {
+    "objectId": "D4HfSkol3e",
+    "name": "Dark cornflower blue",
+    "hexCode": "26428B",
+    "createdAt": "2019-12-13T23:44:22.861Z",
+    "updatedAt": "2019-12-13T23:44:22.861Z"
+  },
+  {
+    "objectId": "PXzl6iXsAV",
+    "name": "Bleu de France",
+    "hexCode": "318CE7",
+    "createdAt": "2019-12-13T23:44:22.860Z",
+    "updatedAt": "2019-12-13T23:44:22.860Z"
+  },
+  {
+    "objectId": "E4H6DLnJq1",
+    "name": "Dark purple",
+    "hexCode": "301934",
+    "createdAt": "2019-12-13T23:44:22.860Z",
+    "updatedAt": "2019-12-13T23:44:22.860Z"
+  },
+  {
+    "objectId": "BGu3KvbHhM",
+    "name": "Celtic blue",
+    "hexCode": "246BCE",
+    "createdAt": "2019-12-13T23:44:22.861Z",
+    "updatedAt": "2019-12-13T23:44:22.861Z"
+  },
+  {
+    "objectId": "BlJl9vHiDm",
+    "name": "Charleston green",
+    "hexCode": "232B2B",
+    "createdAt": "2019-12-13T23:44:22.861Z",
+    "updatedAt": "2019-12-13T23:44:22.861Z"
+  },
+  {
+    "objectId": "uDMDDeEi6F",
+    "name": "Dodger blue",
+    "hexCode": "1E90FF",
+    "createdAt": "2019-12-13T23:44:22.924Z",
+    "updatedAt": "2019-12-13T23:44:22.924Z"
+  },
+  {
+    "objectId": "FZc8wWeed4",
+    "name": "Blue-green (color wheel)",
+    "hexCode": "064E40",
+    "createdAt": "2019-12-13T23:44:22.924Z",
+    "updatedAt": "2019-12-13T23:44:22.924Z"
+  },
+  {
+    "objectId": "FJmNp5olCK",
+    "name": "Denim",
+    "hexCode": "1560BD",
+    "createdAt": "2019-12-13T23:44:22.924Z",
+    "updatedAt": "2019-12-13T23:44:22.924Z"
+  },
+  {
+    "objectId": "r12Tj5SLbc",
+    "name": "Eerie black",
+    "hexCode": "1B1B1B",
+    "createdAt": "2019-12-13T23:44:22.924Z",
+    "updatedAt": "2019-12-13T23:44:22.924Z"
+  },
+  {
+    "objectId": "GW4JRShzsz",
+    "name": "Denim blue",
+    "hexCode": "2243B6",
+    "createdAt": "2019-12-13T23:44:22.924Z",
+    "updatedAt": "2019-12-13T23:44:22.924Z"
+  },
+  {
+    "objectId": "9hLXociALT",
+    "name": "Blue (Crayola)",
+    "hexCode": "1F75FE",
+    "createdAt": "2019-12-13T23:44:22.924Z",
+    "updatedAt": "2019-12-13T23:44:22.924Z"
+  },
+  {
+    "objectId": "IVr3701U52",
+    "name": "Flickr Blue",
+    "hexCode": "0063dc",
+    "createdAt": "2019-12-13T23:44:22.924Z",
+    "updatedAt": "2019-12-13T23:44:22.924Z"
+  },
+  {
+    "objectId": "G4Gj4upk3O",
+    "name": "Forest green (web)",
+    "hexCode": "228B22",
+    "createdAt": "2019-12-13T23:44:22.924Z",
+    "updatedAt": "2019-12-13T23:44:22.924Z"
+  },
+  {
+    "objectId": "q5eWnGsayt",
+    "name": "Black chocolate",
+    "hexCode": "1B1811",
+    "createdAt": "2019-12-13T23:44:22.924Z",
+    "updatedAt": "2019-12-13T23:44:22.924Z"
+  },
+  {
+    "objectId": "9I7zkko0AB",
+    "name": "English green",
+    "hexCode": "1B4D3E",
+    "createdAt": "2019-12-13T23:44:22.924Z",
+    "updatedAt": "2019-12-13T23:44:22.924Z"
+  },
+  {
+    "objectId": "KHGOUjiSoX",
+    "name": "Brunswick green",
+    "hexCode": "1B4D3E",
+    "createdAt": "2019-12-13T23:44:22.924Z",
+    "updatedAt": "2019-12-13T23:44:22.924Z"
+  },
+  {
+    "objectId": "PHqB8SLZSn",
+    "name": "Cerulean (Crayola)",
+    "hexCode": "1DACD6",
+    "createdAt": "2019-12-13T23:44:22.924Z",
+    "updatedAt": "2019-12-13T23:44:22.924Z"
+  },
+  {
+    "objectId": "edHePM5vQH",
+    "name": "Fluorescent blue",
+    "hexCode": "15F4EE",
+    "createdAt": "2019-12-13T23:44:22.924Z",
+    "updatedAt": "2019-12-13T23:44:22.924Z"
+  },
+  {
+    "objectId": "5QU4JrsXh7",
+    "name": "Bright navy blue",
+    "hexCode": "1974D2",
+    "createdAt": "2019-12-13T23:44:22.924Z",
+    "updatedAt": "2019-12-13T23:44:22.924Z"
+  },
+  {
+    "objectId": "GhWoahK7Hm",
+    "name": "Dark jungle green",
+    "hexCode": "1A2421",
+    "createdAt": "2019-12-13T23:44:22.924Z",
+    "updatedAt": "2019-12-13T23:44:22.924Z"
+  },
+  {
+    "objectId": "m8VsVC70Gz",
+    "name": "Dark spring green",
+    "hexCode": "177245",
+    "createdAt": "2019-12-13T23:44:22.924Z",
+    "updatedAt": "2019-12-13T23:44:22.924Z"
+  },
+  {
+    "objectId": "xfUfmojU3a",
+    "name": "Blue (RYB)",
+    "hexCode": "0247FE",
+    "createdAt": "2019-12-13T23:44:22.924Z",
+    "updatedAt": "2019-12-13T23:44:22.924Z"
+  },
+  {
+    "objectId": "YcI9WTPE61",
+    "name": "Egyptian blue",
+    "hexCode": "1034A6",
+    "createdAt": "2019-12-13T23:44:22.924Z",
+    "updatedAt": "2019-12-13T23:44:22.924Z"
+  },
+  {
+    "objectId": "OLajs7EeLl",
+    "name": "Blue sapphire",
+    "hexCode": "126180",
+    "createdAt": "2019-12-13T23:44:22.924Z",
+    "updatedAt": "2019-12-13T23:44:22.924Z"
+  },
+  {
+    "objectId": "ZHgEl1IVJ7",
+    "name": "Blue-green",
+    "hexCode": "0D98BA",
+    "createdAt": "2019-12-13T23:44:22.924Z",
+    "updatedAt": "2019-12-13T23:44:22.924Z"
+  },
+  {
+    "objectId": "07TbWsxqIU",
+    "name": "Dark pastel green",
+    "hexCode": "03C03C",
+    "createdAt": "2019-12-13T23:44:23.156Z",
+    "updatedAt": "2019-12-13T23:44:23.156Z"
+  },
+  {
+    "objectId": "RJXYhNDZqI",
+    "name": "Absolute Zero",
+    "hexCode": "0048BA",
+    "createdAt": "2019-12-13T23:44:23.156Z",
+    "updatedAt": "2019-12-13T23:44:23.156Z"
+  },
+  {
+    "objectId": "AC3J7KlFWk",
+    "name": "Black",
+    "hexCode": "000000",
+    "createdAt": "2019-12-13T23:44:23.156Z",
+    "updatedAt": "2019-12-13T23:44:23.156Z"
+  },
+  {
+    "objectId": "CgVcxiIzNX",
+    "name": "Cadmium green",
+    "hexCode": "006B3C",
+    "createdAt": "2019-12-13T23:44:23.156Z",
+    "updatedAt": "2019-12-13T23:44:23.156Z"
+  },
+  {
+    "objectId": "DuCUWWKwRN",
+    "name": "Blue (Munsell)",
+    "hexCode": "0093AF",
+    "createdAt": "2019-12-13T23:44:23.156Z",
+    "updatedAt": "2019-12-13T23:44:23.156Z"
+  },
+  {
+    "objectId": "3aIJo06XbH",
+    "name": "British racing green",
+    "hexCode": "004225",
+    "createdAt": "2019-12-13T23:44:23.156Z",
+    "updatedAt": "2019-12-13T23:44:23.156Z"
+  },
+  {
+    "objectId": "6spgMdZSQ2",
+    "name": "Blue (NCS)",
+    "hexCode": "0087BD",
+    "createdAt": "2019-12-13T23:44:23.156Z",
+    "updatedAt": "2019-12-13T23:44:23.156Z"
+  },
+  {
+    "objectId": "i8Lq4kVQ0B",
+    "name": "Blue (Pantone)",
+    "hexCode": "0018A8",
+    "createdAt": "2019-12-13T23:44:23.156Z",
+    "updatedAt": "2019-12-13T23:44:23.156Z"
+  },
+  {
+    "objectId": "MnQQGEdsIN",
+    "name": "Cobalt blue",
+    "hexCode": "0047AB",
+    "createdAt": "2019-12-13T23:44:23.156Z",
+    "updatedAt": "2019-12-13T23:44:23.156Z"
+  },
+  {
+    "objectId": "TVTMo8Ij0F",
+    "name": "Bottle green",
+    "hexCode": "006A4E",
+    "createdAt": "2019-12-13T23:44:23.156Z",
+    "updatedAt": "2019-12-13T23:44:23.156Z"
+  },
+  {
+    "objectId": "J9YsN6Ovhu",
+    "name": "Blue",
+    "hexCode": "0000FF",
+    "createdAt": "2019-12-13T23:44:23.156Z",
+    "updatedAt": "2019-12-13T23:44:23.156Z"
+  },
+  {
+    "objectId": "SeJV16y7TN",
+    "name": "Castleton green",
+    "hexCode": "00563F",
+    "createdAt": "2019-12-13T23:44:23.156Z",
+    "updatedAt": "2019-12-13T23:44:23.156Z"
+  },
+  {
+    "objectId": "TRmelBDd2G",
+    "name": "Azure",
+    "hexCode": "007FFF",
+    "createdAt": "2019-12-13T23:44:23.156Z",
+    "updatedAt": "2019-12-13T23:44:23.156Z"
+  },
+  {
+    "objectId": "C9DjAZ6dwP",
+    "name": "Aqua",
+    "hexCode": "00FFFF",
+    "createdAt": "2019-12-13T23:44:23.156Z",
+    "updatedAt": "2019-12-13T23:44:23.156Z"
+  },
+  {
+    "objectId": "Si2Vt1u0Sn",
+    "name": "Ao (English)",
+    "hexCode": "008000",
+    "createdAt": "2019-12-13T23:44:23.156Z",
+    "updatedAt": "2019-12-13T23:44:23.156Z"
+  },
+  {
+    "objectId": "ekMswPCP4Z",
+    "name": "Cerulean",
+    "hexCode": "007BA7",
+    "createdAt": "2019-12-13T23:44:23.156Z",
+    "updatedAt": "2019-12-13T23:44:23.156Z"
+  },
+  {
+    "objectId": "TxnYcmKT8Q",
+    "name": "Capri",
+    "hexCode": "00BFFF",
+    "createdAt": "2019-12-13T23:44:23.156Z",
+    "updatedAt": "2019-12-13T23:44:23.156Z"
+  },
+  {
+    "objectId": "6s8Fb8sIna",
+    "name": "Caribbean green",
+    "hexCode": "00CC99",
+    "createdAt": "2019-12-13T23:44:23.156Z",
+    "updatedAt": "2019-12-13T23:44:23.156Z"
+  },
+  {
+    "objectId": "uANbTeGlf4",
+    "name": "CG blue",
+    "hexCode": "007AA5",
+    "createdAt": "2019-12-13T23:44:23.156Z",
+    "updatedAt": "2019-12-13T23:44:23.156Z"
+  },
+  {
+    "objectId": "3M4J9zLBA5",
+    "name": "Celadon blue",
+    "hexCode": "007BA7",
+    "createdAt": "2019-12-13T23:44:23.156Z",
+    "updatedAt": "2019-12-13T23:44:23.156Z"
+  },
+  {
+    "objectId": "T5FsEJCSFo",
+    "name": "Cyan (process)",
+    "hexCode": "00B7EB",
+    "createdAt": "2019-12-13T23:44:23.429Z",
+    "updatedAt": "2019-12-13T23:44:23.429Z"
+  },
+  {
+    "objectId": "t0XS5hgEJZ",
+    "name": "Dark green",
+    "hexCode": "013220",
+    "createdAt": "2019-12-13T23:44:23.429Z",
+    "updatedAt": "2019-12-13T23:44:23.429Z"
+  },
+  {
+    "objectId": "QEuuwrNx8M",
+    "name": "Dark cyan",
+    "hexCode": "008B8B",
+    "createdAt": "2019-12-13T23:44:23.429Z",
+    "updatedAt": "2019-12-13T23:44:23.429Z"
+  },
+  {
+    "objectId": "pVb1RPDoH5",
+    "name": "Cyan",
+    "hexCode": "00FFFF",
+    "createdAt": "2019-12-13T23:44:23.429Z",
+    "updatedAt": "2019-12-13T23:44:23.429Z"
+  },
+  {
+    "objectId": "WjEPJPtYDD",
+    "name": "Gamboge",
+    "hexCode": "E49B0F",
+    "createdAt": "2019-12-13T23:44:23.429Z",
+    "updatedAt": "2019-12-13T23:44:23.429Z"
+  },
+  {
+    "objectId": "39Ugq8IJ5R",
+    "name": "Dark turquoise",
+    "hexCode": "00CED1",
+    "createdAt": "2019-12-13T23:44:23.429Z",
+    "updatedAt": "2019-12-13T23:44:23.429Z"
+  },
+  {
+    "objectId": "xcqboHVngH",
+    "name": "Dark green (X11)",
+    "hexCode": "006400",
+    "createdAt": "2019-12-13T23:44:23.429Z",
+    "updatedAt": "2019-12-13T23:44:23.429Z"
+  },
+  {
+    "objectId": "1kPR0u2pyb",
+    "name": "Gainsboro",
+    "hexCode": "DCDCDC",
+    "createdAt": "2019-12-13T23:44:23.429Z",
+    "updatedAt": "2019-12-13T23:44:23.429Z"
+  },
+  {
+    "objectId": "DRREUozd4m",
+    "name": "Deep jungle green",
+    "hexCode": "004B49",
+    "createdAt": "2019-12-13T23:44:23.429Z",
+    "updatedAt": "2019-12-13T23:44:23.429Z"
+  },
+  {
+    "objectId": "MK5rtGSDmu",
+    "name": "French blue",
+    "hexCode": "0072BB",
+    "createdAt": "2019-12-13T23:44:23.429Z",
+    "updatedAt": "2019-12-13T23:44:23.429Z"
+  },
+  {
+    "objectId": "WbJpLwvlDl",
+    "name": "Duke blue",
+    "hexCode": "00009C",
+    "createdAt": "2019-12-13T23:44:23.429Z",
+    "updatedAt": "2019-12-13T23:44:23.429Z"
+  },
+  {
+    "objectId": "o1ZUhGoK24",
+    "name": "Forest green (traditional)",
+    "hexCode": "014421",
+    "createdAt": "2019-12-13T23:44:23.429Z",
+    "updatedAt": "2019-12-13T23:44:23.429Z"
+  },
+  {
+    "objectId": "stvDOqEuI8",
+    "name": "Deep sky blue",
+    "hexCode": "00BFFF",
+    "createdAt": "2019-12-13T23:44:23.429Z",
+    "updatedAt": "2019-12-13T23:44:23.429Z"
+  },
+  {
+    "objectId": "Hblxk0p6nB",
+    "name": "Dartmouth green",
+    "hexCode": "00703C",
+    "createdAt": "2019-12-13T23:44:23.429Z",
+    "updatedAt": "2019-12-13T23:44:23.429Z"
+  },
+  {
+    "objectId": "DMVmDLFZCe",
+    "name": "Erin",
+    "hexCode": "00FF40",
+    "createdAt": "2019-12-13T23:44:23.429Z",
+    "updatedAt": "2019-12-13T23:44:23.429Z"
+  },
+  {
+    "objectId": "ItF263lQI3",
+    "name": "Electric green",
+    "hexCode": "00FF00",
+    "createdAt": "2019-12-13T23:44:23.429Z",
+    "updatedAt": "2019-12-13T23:44:23.429Z"
+  },
+  {
+    "objectId": "iYPI8gDFcC",
+    "name": "Glossy grape",
+    "hexCode": "AB92B3",
+    "createdAt": "2019-12-13T23:44:23.430Z",
+    "updatedAt": "2019-12-13T23:44:23.430Z"
+  },
+  {
+    "objectId": "a4V51UkGfh",
+    "name": "Glaucous",
+    "hexCode": "6082B6",
+    "createdAt": "2019-12-13T23:44:23.430Z",
+    "updatedAt": "2019-12-13T23:44:23.430Z"
+  },
+  {
+    "objectId": "vHkOJ4SqT0",
+    "name": "Ghost white",
+    "hexCode": "F8F8FF",
+    "createdAt": "2019-12-13T23:44:23.429Z",
+    "updatedAt": "2019-12-13T23:44:23.429Z"
+  },
+  {
+    "objectId": "OC7eMJ8Ch7",
+    "name": "Generic viridian",
+    "hexCode": "007F66",
+    "createdAt": "2019-12-13T23:44:23.429Z",
+    "updatedAt": "2019-12-13T23:44:23.429Z"
+  },
+  {
+    "objectId": "qakxwFpsqC",
+    "name": "GO green",
+    "hexCode": "00AB66",
+    "createdAt": "2019-12-13T23:44:23.532Z",
+    "updatedAt": "2019-12-13T23:44:23.532Z"
+  },
+  {
+    "objectId": "FHUzOw9cH6",
+    "name": "Gold Fusion",
+    "hexCode": "85754E",
+    "createdAt": "2019-12-13T23:44:23.532Z",
+    "updatedAt": "2019-12-13T23:44:23.532Z"
+  },
+  {
+    "objectId": "MvkZZjekB6",
+    "name": "Gold",
+    "hexCode": "A57C00",
+    "createdAt": "2019-12-13T23:44:23.532Z",
+    "updatedAt": "2019-12-13T23:44:23.532Z"
+  },
+  {
+    "objectId": "M8FFaZIzj2",
+    "name": "Gold (metallic)",
+    "hexCode": "D4AF37",
+    "createdAt": "2019-12-13T23:44:23.532Z",
+    "updatedAt": "2019-12-13T23:44:23.532Z"
+  },
+  {
+    "objectId": "YYEJ3JWwGK",
+    "name": "Gold (Crayola)",
+    "hexCode": "E6BE8A",
+    "createdAt": "2019-12-13T23:44:23.532Z",
+    "updatedAt": "2019-12-13T23:44:23.532Z"
+  },
+  {
+    "objectId": "I1j8jLfUN6",
+    "name": "Gold (web) (Golden)",
+    "hexCode": "FFD700",
+    "createdAt": "2019-12-13T23:44:23.532Z",
+    "updatedAt": "2019-12-13T23:44:23.532Z"
+  },
+  {
+    "objectId": "r3MirN5Ylc",
+    "name": "Green",
+    "hexCode": "00FF00",
+    "createdAt": "2019-12-13T23:44:23.532Z",
+    "updatedAt": "2019-12-13T23:44:23.532Z"
+  },
+  {
+    "objectId": "LPoi1LnjXF",
+    "name": "Golden poppy",
+    "hexCode": "FCC200",
+    "createdAt": "2019-12-13T23:44:23.532Z",
+    "updatedAt": "2019-12-13T23:44:23.532Z"
+  },
+  {
+    "objectId": "NPB5eTT6yV",
+    "name": "Gray (X11 gray)",
+    "hexCode": "BEBEBE",
+    "createdAt": "2019-12-13T23:44:23.532Z",
+    "updatedAt": "2019-12-13T23:44:23.532Z"
+  },
+  {
+    "objectId": "xbfeVtgFf6",
+    "name": "Green (NCS)",
+    "hexCode": "009F6B",
+    "createdAt": "2019-12-13T23:44:23.532Z",
+    "updatedAt": "2019-12-13T23:44:23.532Z"
+  },
+  {
+    "objectId": "KVjfoL5jPC",
+    "name": "Goldenrod",
+    "hexCode": "DAA520",
+    "createdAt": "2019-12-13T23:44:23.532Z",
+    "updatedAt": "2019-12-13T23:44:23.532Z"
+  },
+  {
+    "objectId": "cBRUOppYyX",
+    "name": "Gray (web)",
+    "hexCode": "808080",
+    "createdAt": "2019-12-13T23:44:23.532Z",
+    "updatedAt": "2019-12-13T23:44:23.532Z"
+  },
+  {
+    "objectId": "UTIHmiIkzi",
+    "name": "Green (Munsell)",
+    "hexCode": "00A877",
+    "createdAt": "2019-12-13T23:44:23.532Z",
+    "updatedAt": "2019-12-13T23:44:23.532Z"
+  },
+  {
+    "objectId": "PSj7XdH9hG",
+    "name": "Granite gray",
+    "hexCode": "676767",
+    "createdAt": "2019-12-13T23:44:23.532Z",
+    "updatedAt": "2019-12-13T23:44:23.532Z"
+  },
+  {
+    "objectId": "9TKGI6B57A",
+    "name": "Golden yellow",
+    "hexCode": "FFDF00",
+    "createdAt": "2019-12-13T23:44:23.532Z",
+    "updatedAt": "2019-12-13T23:44:23.532Z"
+  },
+  {
+    "objectId": "BhZ9GO1d3M",
+    "name": "Golden brown",
+    "hexCode": "996515",
+    "createdAt": "2019-12-13T23:44:23.532Z",
+    "updatedAt": "2019-12-13T23:44:23.532Z"
+  },
+  {
+    "objectId": "IxHwto3m9J",
+    "name": "Green (Crayola)",
+    "hexCode": "1CAC78",
+    "createdAt": "2019-12-13T23:44:23.532Z",
+    "updatedAt": "2019-12-13T23:44:23.532Z"
+  },
+  {
+    "objectId": "GTlSrRDYUk",
+    "name": "Green (Pantone)",
+    "hexCode": "00AD43",
+    "createdAt": "2019-12-13T23:44:23.532Z",
+    "updatedAt": "2019-12-13T23:44:23.532Z"
+  },
+  {
+    "objectId": "GgsOb3N75z",
+    "name": "Green (web)",
+    "hexCode": "008000",
+    "createdAt": "2019-12-13T23:44:23.532Z",
+    "updatedAt": "2019-12-13T23:44:23.532Z"
+  },
+  {
+    "objectId": "EBJkewqHWO",
+    "name": "Granny Smith apple",
+    "hexCode": "A8E4A0",
+    "createdAt": "2019-12-13T23:44:23.532Z",
+    "updatedAt": "2019-12-13T23:44:23.532Z"
+  },
+  {
+    "objectId": "J694nU2IVY",
+    "name": "Green (RYB)",
+    "hexCode": "66B032",
+    "createdAt": "2019-12-13T23:44:23.901Z",
+    "updatedAt": "2019-12-13T23:44:23.901Z"
+  },
+  {
+    "objectId": "jykYF6quMk",
+    "name": "Green (pigment)",
+    "hexCode": "00A550",
+    "createdAt": "2019-12-13T23:44:23.901Z",
+    "updatedAt": "2019-12-13T23:44:23.901Z"
+  },
+  {
+    "objectId": "QhTcAbET7M",
+    "name": "Green-cyan",
+    "hexCode": "009966",
+    "createdAt": "2019-12-13T23:44:23.901Z",
+    "updatedAt": "2019-12-13T23:44:23.901Z"
+  },
+  {
+    "objectId": "RfzbFcTI62",
+    "name": "Green-blue (Crayola)",
+    "hexCode": "2887C8",
+    "createdAt": "2019-12-13T23:44:23.901Z",
+    "updatedAt": "2019-12-13T23:44:23.901Z"
+  },
+  {
+    "objectId": "1xigZGuwNb",
+    "name": "Green-blue",
+    "hexCode": "1164B4",
+    "createdAt": "2019-12-13T23:44:23.901Z",
+    "updatedAt": "2019-12-13T23:44:23.901Z"
+  },
+  {
+    "objectId": "GpXSy0N7Me",
+    "name": "Grullo",
+    "hexCode": "A99A86",
+    "createdAt": "2019-12-13T23:44:23.901Z",
+    "updatedAt": "2019-12-13T23:44:23.901Z"
+  },
+  {
+    "objectId": "YVM5iZPYZX",
+    "name": "Green Sheen",
+    "hexCode": "6EAEA1",
+    "createdAt": "2019-12-13T23:44:23.901Z",
+    "updatedAt": "2019-12-13T23:44:23.901Z"
+  },
+  {
+    "objectId": "iEnF4AQRk9",
+    "name": "Green-yellow",
+    "hexCode": "ADFF2F",
+    "createdAt": "2019-12-13T23:44:23.901Z",
+    "updatedAt": "2019-12-13T23:44:23.901Z"
+  },
+  {
+    "objectId": "d8VAQl8dra",
+    "name": "Green-yellow (Crayola)",
+    "hexCode": "F0E891",
+    "createdAt": "2019-12-13T23:44:23.901Z",
+    "updatedAt": "2019-12-13T23:44:23.901Z"
+  },
+  {
+    "objectId": "dcLZCZazBi",
+    "name": "Green Lizard",
+    "hexCode": "A7F432",
+    "createdAt": "2019-12-13T23:44:23.901Z",
+    "updatedAt": "2019-12-13T23:44:23.901Z"
+  },
+  {
+    "objectId": "YEJfrsFzUi",
+    "name": "Harlequin",
+    "hexCode": "3FFF00",
+    "createdAt": "2019-12-13T23:44:23.901Z",
+    "updatedAt": "2019-12-13T23:44:23.901Z"
+  },
+  {
+    "objectId": "1vFikc9H7R",
+    "name": "Hansa yellow",
+    "hexCode": "E9D66B",
+    "createdAt": "2019-12-13T23:44:23.901Z",
+    "updatedAt": "2019-12-13T23:44:23.901Z"
+  },
+  {
+    "objectId": "g8pVQz3PYd",
+    "name": "Han purple",
+    "hexCode": "5218FA",
+    "createdAt": "2019-12-13T23:44:23.901Z",
+    "updatedAt": "2019-12-13T23:44:23.901Z"
+  },
+  {
+    "objectId": "5GsUoQHzB6",
+    "name": "Han blue",
+    "hexCode": "446CCF",
+    "createdAt": "2019-12-13T23:44:23.901Z",
+    "updatedAt": "2019-12-13T23:44:23.901Z"
+  },
+  {
+    "objectId": "86p0WdZlHp",
+    "name": "Gunmetal",
+    "hexCode": "2a3439",
+    "createdAt": "2019-12-13T23:44:23.901Z",
+    "updatedAt": "2019-12-13T23:44:23.901Z"
+  },
+  {
+    "objectId": "IHHLlvgDaZ",
+    "name": "Heliotrope",
+    "hexCode": "DF73FF",
+    "createdAt": "2019-12-13T23:44:23.901Z",
+    "updatedAt": "2019-12-13T23:44:23.901Z"
+  },
+  {
+    "objectId": "r1ZTsjAXb9",
+    "name": "Heliotrope gray",
+    "hexCode": "AA98A9",
+    "createdAt": "2019-12-13T23:44:23.901Z",
+    "updatedAt": "2019-12-13T23:44:23.901Z"
+  },
+  {
+    "objectId": "J5OmF4JnUh",
+    "name": "Harvest gold",
+    "hexCode": "DA9100",
+    "createdAt": "2019-12-13T23:44:23.901Z",
+    "updatedAt": "2019-12-13T23:44:23.901Z"
+  },
+  {
+    "objectId": "lGHByFitNw",
+    "name": "Hollywood cerise",
+    "hexCode": "F400A1",
+    "createdAt": "2019-12-13T23:44:23.901Z",
+    "updatedAt": "2019-12-13T23:44:23.901Z"
+  },
+  {
+    "objectId": "6a8a4V7wa7",
+    "name": "Heat Wave",
+    "hexCode": "FF7A00",
+    "createdAt": "2019-12-13T23:44:23.901Z",
+    "updatedAt": "2019-12-13T23:44:23.901Z"
+  },
+  {
+    "objectId": "LeezIClZX8",
+    "name": "Hot pink",
+    "hexCode": "FF69B4",
+    "createdAt": "2019-12-13T23:44:24.136Z",
+    "updatedAt": "2019-12-13T23:44:24.136Z"
+  },
+  {
+    "objectId": "sP4iLMsXX5",
+    "name": "Hot magenta",
+    "hexCode": "FF1DCE",
+    "createdAt": "2019-12-13T23:44:24.136Z",
+    "updatedAt": "2019-12-13T23:44:24.136Z"
+  },
+  {
+    "objectId": "lftIftvCRb",
+    "name": "Honeydew",
+    "hexCode": "F0FFF0",
+    "createdAt": "2019-12-13T23:44:24.136Z",
+    "updatedAt": "2019-12-13T23:44:24.136Z"
+  },
+  {
+    "objectId": "viFx57GZH2",
+    "name": "Honolulu blue",
+    "hexCode": "006DB0",
+    "createdAt": "2019-12-13T23:44:24.136Z",
+    "updatedAt": "2019-12-13T23:44:24.136Z"
+  },
+  {
+    "objectId": "km6f3DmZS2",
+    "name": "Hooker's green",
+    "hexCode": "49796B",
+    "createdAt": "2019-12-13T23:44:24.136Z",
+    "updatedAt": "2019-12-13T23:44:24.136Z"
+  },
+  {
+    "objectId": "g28d03C2ST",
+    "name": "Iceberg",
+    "hexCode": "71A6D2",
+    "createdAt": "2019-12-13T23:44:24.136Z",
+    "updatedAt": "2019-12-13T23:44:24.136Z"
+  },
+  {
+    "objectId": "CFO9UAS4mc",
+    "name": "Illuminating emerald",
+    "hexCode": "319177",
+    "createdAt": "2019-12-13T23:44:24.136Z",
+    "updatedAt": "2019-12-13T23:44:24.136Z"
+  },
+  {
+    "objectId": "NtO8LKZlsB",
+    "name": "Icterine",
+    "hexCode": "FCF75E",
+    "createdAt": "2019-12-13T23:44:24.136Z",
+    "updatedAt": "2019-12-13T23:44:24.136Z"
+  },
+  {
+    "objectId": "EDgArAesb2",
+    "name": "Imperial red",
+    "hexCode": "ED2939",
+    "createdAt": "2019-12-13T23:44:24.136Z",
+    "updatedAt": "2019-12-13T23:44:24.136Z"
+  },
+  {
+    "objectId": "bmLl6mxt3s",
+    "name": "Hunter green",
+    "hexCode": "355E3B",
+    "createdAt": "2019-12-13T23:44:24.136Z",
+    "updatedAt": "2019-12-13T23:44:24.136Z"
+  },
+  {
+    "objectId": "LSRYG4c9HN",
+    "name": "Independence",
+    "hexCode": "4C516D",
+    "createdAt": "2019-12-13T23:44:24.136Z",
+    "updatedAt": "2019-12-13T23:44:24.136Z"
+  },
+  {
+    "objectId": "nDrS5WcKxr",
+    "name": "Indian yellow",
+    "hexCode": "E3A857",
+    "createdAt": "2019-12-13T23:44:24.136Z",
+    "updatedAt": "2019-12-13T23:44:24.136Z"
+  },
+  {
+    "objectId": "VInmMEECNl",
+    "name": "India green",
+    "hexCode": "138808",
+    "createdAt": "2019-12-13T23:44:24.136Z",
+    "updatedAt": "2019-12-13T23:44:24.136Z"
+  },
+  {
+    "objectId": "5y6sVWEPBb",
+    "name": "Inchworm",
+    "hexCode": "B2EC5D",
+    "createdAt": "2019-12-13T23:44:24.136Z",
+    "updatedAt": "2019-12-13T23:44:24.136Z"
+  },
+  {
+    "objectId": "RuXU7BHh07",
+    "name": "Indian red",
+    "hexCode": "CD5C5C",
+    "createdAt": "2019-12-13T23:44:24.136Z",
+    "updatedAt": "2019-12-13T23:44:24.136Z"
+  },
+  {
+    "objectId": "ufSUOe82Di",
+    "name": "Indigo dye",
+    "hexCode": "00416A",
+    "createdAt": "2019-12-13T23:44:24.136Z",
+    "updatedAt": "2019-12-13T23:44:24.136Z"
+  },
+  {
+    "objectId": "SgOaQ7IkwO",
+    "name": "Indigo",
+    "hexCode": "4B0082",
+    "createdAt": "2019-12-13T23:44:24.136Z",
+    "updatedAt": "2019-12-13T23:44:24.136Z"
+  },
+  {
+    "objectId": "bYmBEdoaU9",
+    "name": "International orange (aerospace)",
+    "hexCode": "FF4F00",
+    "createdAt": "2019-12-13T23:44:24.136Z",
+    "updatedAt": "2019-12-13T23:44:24.136Z"
+  },
+  {
+    "objectId": "Xm4hTvPANO",
+    "name": "International orange (engineering)",
+    "hexCode": "BA160C",
+    "createdAt": "2019-12-13T23:44:24.136Z",
+    "updatedAt": "2019-12-13T23:44:24.136Z"
+  },
+  {
+    "objectId": "EcciQu1mU9",
+    "name": "International Klein Blue",
+    "hexCode": "002FA7",
+    "createdAt": "2019-12-13T23:44:24.136Z",
+    "updatedAt": "2019-12-13T23:44:24.136Z"
+  },
+  {
+    "objectId": "jVT4HHdbFk",
+    "name": "International orange (Golden Gate Bridge)",
+    "hexCode": "C0362C",
+    "createdAt": "2019-12-13T23:44:24.282Z",
+    "updatedAt": "2019-12-13T23:44:24.282Z"
+  },
+  {
+    "objectId": "IKjH0gM3bi",
+    "name": "Iris",
+    "hexCode": "5A4FCF",
+    "createdAt": "2019-12-13T23:44:24.282Z",
+    "updatedAt": "2019-12-13T23:44:24.282Z"
+  },
+  {
+    "objectId": "OLaQvJ0gCa",
+    "name": "Ivory",
+    "hexCode": "FFFFF0",
+    "createdAt": "2019-12-13T23:44:24.282Z",
+    "updatedAt": "2019-12-13T23:44:24.282Z"
+  },
+  {
+    "objectId": "sd49X1NDug",
+    "name": "Jade",
+    "hexCode": "00A86B",
+    "createdAt": "2019-12-13T23:44:24.282Z",
+    "updatedAt": "2019-12-13T23:44:24.282Z"
+  },
+  {
+    "objectId": "Zz1mXOwECU",
+    "name": "Keppel",
+    "hexCode": "3AB09E",
+    "createdAt": "2019-12-13T23:44:24.282Z",
+    "updatedAt": "2019-12-13T23:44:24.282Z"
+  },
+  {
+    "objectId": "sSFsGSxndC",
+    "name": "Jungle green",
+    "hexCode": "29AB87",
+    "createdAt": "2019-12-13T23:44:24.282Z",
+    "updatedAt": "2019-12-13T23:44:24.282Z"
+  },
+  {
+    "objectId": "zdGBf2Qtwb",
+    "name": "Jasmine",
+    "hexCode": "F8DE7E",
+    "createdAt": "2019-12-13T23:44:24.282Z",
+    "updatedAt": "2019-12-13T23:44:24.282Z"
+  },
+  {
+    "objectId": "2LgOkAO8eG",
+    "name": "Kelly green",
+    "hexCode": "4CBB17",
+    "createdAt": "2019-12-13T23:44:24.282Z",
+    "updatedAt": "2019-12-13T23:44:24.282Z"
+  },
+  {
+    "objectId": "lVG6CDbTWE",
+    "name": "Jet",
+    "hexCode": "343434",
+    "createdAt": "2019-12-13T23:44:24.282Z",
+    "updatedAt": "2019-12-13T23:44:24.282Z"
+  },
+  {
+    "objectId": "M6kxYFQydJ",
+    "name": "Irresistible",
+    "hexCode": "B3446C",
+    "createdAt": "2019-12-13T23:44:24.282Z",
+    "updatedAt": "2019-12-13T23:44:24.282Z"
+  },
+  {
+    "objectId": "WDXsFSB4UN",
+    "name": "Italian sky blue",
+    "hexCode": "B2FFFF",
+    "createdAt": "2019-12-13T23:44:24.282Z",
+    "updatedAt": "2019-12-13T23:44:24.282Z"
+  },
+  {
+    "objectId": "mrMeAMXQaf",
+    "name": "Isabelline",
+    "hexCode": "F4F0EC",
+    "createdAt": "2019-12-13T23:44:24.282Z",
+    "updatedAt": "2019-12-13T23:44:24.282Z"
+  },
+  {
+    "objectId": "mm1gE8u6pI",
+    "name": "Jazzberry jam",
+    "hexCode": "A50B5E",
+    "createdAt": "2019-12-13T23:44:24.282Z",
+    "updatedAt": "2019-12-13T23:44:24.282Z"
+  },
+  {
+    "objectId": "kYKmW8mllu",
+    "name": "June bud",
+    "hexCode": "BDDA57",
+    "createdAt": "2019-12-13T23:44:24.282Z",
+    "updatedAt": "2019-12-13T23:44:24.282Z"
+  },
+  {
+    "objectId": "uRu1VVgrkJ",
+    "name": "Jonquil",
+    "hexCode": "F4CA16",
+    "createdAt": "2019-12-13T23:44:24.282Z",
+    "updatedAt": "2019-12-13T23:44:24.282Z"
+  },
+  {
+    "objectId": "k1nTEGHIFt",
+    "name": "Key lime",
+    "hexCode": "E8F48C",
+    "createdAt": "2019-12-13T23:44:24.282Z",
+    "updatedAt": "2019-12-13T23:44:24.282Z"
+  },
+  {
+    "objectId": "MABgbZ8xsR",
+    "name": "Khaki (X11) (Light khaki)",
+    "hexCode": "F0E68C",
+    "createdAt": "2019-12-13T23:44:24.282Z",
+    "updatedAt": "2019-12-13T23:44:24.282Z"
+  },
+  {
+    "objectId": "zLiABGObkS",
+    "name": "Kobe",
+    "hexCode": "882D17",
+    "createdAt": "2019-12-13T23:44:24.282Z",
+    "updatedAt": "2019-12-13T23:44:24.282Z"
+  },
+  {
+    "objectId": "c6FHgyC7v4",
+    "name": "Khaki (web)",
+    "hexCode": "C3B091",
+    "createdAt": "2019-12-13T23:44:24.282Z",
+    "updatedAt": "2019-12-13T23:44:24.282Z"
+  },
+  {
+    "objectId": "BD0rILuUOn",
+    "name": "Kobi",
+    "hexCode": "E79FC4",
+    "createdAt": "2019-12-13T23:44:24.282Z",
+    "updatedAt": "2019-12-13T23:44:24.282Z"
+  },
+  {
+    "objectId": "8zL2roGh4s",
+    "name": "Lapis lazuli",
+    "hexCode": "26619C",
+    "createdAt": "2019-12-13T23:44:24.362Z",
+    "updatedAt": "2019-12-13T23:44:24.362Z"
+  },
+  {
+    "objectId": "EUcKIYMLMK",
+    "name": "Laurel green",
+    "hexCode": "A9BA9D",
+    "createdAt": "2019-12-13T23:44:24.362Z",
+    "updatedAt": "2019-12-13T23:44:24.362Z"
+  },
+  {
+    "objectId": "1HX8Xb9F58",
+    "name": "Lavender blush",
+    "hexCode": "FFF0F5",
+    "createdAt": "2019-12-13T23:44:24.362Z",
+    "updatedAt": "2019-12-13T23:44:24.362Z"
+  },
+  {
+    "objectId": "VxObcg4FTi",
+    "name": "KSU purple",
+    "hexCode": "512888",
+    "createdAt": "2019-12-13T23:44:24.362Z",
+    "updatedAt": "2019-12-13T23:44:24.362Z"
+  },
+  {
+    "objectId": "GWc62hGmMW",
+    "name": "Kobicha",
+    "hexCode": "6B4423",
+    "createdAt": "2019-12-13T23:44:24.362Z",
+    "updatedAt": "2019-12-13T23:44:24.362Z"
+  },
+  {
+    "objectId": "aQMuFqMizB",
+    "name": "Languid lavender",
+    "hexCode": "D6CADD",
+    "createdAt": "2019-12-13T23:44:24.362Z",
+    "updatedAt": "2019-12-13T23:44:24.362Z"
+  },
+  {
+    "objectId": "ILGnpcTUOm",
+    "name": "Lemon curry",
+    "hexCode": "CCA01D",
+    "createdAt": "2019-12-13T23:44:24.362Z",
+    "updatedAt": "2019-12-13T23:44:24.362Z"
+  },
+  {
+    "objectId": "qTBeuRGyZ9",
+    "name": "Kombu green",
+    "hexCode": "354230",
+    "createdAt": "2019-12-13T23:44:24.362Z",
+    "updatedAt": "2019-12-13T23:44:24.362Z"
+  },
+  {
+    "objectId": "A8xLxeNBCt",
+    "name": "Lava",
+    "hexCode": "CF1020",
+    "createdAt": "2019-12-13T23:44:24.362Z",
+    "updatedAt": "2019-12-13T23:44:24.362Z"
+  },
+  {
+    "objectId": "YFNhjUTxmj",
+    "name": "Lavender (web)",
+    "hexCode": "E6E6FA",
+    "createdAt": "2019-12-13T23:44:24.362Z",
+    "updatedAt": "2019-12-13T23:44:24.362Z"
+  },
+  {
+    "objectId": "vfbO134QGS",
+    "name": "Laser lemon",
+    "hexCode": "FFFF66",
+    "createdAt": "2019-12-13T23:44:24.362Z",
+    "updatedAt": "2019-12-13T23:44:24.362Z"
+  },
+  {
+    "objectId": "aLjiPhxt0h",
+    "name": "Lavender (floral)",
+    "hexCode": "B57EDC",
+    "createdAt": "2019-12-13T23:44:24.362Z",
+    "updatedAt": "2019-12-13T23:44:24.362Z"
+  },
+  {
+    "objectId": "1mzN7zNx0u",
+    "name": "Lemon",
+    "hexCode": "FFF700",
+    "createdAt": "2019-12-13T23:44:24.362Z",
+    "updatedAt": "2019-12-13T23:44:24.362Z"
+  },
+  {
+    "objectId": "pM6gsRR8QD",
+    "name": "Lavender blue",
+    "hexCode": "CCCCFF",
+    "createdAt": "2019-12-13T23:44:24.362Z",
+    "updatedAt": "2019-12-13T23:44:24.362Z"
+  },
+  {
+    "objectId": "LqQqvne0BU",
+    "name": "Lavender gray",
+    "hexCode": "C4C3D0",
+    "createdAt": "2019-12-13T23:44:24.362Z",
+    "updatedAt": "2019-12-13T23:44:24.362Z"
+  },
+  {
+    "objectId": "N6N7VNQmHo",
+    "name": "Lawn green",
+    "hexCode": "7CFC00",
+    "createdAt": "2019-12-13T23:44:24.362Z",
+    "updatedAt": "2019-12-13T23:44:24.362Z"
+  },
+  {
+    "objectId": "mQsH2dxmEn",
+    "name": "Lemon chiffon",
+    "hexCode": "FFFACD",
+    "createdAt": "2019-12-13T23:44:24.362Z",
+    "updatedAt": "2019-12-13T23:44:24.362Z"
+  },
+  {
+    "objectId": "CV1AGuxWSk",
+    "name": "Lemon yellow",
+    "hexCode": "FFF44F",
+    "createdAt": "2019-12-13T23:44:24.362Z",
+    "updatedAt": "2019-12-13T23:44:24.362Z"
+  },
+  {
+    "objectId": "Fs7dYgTzrz",
+    "name": "Lemon glacier",
+    "hexCode": "FDFF00",
+    "createdAt": "2019-12-13T23:44:24.362Z",
+    "updatedAt": "2019-12-13T23:44:24.362Z"
+  },
+  {
+    "objectId": "rO6j0x7ysR",
+    "name": "Lemon meringue",
+    "hexCode": "F6EABE",
+    "createdAt": "2019-12-13T23:44:24.362Z",
+    "updatedAt": "2019-12-13T23:44:24.362Z"
+  },
+  {
+    "objectId": "DDf0WKuXLj",
+    "name": "Light cornflower blue",
+    "hexCode": "93CCEA",
+    "createdAt": "2019-12-13T23:44:24.556Z",
+    "updatedAt": "2019-12-13T23:44:24.556Z"
+  },
+  {
+    "objectId": "vhgSc2SsSX",
+    "name": "Light gray",
+    "hexCode": "D3D3D3",
+    "createdAt": "2019-12-13T23:44:24.556Z",
+    "updatedAt": "2019-12-13T23:44:24.556Z"
+  },
+  {
+    "objectId": "GzcKzjbiHQ",
+    "name": "Light salmon",
+    "hexCode": "FFA07A",
+    "createdAt": "2019-12-13T23:44:24.557Z",
+    "updatedAt": "2019-12-13T23:44:24.557Z"
+  },
+  {
+    "objectId": "zvWH8t4DQU",
+    "name": "Lemon yellow (Crayola)",
+    "hexCode": "FFFF9F",
+    "createdAt": "2019-12-13T23:44:24.556Z",
+    "updatedAt": "2019-12-13T23:44:24.556Z"
+  },
+  {
+    "objectId": "v4w26wsd9C",
+    "name": "Liberty",
+    "hexCode": "545AA7",
+    "createdAt": "2019-12-13T23:44:24.556Z",
+    "updatedAt": "2019-12-13T23:44:24.556Z"
+  },
+  {
+    "objectId": "vIvTPI6Tma",
+    "name": "Light coral",
+    "hexCode": "F08080",
+    "createdAt": "2019-12-13T23:44:24.556Z",
+    "updatedAt": "2019-12-13T23:44:24.556Z"
+  },
+  {
+    "objectId": "zlgy5ZFeXV",
+    "name": "Light blue",
+    "hexCode": "ADD8E6",
+    "createdAt": "2019-12-13T23:44:24.556Z",
+    "updatedAt": "2019-12-13T23:44:24.556Z"
+  },
+  {
+    "objectId": "dmkXVAht4c",
+    "name": "Light yellow",
+    "hexCode": "FFFFE0",
+    "createdAt": "2019-12-13T23:44:24.557Z",
+    "updatedAt": "2019-12-13T23:44:24.557Z"
+  },
+  {
+    "objectId": "Z88JUvL9wy",
+    "name": "Light French beige",
+    "hexCode": "C8AD7F",
+    "createdAt": "2019-12-13T23:44:24.556Z",
+    "updatedAt": "2019-12-13T23:44:24.556Z"
+  },
+  {
+    "objectId": "l1VGkOMnRo",
+    "name": "Light goldenrod yellow",
+    "hexCode": "FAFAD2",
+    "createdAt": "2019-12-13T23:44:24.556Z",
+    "updatedAt": "2019-12-13T23:44:24.556Z"
+  },
+  {
+    "objectId": "xkLWzbdjz1",
+    "name": "Light cyan",
+    "hexCode": "E0FFFF",
+    "createdAt": "2019-12-13T23:44:24.556Z",
+    "updatedAt": "2019-12-13T23:44:24.556Z"
+  },
+  {
+    "objectId": "dY5fzpPQgC",
+    "name": "Light green",
+    "hexCode": "90EE90",
+    "createdAt": "2019-12-13T23:44:24.556Z",
+    "updatedAt": "2019-12-13T23:44:24.556Z"
+  },
+  {
+    "objectId": "OVmLpktA7r",
+    "name": "Light sea green",
+    "hexCode": "20B2AA",
+    "createdAt": "2019-12-13T23:44:24.557Z",
+    "updatedAt": "2019-12-13T23:44:24.557Z"
+  },
+  {
+    "objectId": "TOTAgfRGGu",
+    "name": "Light orange",
+    "hexCode": "FED8B1",
+    "createdAt": "2019-12-13T23:44:24.556Z",
+    "updatedAt": "2019-12-13T23:44:24.556Z"
+  },
+  {
+    "objectId": "5WKDRGVMzd",
+    "name": "Light pink",
+    "hexCode": "FFB6C1",
+    "createdAt": "2019-12-13T23:44:24.557Z",
+    "updatedAt": "2019-12-13T23:44:24.557Z"
+  },
+  {
+    "objectId": "5z6LcIVxFx",
+    "name": "Light periwinkle",
+    "hexCode": "C5CBE1",
+    "createdAt": "2019-12-13T23:44:24.557Z",
+    "updatedAt": "2019-12-13T23:44:24.557Z"
+  },
+  {
+    "objectId": "dLmuxBEVu8",
+    "name": "Light steel blue",
+    "hexCode": "B0C4DE",
+    "createdAt": "2019-12-13T23:44:24.557Z",
+    "updatedAt": "2019-12-13T23:44:24.557Z"
+  },
+  {
+    "objectId": "fTBpHfB9cA",
+    "name": "Light sky blue",
+    "hexCode": "87CEFA",
+    "createdAt": "2019-12-13T23:44:24.557Z",
+    "updatedAt": "2019-12-13T23:44:24.557Z"
+  },
+  {
+    "objectId": "NKalsKGQME",
+    "name": "Light slate gray",
+    "hexCode": "778899",
+    "createdAt": "2019-12-13T23:44:24.557Z",
+    "updatedAt": "2019-12-13T23:44:24.557Z"
+  },
+  {
+    "objectId": "L3Cvdnh64O",
+    "name": "Lilac",
+    "hexCode": "C8A2C8",
+    "createdAt": "2019-12-13T23:44:24.557Z",
+    "updatedAt": "2019-12-13T23:44:24.557Z"
+  },
+  {
+    "objectId": "68gErp0wJt",
+    "name": "Lilac Luster",
+    "hexCode": "AE98AA",
+    "createdAt": "2019-12-13T23:44:24.753Z",
+    "updatedAt": "2019-12-13T23:44:24.753Z"
+  },
+  {
+    "objectId": "OKZyTZQ56J",
+    "name": "Little boy blue",
+    "hexCode": "6CA0DC",
+    "createdAt": "2019-12-13T23:44:24.754Z",
+    "updatedAt": "2019-12-13T23:44:24.754Z"
+  },
+  {
+    "objectId": "OPtIrplKpY",
+    "name": "Linen",
+    "hexCode": "FAF0E6",
+    "createdAt": "2019-12-13T23:44:24.753Z",
+    "updatedAt": "2019-12-13T23:44:24.753Z"
+  },
+  {
+    "objectId": "V1wIeTtK7J",
+    "name": "Lime (color wheel)",
+    "hexCode": "BFFF00",
+    "createdAt": "2019-12-13T23:44:24.753Z",
+    "updatedAt": "2019-12-13T23:44:24.753Z"
+  },
+  {
+    "objectId": "IP4ZCXPaUh",
+    "name": "Lincoln green",
+    "hexCode": "195905",
+    "createdAt": "2019-12-13T23:44:24.753Z",
+    "updatedAt": "2019-12-13T23:44:24.753Z"
+  },
+  {
+    "objectId": "gnlzIV0sK5",
+    "name": "Liver",
+    "hexCode": "674C47",
+    "createdAt": "2019-12-13T23:44:24.754Z",
+    "updatedAt": "2019-12-13T23:44:24.754Z"
+  },
+  {
+    "objectId": "1VwFE7A7aP",
+    "name": "Liseran purple",
+    "hexCode": "DE6FA1",
+    "createdAt": "2019-12-13T23:44:24.754Z",
+    "updatedAt": "2019-12-13T23:44:24.754Z"
+  },
+  {
+    "objectId": "Pb3TpqlsiP",
+    "name": "Lion",
+    "hexCode": "C19A6B",
+    "createdAt": "2019-12-13T23:44:24.753Z",
+    "updatedAt": "2019-12-13T23:44:24.753Z"
+  },
+  {
+    "objectId": "tJ28zxHxB7",
+    "name": "Lime green",
+    "hexCode": "32CD32",
+    "createdAt": "2019-12-13T23:44:24.753Z",
+    "updatedAt": "2019-12-13T23:44:24.753Z"
+  },
+  {
+    "objectId": "kcPvz6VZBj",
+    "name": "Lime (web) (X11 green)",
+    "hexCode": "00FF00",
+    "createdAt": "2019-12-13T23:44:24.753Z",
+    "updatedAt": "2019-12-13T23:44:24.753Z"
+  },
+  {
+    "objectId": "3hpMaUNHdc",
+    "name": "Liver (dogs)",
+    "hexCode": "B86D29",
+    "createdAt": "2019-12-13T23:44:24.754Z",
+    "updatedAt": "2019-12-13T23:44:24.754Z"
+  },
+  {
+    "objectId": "SgpyikWaun",
+    "name": "Liver chestnut",
+    "hexCode": "987456",
+    "createdAt": "2019-12-13T23:44:24.754Z",
+    "updatedAt": "2019-12-13T23:44:24.754Z"
+  },
+  {
+    "objectId": "Hm4iaUMDwC",
+    "name": "Liver (organ)",
+    "hexCode": "6C2E1F",
+    "createdAt": "2019-12-13T23:44:24.754Z",
+    "updatedAt": "2019-12-13T23:44:24.754Z"
+  },
+  {
+    "objectId": "JQx6QrGPTo",
+    "name": "Livid",
+    "hexCode": "6699CC",
+    "createdAt": "2019-12-13T23:44:24.754Z",
+    "updatedAt": "2019-12-13T23:44:24.754Z"
+  },
+  {
+    "objectId": "Smhz7yGhWS",
+    "name": "Macaroni and Cheese",
+    "hexCode": "FFBD88",
+    "createdAt": "2019-12-13T23:44:24.754Z",
+    "updatedAt": "2019-12-13T23:44:24.754Z"
+  },
+  {
+    "objectId": "JjhhKTxGTi",
+    "name": "Madder Lake",
+    "hexCode": "CC3336",
+    "createdAt": "2019-12-13T23:44:24.754Z",
+    "updatedAt": "2019-12-13T23:44:24.754Z"
+  },
+  {
+    "objectId": "NEF0qdIz7Z",
+    "name": "Magenta (Pantone)",
+    "hexCode": "D0417E",
+    "createdAt": "2019-12-13T23:44:24.754Z",
+    "updatedAt": "2019-12-13T23:44:24.754Z"
+  },
+  {
+    "objectId": "jcEvaAsHXp",
+    "name": "Magenta (dye)",
+    "hexCode": "CA1F7B",
+    "createdAt": "2019-12-13T23:44:24.754Z",
+    "updatedAt": "2019-12-13T23:44:24.754Z"
+  },
+  {
+    "objectId": "FH2M2hh0eS",
+    "name": "Magenta",
+    "hexCode": "FF00FF",
+    "createdAt": "2019-12-13T23:44:24.754Z",
+    "updatedAt": "2019-12-13T23:44:24.754Z"
+  },
+  {
+    "objectId": "4jSucdKbyd",
+    "name": "Magenta (Crayola)",
+    "hexCode": "F653A6",
+    "createdAt": "2019-12-13T23:44:24.754Z",
+    "updatedAt": "2019-12-13T23:44:24.754Z"
+  },
+  {
+    "objectId": "sH3yZbE9TP",
+    "name": "Magenta (process)",
+    "hexCode": "FF0090",
+    "createdAt": "2019-12-13T23:44:25.316Z",
+    "updatedAt": "2019-12-13T23:44:25.316Z"
+  },
+  {
+    "objectId": "1mQt9i1xyq",
+    "name": "Mahogany",
+    "hexCode": "C04000",
+    "createdAt": "2019-12-13T23:44:25.316Z",
+    "updatedAt": "2019-12-13T23:44:25.316Z"
+  },
+  {
+    "objectId": "hsgXPzoBDa",
+    "name": "Magenta haze",
+    "hexCode": "9F4576",
+    "createdAt": "2019-12-13T23:44:25.316Z",
+    "updatedAt": "2019-12-13T23:44:25.316Z"
+  },
+  {
+    "objectId": "AtgcegUmEF",
+    "name": "Magic mint",
+    "hexCode": "AAF0D1",
+    "createdAt": "2019-12-13T23:44:25.316Z",
+    "updatedAt": "2019-12-13T23:44:25.316Z"
+  },
+  {
+    "objectId": "AR6K62CQCS",
+    "name": "Magnolia",
+    "hexCode": "F8F4FF",
+    "createdAt": "2019-12-13T23:44:25.316Z",
+    "updatedAt": "2019-12-13T23:44:25.316Z"
+  },
+  {
+    "objectId": "zw6wN35I3c",
+    "name": "Malachite",
+    "hexCode": "0BDA51",
+    "createdAt": "2019-12-13T23:44:25.316Z",
+    "updatedAt": "2019-12-13T23:44:25.316Z"
+  },
+  {
+    "objectId": "pCGYtyitQu",
+    "name": "Maize (Crayola)",
+    "hexCode": "F2C649",
+    "createdAt": "2019-12-13T23:44:25.316Z",
+    "updatedAt": "2019-12-13T23:44:25.316Z"
+  },
+  {
+    "objectId": "c2QIwiw9dm",
+    "name": "Majorelle blue",
+    "hexCode": "6050DC",
+    "createdAt": "2019-12-13T23:44:25.316Z",
+    "updatedAt": "2019-12-13T23:44:25.316Z"
+  },
+  {
+    "objectId": "P5u1ioOHnX",
+    "name": "Manatee",
+    "hexCode": "979AAA",
+    "createdAt": "2019-12-13T23:44:25.316Z",
+    "updatedAt": "2019-12-13T23:44:25.316Z"
+  },
+  {
+    "objectId": "7obieLL7pS",
+    "name": "Maize",
+    "hexCode": "FBEC5D",
+    "createdAt": "2019-12-13T23:44:25.316Z",
+    "updatedAt": "2019-12-13T23:44:25.316Z"
+  },
+  {
+    "objectId": "pArjZ4a2wH",
+    "name": "Maroon (X11)",
+    "hexCode": "B03060",
+    "createdAt": "2019-12-13T23:44:25.317Z",
+    "updatedAt": "2019-12-13T23:44:25.317Z"
+  },
+  {
+    "objectId": "sc2934whVq",
+    "name": "Mardi Gras",
+    "hexCode": "880085",
+    "createdAt": "2019-12-13T23:44:25.317Z",
+    "updatedAt": "2019-12-13T23:44:25.317Z"
+  },
+  {
+    "objectId": "0rm1I5b6vC",
+    "name": "Mantis",
+    "hexCode": "74C365",
+    "createdAt": "2019-12-13T23:44:25.316Z",
+    "updatedAt": "2019-12-13T23:44:25.316Z"
+  },
+  {
+    "objectId": "Mk2bz7zIPs",
+    "name": "Mango",
+    "hexCode": "FDBE02",
+    "createdAt": "2019-12-13T23:44:25.316Z",
+    "updatedAt": "2019-12-13T23:44:25.316Z"
+  },
+  {
+    "objectId": "uhdQLSe7CZ",
+    "name": "Mandarin",
+    "hexCode": "F37A48",
+    "createdAt": "2019-12-13T23:44:25.316Z",
+    "updatedAt": "2019-12-13T23:44:25.316Z"
+  },
+  {
+    "objectId": "6eg09F4MzT",
+    "name": "Mango Tango",
+    "hexCode": "FF8243",
+    "createdAt": "2019-12-13T23:44:25.316Z",
+    "updatedAt": "2019-12-13T23:44:25.316Z"
+  },
+  {
+    "objectId": "6e7qBVps8P",
+    "name": "Maroon (Crayola)",
+    "hexCode": "C32148",
+    "createdAt": "2019-12-13T23:44:25.317Z",
+    "updatedAt": "2019-12-13T23:44:25.317Z"
+  },
+  {
+    "objectId": "8yoHdFRjfE",
+    "name": "Mauve",
+    "hexCode": "E0B0FF",
+    "createdAt": "2019-12-13T23:44:25.317Z",
+    "updatedAt": "2019-12-13T23:44:25.317Z"
+  },
+  {
+    "objectId": "dqMnA7HYWI",
+    "name": "Marigold",
+    "hexCode": "EAA221",
+    "createdAt": "2019-12-13T23:44:25.317Z",
+    "updatedAt": "2019-12-13T23:44:25.317Z"
+  },
+  {
+    "objectId": "ASyyPXFfxl",
+    "name": "Maroon (web)",
+    "hexCode": "800000",
+    "createdAt": "2019-12-13T23:44:25.317Z",
+    "updatedAt": "2019-12-13T23:44:25.317Z"
+  },
+  {
+    "objectId": "pNaIPrQq1U",
+    "name": "Maximum blue purple",
+    "hexCode": "ACACE6",
+    "createdAt": "2019-12-13T23:44:25.350Z",
+    "updatedAt": "2019-12-13T23:44:25.350Z"
+  },
+  {
+    "objectId": "YUihRHdo14",
+    "name": "Medium aquamarine",
+    "hexCode": "66DDAA",
+    "createdAt": "2019-12-13T23:44:25.350Z",
+    "updatedAt": "2019-12-13T23:44:25.350Z"
+  },
+  {
+    "objectId": "JTSoPaof7p",
+    "name": "Maximum red purple",
+    "hexCode": "A63A79",
+    "createdAt": "2019-12-13T23:44:25.350Z",
+    "updatedAt": "2019-12-13T23:44:25.350Z"
+  },
+  {
+    "objectId": "HFnTZXoSp3",
+    "name": "Maximum blue",
+    "hexCode": "47ABCC",
+    "createdAt": "2019-12-13T23:44:25.350Z",
+    "updatedAt": "2019-12-13T23:44:25.350Z"
+  },
+  {
+    "objectId": "2AaC8hVGtj",
+    "name": "Maximum blue green",
+    "hexCode": "30BFBF",
+    "createdAt": "2019-12-13T23:44:25.350Z",
+    "updatedAt": "2019-12-13T23:44:25.350Z"
+  },
+  {
+    "objectId": "fkBS1SJVnH",
+    "name": "Medium orchid",
+    "hexCode": "BA55D3",
+    "createdAt": "2019-12-13T23:44:25.350Z",
+    "updatedAt": "2019-12-13T23:44:25.350Z"
+  },
+  {
+    "objectId": "mEGDIpXKEL",
+    "name": "Mauve taupe",
+    "hexCode": "915F6D",
+    "createdAt": "2019-12-13T23:44:25.350Z",
+    "updatedAt": "2019-12-13T23:44:25.350Z"
+  },
+  {
+    "objectId": "oBFwgjL65G",
+    "name": "Mauvelous",
+    "hexCode": "EF98AA",
+    "createdAt": "2019-12-13T23:44:25.350Z",
+    "updatedAt": "2019-12-13T23:44:25.350Z"
+  },
+  {
+    "objectId": "k4jtXgVVrJ",
+    "name": "Maximum red",
+    "hexCode": "D92121",
+    "createdAt": "2019-12-13T23:44:25.350Z",
+    "updatedAt": "2019-12-13T23:44:25.350Z"
+  },
+  {
+    "objectId": "gxgAwcVhqD",
+    "name": "Maximum green",
+    "hexCode": "5E8C31",
+    "createdAt": "2019-12-13T23:44:25.350Z",
+    "updatedAt": "2019-12-13T23:44:25.350Z"
+  },
+  {
+    "objectId": "zGMq3sboPg",
+    "name": "Maximum purple",
+    "hexCode": "733380",
+    "createdAt": "2019-12-13T23:44:25.350Z",
+    "updatedAt": "2019-12-13T23:44:25.350Z"
+  },
+  {
+    "objectId": "v9cCMPPCY9",
+    "name": "Maximum green yellow",
+    "hexCode": "D9E650",
+    "createdAt": "2019-12-13T23:44:25.350Z",
+    "updatedAt": "2019-12-13T23:44:25.350Z"
+  },
+  {
+    "objectId": "VCzWQviYWV",
+    "name": "Maximum yellow",
+    "hexCode": "FAFA37",
+    "createdAt": "2019-12-13T23:44:25.350Z",
+    "updatedAt": "2019-12-13T23:44:25.350Z"
+  },
+  {
+    "objectId": "9Oft58u3Rv",
+    "name": "Maya blue",
+    "hexCode": "73C2FB",
+    "createdAt": "2019-12-13T23:44:25.350Z",
+    "updatedAt": "2019-12-13T23:44:25.350Z"
+  },
+  {
+    "objectId": "s0G7YdRcsD",
+    "name": "May green",
+    "hexCode": "4C9141",
+    "createdAt": "2019-12-13T23:44:25.350Z",
+    "updatedAt": "2019-12-13T23:44:25.350Z"
+  },
+  {
+    "objectId": "dSOIViyaPJ",
+    "name": "Maximum yellow red",
+    "hexCode": "F2BA49",
+    "createdAt": "2019-12-13T23:44:25.350Z",
+    "updatedAt": "2019-12-13T23:44:25.350Z"
+  },
+  {
+    "objectId": "EJYgXX4LCj",
+    "name": "Medium candy apple red",
+    "hexCode": "E2062C",
+    "createdAt": "2019-12-13T23:44:25.350Z",
+    "updatedAt": "2019-12-13T23:44:25.350Z"
+  },
+  {
+    "objectId": "yzyOXn4PZu",
+    "name": "Medium carmine",
+    "hexCode": "AF4035",
+    "createdAt": "2019-12-13T23:44:25.350Z",
+    "updatedAt": "2019-12-13T23:44:25.350Z"
+  },
+  {
+    "objectId": "YDivlgwf3s",
+    "name": "Medium blue",
+    "hexCode": "0000CD",
+    "createdAt": "2019-12-13T23:44:25.350Z",
+    "updatedAt": "2019-12-13T23:44:25.350Z"
+  },
+  {
+    "objectId": "Q9fKkmuLJo",
+    "name": "Medium champagne",
+    "hexCode": "F3E5AB",
+    "createdAt": "2019-12-13T23:44:25.350Z",
+    "updatedAt": "2019-12-13T23:44:25.350Z"
+  },
+  {
+    "objectId": "Z47HRldB0Y",
+    "name": "Medium slate blue",
+    "hexCode": "7B68EE",
+    "createdAt": "2019-12-13T23:44:25.699Z",
+    "updatedAt": "2019-12-13T23:44:25.699Z"
+  },
+  {
+    "objectId": "SgmgwqY1hz",
+    "name": "Medium sea green",
+    "hexCode": "3CB371",
+    "createdAt": "2019-12-13T23:44:25.699Z",
+    "updatedAt": "2019-12-13T23:44:25.699Z"
+  },
+  {
+    "objectId": "Ru8EkfzVnZ",
+    "name": "Medium purple",
+    "hexCode": "9370DB",
+    "createdAt": "2019-12-13T23:44:25.699Z",
+    "updatedAt": "2019-12-13T23:44:25.699Z"
+  },
+  {
+    "objectId": "Nlk3CDylzI",
+    "name": "Medium spring green",
+    "hexCode": "00FA9A",
+    "createdAt": "2019-12-13T23:44:25.699Z",
+    "updatedAt": "2019-12-13T23:44:25.699Z"
+  },
+  {
+    "objectId": "0UisxvAwE4",
+    "name": "Medium turquoise",
+    "hexCode": "48D1CC",
+    "createdAt": "2019-12-13T23:44:25.699Z",
+    "updatedAt": "2019-12-13T23:44:25.699Z"
+  },
+  {
+    "objectId": "PO0IoR0kGX",
+    "name": "Mellow apricot",
+    "hexCode": "F8B878",
+    "createdAt": "2019-12-13T23:44:25.699Z",
+    "updatedAt": "2019-12-13T23:44:25.699Z"
+  },
+  {
+    "objectId": "ucfmTROINP",
+    "name": "Mellow yellow",
+    "hexCode": "F8DE7E",
+    "createdAt": "2019-12-13T23:44:25.699Z",
+    "updatedAt": "2019-12-13T23:44:25.699Z"
+  },
+  {
+    "objectId": "cUgMmuFYZ5",
+    "name": "Melon",
+    "hexCode": "FEBAAD",
+    "createdAt": "2019-12-13T23:44:25.699Z",
+    "updatedAt": "2019-12-13T23:44:25.699Z"
+  },
+  {
+    "objectId": "7AqlbL3TE5",
+    "name": "Medium violet-red",
+    "hexCode": "C71585",
+    "createdAt": "2019-12-13T23:44:25.699Z",
+    "updatedAt": "2019-12-13T23:44:25.699Z"
+  },
+  {
+    "objectId": "s06EwIwKee",
+    "name": "Metallic gold",
+    "hexCode": "D3AF37",
+    "createdAt": "2019-12-13T23:44:25.699Z",
+    "updatedAt": "2019-12-13T23:44:25.699Z"
+  },
+  {
+    "objectId": "tr55KfG5Hy",
+    "name": "Metallic Seaweed",
+    "hexCode": "0A7E8C",
+    "createdAt": "2019-12-13T23:44:25.699Z",
+    "updatedAt": "2019-12-13T23:44:25.699Z"
+  },
+  {
+    "objectId": "tdgcZHZjwd",
+    "name": "Metallic Sunburst",
+    "hexCode": "9C7C38",
+    "createdAt": "2019-12-13T23:44:25.699Z",
+    "updatedAt": "2019-12-13T23:44:25.699Z"
+  },
+  {
+    "objectId": "NNjZOuQtOS",
+    "name": "Middle blue",
+    "hexCode": "7ED4E6",
+    "createdAt": "2019-12-13T23:44:25.699Z",
+    "updatedAt": "2019-12-13T23:44:25.699Z"
+  },
+  {
+    "objectId": "cFXRoVfB0B",
+    "name": "Middle blue green",
+    "hexCode": "8DD9CC",
+    "createdAt": "2019-12-13T23:44:25.699Z",
+    "updatedAt": "2019-12-13T23:44:25.699Z"
+  },
+  {
+    "objectId": "PDn7V6ArHb",
+    "name": "Mexican pink",
+    "hexCode": "E4007C",
+    "createdAt": "2019-12-13T23:44:25.699Z",
+    "updatedAt": "2019-12-13T23:44:25.699Z"
+  },
+  {
+    "objectId": "HMpiliqVSa",
+    "name": "Middle blue purple",
+    "hexCode": "8B72BE",
+    "createdAt": "2019-12-13T23:44:25.699Z",
+    "updatedAt": "2019-12-13T23:44:25.699Z"
+  },
+  {
+    "objectId": "2GcJArCURB",
+    "name": "Middle green",
+    "hexCode": "4D8C57",
+    "createdAt": "2019-12-13T23:44:25.699Z",
+    "updatedAt": "2019-12-13T23:44:25.699Z"
+  },
+  {
+    "objectId": "xwuIk6OPmA",
+    "name": "Middle grey",
+    "hexCode": "8B8680",
+    "createdAt": "2019-12-13T23:44:25.699Z",
+    "updatedAt": "2019-12-13T23:44:25.699Z"
+  },
+  {
+    "objectId": "rnjGyIMfPq",
+    "name": "Middle purple",
+    "hexCode": "D982B5",
+    "createdAt": "2019-12-13T23:44:25.699Z",
+    "updatedAt": "2019-12-13T23:44:25.699Z"
+  },
+  {
+    "objectId": "7RnObynUAX",
+    "name": "Middle green yellow",
+    "hexCode": "ACBF60",
+    "createdAt": "2019-12-13T23:44:25.699Z",
+    "updatedAt": "2019-12-13T23:44:25.699Z"
+  },
+  {
+    "objectId": "B1yDD11lQg",
+    "name": "Middle yellow",
+    "hexCode": "FFEB00",
+    "createdAt": "2019-12-13T23:44:25.913Z",
+    "updatedAt": "2019-12-13T23:44:25.913Z"
+  },
+  {
+    "objectId": "OD05M5lmew",
+    "name": "Middle red purple",
+    "hexCode": "A55353",
+    "createdAt": "2019-12-13T23:44:25.913Z",
+    "updatedAt": "2019-12-13T23:44:25.913Z"
+  },
+  {
+    "objectId": "z1v8MixudD",
+    "name": "Middle red",
+    "hexCode": "E58E73",
+    "createdAt": "2019-12-13T23:44:25.913Z",
+    "updatedAt": "2019-12-13T23:44:25.913Z"
+  },
+  {
+    "objectId": "wnvvPFSjl4",
+    "name": "Midnight",
+    "hexCode": "702670",
+    "createdAt": "2019-12-13T23:44:25.913Z",
+    "updatedAt": "2019-12-13T23:44:25.913Z"
+  },
+  {
+    "objectId": "4t0OkdBJr2",
+    "name": "Middle yellow red",
+    "hexCode": "ECB176",
+    "createdAt": "2019-12-13T23:44:25.913Z",
+    "updatedAt": "2019-12-13T23:44:25.913Z"
+  },
+  {
+    "objectId": "5vI1ffw8kH",
+    "name": "Midnight blue",
+    "hexCode": "191970",
+    "createdAt": "2019-12-13T23:44:25.913Z",
+    "updatedAt": "2019-12-13T23:44:25.913Z"
+  },
+  {
+    "objectId": "9nRuSMsJpq",
+    "name": "Mimi pink",
+    "hexCode": "FFDAE9",
+    "createdAt": "2019-12-13T23:44:25.913Z",
+    "updatedAt": "2019-12-13T23:44:25.913Z"
+  },
+  {
+    "objectId": "svsjyhD4LE",
+    "name": "Mindaro",
+    "hexCode": "E3F988",
+    "createdAt": "2019-12-13T23:44:25.913Z",
+    "updatedAt": "2019-12-13T23:44:25.913Z"
+  },
+  {
+    "objectId": "wxCryZNCwG",
+    "name": "Mikado yellow",
+    "hexCode": "FFC40C",
+    "createdAt": "2019-12-13T23:44:25.913Z",
+    "updatedAt": "2019-12-13T23:44:25.913Z"
+  },
+  {
+    "objectId": "lBx41DtgJ9",
+    "name": "Midnight green (eagle green)",
+    "hexCode": "004953",
+    "createdAt": "2019-12-13T23:44:25.913Z",
+    "updatedAt": "2019-12-13T23:44:25.913Z"
+  },
+  {
+    "objectId": "SMQZlSFC6d",
+    "name": "Mint cream",
+    "hexCode": "F5FFFA",
+    "createdAt": "2019-12-13T23:44:25.913Z",
+    "updatedAt": "2019-12-13T23:44:25.913Z"
+  },
+  {
+    "objectId": "RtXEsIflCZ",
+    "name": "Mint green",
+    "hexCode": "98FF98",
+    "createdAt": "2019-12-13T23:44:25.913Z",
+    "updatedAt": "2019-12-13T23:44:25.913Z"
+  },
+  {
+    "objectId": "W0BZ6XLjp4",
+    "name": "Mint",
+    "hexCode": "3EB489",
+    "createdAt": "2019-12-13T23:44:25.913Z",
+    "updatedAt": "2019-12-13T23:44:25.913Z"
+  },
+  {
+    "objectId": "oMGGETW0zh",
+    "name": "Minion yellow",
+    "hexCode": "F5E050",
+    "createdAt": "2019-12-13T23:44:25.913Z",
+    "updatedAt": "2019-12-13T23:44:25.913Z"
+  },
+  {
+    "objectId": "HDYTETTv3x",
+    "name": "Ming",
+    "hexCode": "36747D",
+    "createdAt": "2019-12-13T23:44:25.913Z",
+    "updatedAt": "2019-12-13T23:44:25.913Z"
+  },
+  {
+    "objectId": "QCOlV3g8TH",
+    "name": "Morning blue",
+    "hexCode": "8DA399",
+    "createdAt": "2019-12-13T23:44:25.913Z",
+    "updatedAt": "2019-12-13T23:44:25.913Z"
+  },
+  {
+    "objectId": "kW9cpLp08m",
+    "name": "Mode beige",
+    "hexCode": "967117",
+    "createdAt": "2019-12-13T23:44:25.913Z",
+    "updatedAt": "2019-12-13T23:44:25.913Z"
+  },
+  {
+    "objectId": "KOEcI2ejV8",
+    "name": "Misty moss",
+    "hexCode": "BBB477",
+    "createdAt": "2019-12-13T23:44:25.913Z",
+    "updatedAt": "2019-12-13T23:44:25.913Z"
+  },
+  {
+    "objectId": "SGfhtiUqMo",
+    "name": "Moss green",
+    "hexCode": "8A9A5B",
+    "createdAt": "2019-12-13T23:44:25.913Z",
+    "updatedAt": "2019-12-13T23:44:25.913Z"
+  },
+  {
+    "objectId": "NZZ5pOY4QK",
+    "name": "Misty rose",
+    "hexCode": "FFE4E1",
+    "createdAt": "2019-12-13T23:44:25.913Z",
+    "updatedAt": "2019-12-13T23:44:25.913Z"
+  },
+  {
+    "objectId": "AyGD3H9TsB",
+    "name": "Mountain Meadow",
+    "hexCode": "30BA8F",
+    "createdAt": "2019-12-13T23:44:26.103Z",
+    "updatedAt": "2019-12-13T23:44:26.103Z"
+  },
+  {
+    "objectId": "SDpVyRzdgR",
+    "name": "Mountbatten pink",
+    "hexCode": "997A8D",
+    "createdAt": "2019-12-13T23:44:26.103Z",
+    "updatedAt": "2019-12-13T23:44:26.103Z"
+  },
+  {
+    "objectId": "AgCcVwlYdB",
+    "name": "Mulberry (Crayola)",
+    "hexCode": "C8509B",
+    "createdAt": "2019-12-13T23:44:26.103Z",
+    "updatedAt": "2019-12-13T23:44:26.103Z"
+  },
+  {
+    "objectId": "9aCovKgtnE",
+    "name": "MSU green",
+    "hexCode": "18453B",
+    "createdAt": "2019-12-13T23:44:26.103Z",
+    "updatedAt": "2019-12-13T23:44:26.103Z"
+  },
+  {
+    "objectId": "7PCogf0w6j",
+    "name": "Mulberry",
+    "hexCode": "C54B8C",
+    "createdAt": "2019-12-13T23:44:26.103Z",
+    "updatedAt": "2019-12-13T23:44:26.103Z"
+  },
+  {
+    "objectId": "BEUa5fkOFR",
+    "name": "Mystic maroon",
+    "hexCode": "AD4379",
+    "createdAt": "2019-12-13T23:44:26.103Z",
+    "updatedAt": "2019-12-13T23:44:26.103Z"
+  },
+  {
+    "objectId": "1MkYy8aAIt",
+    "name": "Mystic",
+    "hexCode": "D65282",
+    "createdAt": "2019-12-13T23:44:26.103Z",
+    "updatedAt": "2019-12-13T23:44:26.103Z"
+  },
+  {
+    "objectId": "HtAU4cfovV",
+    "name": "Mustard",
+    "hexCode": "FFDB58",
+    "createdAt": "2019-12-13T23:44:26.103Z",
+    "updatedAt": "2019-12-13T23:44:26.103Z"
+  },
+  {
+    "objectId": "iHdP1JmWSQ",
+    "name": "Nadeshiko pink",
+    "hexCode": "F6ADC6",
+    "createdAt": "2019-12-13T23:44:26.103Z",
+    "updatedAt": "2019-12-13T23:44:26.103Z"
+  },
+  {
+    "objectId": "Xb0YuheobH",
+    "name": "Myrtle green",
+    "hexCode": "317873",
+    "createdAt": "2019-12-13T23:44:26.103Z",
+    "updatedAt": "2019-12-13T23:44:26.103Z"
+  },
+  {
+    "objectId": "Capdzs3ual",
+    "name": "Navajo white",
+    "hexCode": "FFDEAD",
+    "createdAt": "2019-12-13T23:44:26.103Z",
+    "updatedAt": "2019-12-13T23:44:26.103Z"
+  },
+  {
+    "objectId": "INCJ5ZOyND",
+    "name": "Navy blue",
+    "hexCode": "000080",
+    "createdAt": "2019-12-13T23:44:26.103Z",
+    "updatedAt": "2019-12-13T23:44:26.103Z"
+  },
+  {
+    "objectId": "gpb5J7nWrB",
+    "name": "Navy blue (Crayola)",
+    "hexCode": "1974D2",
+    "createdAt": "2019-12-13T23:44:26.103Z",
+    "updatedAt": "2019-12-13T23:44:26.103Z"
+  },
+  {
+    "objectId": "n4T1fzcDUu",
+    "name": "Naples yellow",
+    "hexCode": "FADA5E",
+    "createdAt": "2019-12-13T23:44:26.103Z",
+    "updatedAt": "2019-12-13T23:44:26.103Z"
+  },
+  {
+    "objectId": "9jzkKErCAj",
+    "name": "Neon blue",
+    "hexCode": "4666FF",
+    "createdAt": "2019-12-13T23:44:26.103Z",
+    "updatedAt": "2019-12-13T23:44:26.103Z"
+  },
+  {
+    "objectId": "bvzc3epDF3",
+    "name": "Neon green",
+    "hexCode": "39FF14",
+    "createdAt": "2019-12-13T23:44:26.103Z",
+    "updatedAt": "2019-12-13T23:44:26.103Z"
+  },
+  {
+    "objectId": "jxe2wbeKiO",
+    "name": "Non-photo blue",
+    "hexCode": "A4DDED",
+    "createdAt": "2019-12-13T23:44:26.103Z",
+    "updatedAt": "2019-12-13T23:44:26.103Z"
+  },
+  {
+    "objectId": "YCCGD89Mk9",
+    "name": "New York pink",
+    "hexCode": "D7837F",
+    "createdAt": "2019-12-13T23:44:26.103Z",
+    "updatedAt": "2019-12-13T23:44:26.103Z"
+  },
+  {
+    "objectId": "KwbiL030Xs",
+    "name": "Nyanza",
+    "hexCode": "E9FFDB",
+    "createdAt": "2019-12-13T23:44:26.103Z",
+    "updatedAt": "2019-12-13T23:44:26.103Z"
+  },
+  {
+    "objectId": "mAUcvndvuF",
+    "name": "Nickel",
+    "hexCode": "727472",
+    "createdAt": "2019-12-13T23:44:26.103Z",
+    "updatedAt": "2019-12-13T23:44:26.103Z"
+  },
+  {
+    "objectId": "SbBtOH4iaJ",
+    "name": "Ocean Blue",
+    "hexCode": "4F42B5",
+    "createdAt": "2019-12-13T23:44:26.282Z",
+    "updatedAt": "2019-12-13T23:44:26.282Z"
+  },
+  {
+    "objectId": "EN2gMg9OW1",
+    "name": "Ochre",
+    "hexCode": "CC7722",
+    "createdAt": "2019-12-13T23:44:26.282Z",
+    "updatedAt": "2019-12-13T23:44:26.282Z"
+  },
+  {
+    "objectId": "MYkJQEOanK",
+    "name": "Ocean green",
+    "hexCode": "48BF91",
+    "createdAt": "2019-12-13T23:44:26.282Z",
+    "updatedAt": "2019-12-13T23:44:26.282Z"
+  },
+  {
+    "objectId": "zGFheAIYjH",
+    "name": "Old gold",
+    "hexCode": "CFB53B",
+    "createdAt": "2019-12-13T23:44:26.282Z",
+    "updatedAt": "2019-12-13T23:44:26.282Z"
+  },
+  {
+    "objectId": "u0ggqPJBav",
+    "name": "Old burgundy",
+    "hexCode": "43302E",
+    "createdAt": "2019-12-13T23:44:26.282Z",
+    "updatedAt": "2019-12-13T23:44:26.282Z"
+  },
+  {
+    "objectId": "eX3bY9ZQgG",
+    "name": "Old lace",
+    "hexCode": "FDF5E6",
+    "createdAt": "2019-12-13T23:44:26.282Z",
+    "updatedAt": "2019-12-13T23:44:26.282Z"
+  },
+  {
+    "objectId": "StLaubDvII",
+    "name": "Old silver",
+    "hexCode": "848482",
+    "createdAt": "2019-12-13T23:44:26.282Z",
+    "updatedAt": "2019-12-13T23:44:26.282Z"
+  },
+  {
+    "objectId": "75xzHLWmuJ",
+    "name": "Old rose",
+    "hexCode": "C08081",
+    "createdAt": "2019-12-13T23:44:26.282Z",
+    "updatedAt": "2019-12-13T23:44:26.282Z"
+  },
+  {
+    "objectId": "Gn7swXu308",
+    "name": "Old lavender",
+    "hexCode": "796878",
+    "createdAt": "2019-12-13T23:44:26.282Z",
+    "updatedAt": "2019-12-13T23:44:26.282Z"
+  },
+  {
+    "objectId": "xR8Lz5EEj5",
+    "name": "Olive",
+    "hexCode": "808000",
+    "createdAt": "2019-12-13T23:44:26.282Z",
+    "updatedAt": "2019-12-13T23:44:26.282Z"
+  },
+  {
+    "objectId": "S0ezEyQxEl",
+    "name": "Old mauve",
+    "hexCode": "673147",
+    "createdAt": "2019-12-13T23:44:26.282Z",
+    "updatedAt": "2019-12-13T23:44:26.282Z"
+  },
+  {
+    "objectId": "Ak8S0KbSLk",
+    "name": "Olive Drab (3)",
+    "hexCode": "6B8E23",
+    "createdAt": "2019-12-13T23:44:26.282Z",
+    "updatedAt": "2019-12-13T23:44:26.282Z"
+  },
+  {
+    "objectId": "cDLyM7w1Dq",
+    "name": "Olive green",
+    "hexCode": "B5B35C",
+    "createdAt": "2019-12-13T23:44:26.282Z",
+    "updatedAt": "2019-12-13T23:44:26.282Z"
+  },
+  {
+    "objectId": "i7GLCXeQcE",
+    "name": "Olivine",
+    "hexCode": "9AB973",
+    "createdAt": "2019-12-13T23:44:26.282Z",
+    "updatedAt": "2019-12-13T23:44:26.282Z"
+  },
+  {
+    "objectId": "GdDQKcVK8g",
+    "name": "Orange (Crayola)",
+    "hexCode": "FF7538",
+    "createdAt": "2019-12-13T23:44:26.283Z",
+    "updatedAt": "2019-12-13T23:44:26.283Z"
+  },
+  {
+    "objectId": "DJVxqikTKw",
+    "name": "Olive Drab 7",
+    "hexCode": "3C341F",
+    "createdAt": "2019-12-13T23:44:26.282Z",
+    "updatedAt": "2019-12-13T23:44:26.282Z"
+  },
+  {
+    "objectId": "S5j9aR8f6r",
+    "name": "Onyx",
+    "hexCode": "353839",
+    "createdAt": "2019-12-13T23:44:26.282Z",
+    "updatedAt": "2019-12-13T23:44:26.282Z"
+  },
+  {
+    "objectId": "r2Yf4hVQ6C",
+    "name": "Opal",
+    "hexCode": "A8C3BC",
+    "createdAt": "2019-12-13T23:44:26.282Z",
+    "updatedAt": "2019-12-13T23:44:26.282Z"
+  },
+  {
+    "objectId": "5GEo5HSUaH",
+    "name": "Opera mauve",
+    "hexCode": "B784A7",
+    "createdAt": "2019-12-13T23:44:26.282Z",
+    "updatedAt": "2019-12-13T23:44:26.282Z"
+  },
+  {
+    "objectId": "gM8hVxVciM",
+    "name": "Orange",
+    "hexCode": "FF7F00",
+    "createdAt": "2019-12-13T23:44:26.282Z",
+    "updatedAt": "2019-12-13T23:44:26.282Z"
+  },
+  {
+    "objectId": "p5RipajPx4",
+    "name": "Orange-red",
+    "hexCode": "FF681F",
+    "createdAt": "2019-12-13T23:44:26.511Z",
+    "updatedAt": "2019-12-13T23:44:26.511Z"
+  },
+  {
+    "objectId": "V9md0lUdcH",
+    "name": "Orange peel",
+    "hexCode": "FF9F00",
+    "createdAt": "2019-12-13T23:44:26.511Z",
+    "updatedAt": "2019-12-13T23:44:26.511Z"
+  },
+  {
+    "objectId": "gTa70VEIqP",
+    "name": "Orange (web)",
+    "hexCode": "FFA500",
+    "createdAt": "2019-12-13T23:44:26.511Z",
+    "updatedAt": "2019-12-13T23:44:26.511Z"
+  },
+  {
+    "objectId": "COTrRKxGAU",
+    "name": "Orange-red (Crayola)",
+    "hexCode": "FF5349",
+    "createdAt": "2019-12-13T23:44:26.511Z",
+    "updatedAt": "2019-12-13T23:44:26.511Z"
+  },
+  {
+    "objectId": "XYQadnIiEc",
+    "name": "Orange (Pantone)",
+    "hexCode": "FF5800",
+    "createdAt": "2019-12-13T23:44:26.511Z",
+    "updatedAt": "2019-12-13T23:44:26.511Z"
+  },
+  {
+    "objectId": "8gi50A6RdV",
+    "name": "Orange-yellow",
+    "hexCode": "F5BD1F",
+    "createdAt": "2019-12-13T23:44:26.511Z",
+    "updatedAt": "2019-12-13T23:44:26.511Z"
+  },
+  {
+    "objectId": "5HZEuN8iz1",
+    "name": "Orchid pink",
+    "hexCode": "F2BDCD",
+    "createdAt": "2019-12-13T23:44:26.511Z",
+    "updatedAt": "2019-12-13T23:44:26.511Z"
+  },
+  {
+    "objectId": "qPAekNgEaC",
+    "name": "Orange-yellow (Crayola)",
+    "hexCode": "F8D568",
+    "createdAt": "2019-12-13T23:44:26.511Z",
+    "updatedAt": "2019-12-13T23:44:26.511Z"
+  },
+  {
+    "objectId": "KpBTfFZNA7",
+    "name": "Orange soda",
+    "hexCode": "FA5B3D",
+    "createdAt": "2019-12-13T23:44:26.511Z",
+    "updatedAt": "2019-12-13T23:44:26.511Z"
+  },
+  {
+    "objectId": "FKWAwMxOh5",
+    "name": "Orchid",
+    "hexCode": "DA70D6",
+    "createdAt": "2019-12-13T23:44:26.511Z",
+    "updatedAt": "2019-12-13T23:44:26.511Z"
+  },
+  {
+    "objectId": "mpjjE9F9Pj",
+    "name": "Oxford blue",
+    "hexCode": "002147",
+    "createdAt": "2019-12-13T23:44:26.511Z",
+    "updatedAt": "2019-12-13T23:44:26.511Z"
+  },
+  {
+    "objectId": "EACS5QBWos",
+    "name": "Outrageous Orange",
+    "hexCode": "FF6E4A",
+    "createdAt": "2019-12-13T23:44:26.511Z",
+    "updatedAt": "2019-12-13T23:44:26.511Z"
+  },
+  {
+    "objectId": "2VC4NVTzue",
+    "name": "Outer space (Crayola)",
+    "hexCode": "2D383A",
+    "createdAt": "2019-12-13T23:44:26.511Z",
+    "updatedAt": "2019-12-13T23:44:26.511Z"
+  },
+  {
+    "objectId": "1PKklpQngp",
+    "name": "Orchid (Crayola)",
+    "hexCode": "E29CD2",
+    "createdAt": "2019-12-13T23:44:26.511Z",
+    "updatedAt": "2019-12-13T23:44:26.511Z"
+  },
+  {
+    "objectId": "SC8MPEG1sD",
+    "name": "Oxblood",
+    "hexCode": "800020",
+    "createdAt": "2019-12-13T23:44:26.511Z",
+    "updatedAt": "2019-12-13T23:44:26.511Z"
+  },
+  {
+    "objectId": "HutrANikdc",
+    "name": "Pale aqua",
+    "hexCode": "BCD4E6",
+    "createdAt": "2019-12-13T23:44:26.511Z",
+    "updatedAt": "2019-12-13T23:44:26.511Z"
+  },
+  {
+    "objectId": "l8aPpybhWa",
+    "name": "Pacific blue",
+    "hexCode": "1CA9C9",
+    "createdAt": "2019-12-13T23:44:26.511Z",
+    "updatedAt": "2019-12-13T23:44:26.511Z"
+  },
+  {
+    "objectId": "8uBSdaUwuZ",
+    "name": "Pakistan green",
+    "hexCode": "006600",
+    "createdAt": "2019-12-13T23:44:26.511Z",
+    "updatedAt": "2019-12-13T23:44:26.511Z"
+  },
+  {
+    "objectId": "xk9766O04v",
+    "name": "OU Crimson red",
+    "hexCode": "841617",
+    "createdAt": "2019-12-13T23:44:26.511Z",
+    "updatedAt": "2019-12-13T23:44:26.511Z"
+  },
+  {
+    "objectId": "WuIvBVCwr5",
+    "name": "Palatinate purple",
+    "hexCode": "682860",
+    "createdAt": "2019-12-13T23:44:26.511Z",
+    "updatedAt": "2019-12-13T23:44:26.511Z"
+  },
+  {
+    "objectId": "MKC7I29Er3",
+    "name": "Pale spring bud",
+    "hexCode": "ECEBBD",
+    "createdAt": "2019-12-13T23:44:26.702Z",
+    "updatedAt": "2019-12-13T23:44:26.702Z"
+  },
+  {
+    "objectId": "pB7zgkIxP4",
+    "name": "Pale pink",
+    "hexCode": "FADADD",
+    "createdAt": "2019-12-13T23:44:26.702Z",
+    "updatedAt": "2019-12-13T23:44:26.702Z"
+  },
+  {
+    "objectId": "hwMEUd91BI",
+    "name": "Pale silver",
+    "hexCode": "C9C0BB",
+    "createdAt": "2019-12-13T23:44:26.702Z",
+    "updatedAt": "2019-12-13T23:44:26.702Z"
+  },
+  {
+    "objectId": "S2lLoUgqca",
+    "name": "Pale purple (Pantone)",
+    "hexCode": "FAE6FA",
+    "createdAt": "2019-12-13T23:44:26.702Z",
+    "updatedAt": "2019-12-13T23:44:26.702Z"
+  },
+  {
+    "objectId": "uyLEvckCEj",
+    "name": "Pale cerulean",
+    "hexCode": "9BC4E2",
+    "createdAt": "2019-12-13T23:44:26.702Z",
+    "updatedAt": "2019-12-13T23:44:26.702Z"
+  },
+  {
+    "objectId": "njQMXspe6W",
+    "name": "Paolo Veronese green",
+    "hexCode": "009B7D",
+    "createdAt": "2019-12-13T23:44:26.702Z",
+    "updatedAt": "2019-12-13T23:44:26.702Z"
+  },
+  {
+    "objectId": "ynJcXacg9G",
+    "name": "Pansy purple",
+    "hexCode": "78184A",
+    "createdAt": "2019-12-13T23:44:26.702Z",
+    "updatedAt": "2019-12-13T23:44:26.702Z"
+  },
+  {
+    "objectId": "fv5DE1oO34",
+    "name": "Paradise pink",
+    "hexCode": "E63E62",
+    "createdAt": "2019-12-13T23:44:26.702Z",
+    "updatedAt": "2019-12-13T23:44:26.702Z"
+  },
+  {
+    "objectId": "XBIYsmoVyN",
+    "name": "Paris Green",
+    "hexCode": "50C878",
+    "createdAt": "2019-12-13T23:44:26.702Z",
+    "updatedAt": "2019-12-13T23:44:26.702Z"
+  },
+  {
+    "objectId": "o3mO7gtsHG",
+    "name": "Papaya whip",
+    "hexCode": "FFEFD5",
+    "createdAt": "2019-12-13T23:44:26.702Z",
+    "updatedAt": "2019-12-13T23:44:26.702Z"
+  },
+  {
+    "objectId": "knC8tC5pJR",
+    "name": "Pastel pink",
+    "hexCode": "DEA5A4",
+    "createdAt": "2019-12-13T23:44:26.702Z",
+    "updatedAt": "2019-12-13T23:44:26.702Z"
+  },
+  {
+    "objectId": "LGAF3xgPsN",
+    "name": "Peach",
+    "hexCode": "FFE5B4",
+    "createdAt": "2019-12-13T23:44:26.702Z",
+    "updatedAt": "2019-12-13T23:44:26.702Z"
+  },
+  {
+    "objectId": "Ezx1u8EB9c",
+    "name": "Payne's grey",
+    "hexCode": "536878",
+    "createdAt": "2019-12-13T23:44:26.702Z",
+    "updatedAt": "2019-12-13T23:44:26.702Z"
+  },
+  {
+    "objectId": "Zr04wycIut",
+    "name": "Patriarch",
+    "hexCode": "800080",
+    "createdAt": "2019-12-13T23:44:26.702Z",
+    "updatedAt": "2019-12-13T23:44:26.702Z"
+  },
+  {
+    "objectId": "pN5Yfq5w9a",
+    "name": "Peach (Crayola)",
+    "hexCode": "FFCBA4",
+    "createdAt": "2019-12-13T23:44:26.702Z",
+    "updatedAt": "2019-12-13T23:44:26.702Z"
+  },
+  {
+    "objectId": "ppCXdHhXkL",
+    "name": "Peach puff",
+    "hexCode": "FFDAB9",
+    "createdAt": "2019-12-13T23:44:26.702Z",
+    "updatedAt": "2019-12-13T23:44:26.702Z"
+  },
+  {
+    "objectId": "ImSGIDre1r",
+    "name": "Pear",
+    "hexCode": "D1E231",
+    "createdAt": "2019-12-13T23:44:26.702Z",
+    "updatedAt": "2019-12-13T23:44:26.702Z"
+  },
+  {
+    "objectId": "EoArbunP7m",
+    "name": "Pearly purple",
+    "hexCode": "B768A2",
+    "createdAt": "2019-12-13T23:44:26.702Z",
+    "updatedAt": "2019-12-13T23:44:26.702Z"
+  },
+  {
+    "objectId": "Gx6n6nNPTr",
+    "name": "Periwinkle",
+    "hexCode": "CCCCFF",
+    "createdAt": "2019-12-13T23:44:26.702Z",
+    "updatedAt": "2019-12-13T23:44:26.702Z"
+  },
+  {
+    "objectId": "WRn6JRav3c",
+    "name": "Periwinkle (Crayola)",
+    "hexCode": "C3CDE6",
+    "createdAt": "2019-12-13T23:44:26.702Z",
+    "updatedAt": "2019-12-13T23:44:26.702Z"
+  },
+  {
+    "objectId": "0KVQ0Y1AgK",
+    "name": "Permanent Geranium Lake",
+    "hexCode": "E12C2C",
+    "createdAt": "2019-12-13T23:44:26.898Z",
+    "updatedAt": "2019-12-13T23:44:26.898Z"
+  },
+  {
+    "objectId": "FYJWeg2CIb",
+    "name": "Persian green",
+    "hexCode": "00A693",
+    "createdAt": "2019-12-13T23:44:26.898Z",
+    "updatedAt": "2019-12-13T23:44:26.898Z"
+  },
+  {
+    "objectId": "SPCBIvolqG",
+    "name": "Persian orange",
+    "hexCode": "D99058",
+    "createdAt": "2019-12-13T23:44:26.898Z",
+    "updatedAt": "2019-12-13T23:44:26.898Z"
+  },
+  {
+    "objectId": "fN5yB5ScIE",
+    "name": "Persian indigo",
+    "hexCode": "32127A",
+    "createdAt": "2019-12-13T23:44:26.898Z",
+    "updatedAt": "2019-12-13T23:44:26.898Z"
+  },
+  {
+    "objectId": "lAmlqEBVhU",
+    "name": "Persian blue",
+    "hexCode": "1C39BB",
+    "createdAt": "2019-12-13T23:44:26.898Z",
+    "updatedAt": "2019-12-13T23:44:26.898Z"
+  },
+  {
+    "objectId": "AsKkFSEI5s",
+    "name": "Pine green",
+    "hexCode": "01796F",
+    "createdAt": "2019-12-13T23:44:26.899Z",
+    "updatedAt": "2019-12-13T23:44:26.899Z"
+  },
+  {
+    "objectId": "OpeslyAPrs",
+    "name": "Persian plum",
+    "hexCode": "701C1C",
+    "createdAt": "2019-12-13T23:44:26.898Z",
+    "updatedAt": "2019-12-13T23:44:26.898Z"
+  },
+  {
+    "objectId": "888iBTuI9E",
+    "name": "Persian rose",
+    "hexCode": "FE28A2",
+    "createdAt": "2019-12-13T23:44:26.898Z",
+    "updatedAt": "2019-12-13T23:44:26.898Z"
+  },
+  {
+    "objectId": "hNDqLjHbBR",
+    "name": "Persian red",
+    "hexCode": "CC3333",
+    "createdAt": "2019-12-13T23:44:26.898Z",
+    "updatedAt": "2019-12-13T23:44:26.898Z"
+  },
+  {
+    "objectId": "ETgDLlaaNt",
+    "name": "Pewter Blue",
+    "hexCode": "8BA8B7",
+    "createdAt": "2019-12-13T23:44:26.898Z",
+    "updatedAt": "2019-12-13T23:44:26.898Z"
+  },
+  {
+    "objectId": "FActn6ftEe",
+    "name": "Persian pink",
+    "hexCode": "F77FBE",
+    "createdAt": "2019-12-13T23:44:26.898Z",
+    "updatedAt": "2019-12-13T23:44:26.898Z"
+  },
+  {
+    "objectId": "C8z75lwZ0c",
+    "name": "Phlox",
+    "hexCode": "DF00FF",
+    "createdAt": "2019-12-13T23:44:26.898Z",
+    "updatedAt": "2019-12-13T23:44:26.898Z"
+  },
+  {
+    "objectId": "7CRRuS5YX7",
+    "name": "Persimmon",
+    "hexCode": "EC5800",
+    "createdAt": "2019-12-13T23:44:26.898Z",
+    "updatedAt": "2019-12-13T23:44:26.898Z"
+  },
+  {
+    "objectId": "lcmTMDWF3J",
+    "name": "Phthalo green",
+    "hexCode": "123524",
+    "createdAt": "2019-12-13T23:44:26.899Z",
+    "updatedAt": "2019-12-13T23:44:26.899Z"
+  },
+  {
+    "objectId": "BgOKubyQJE",
+    "name": "Picotee blue",
+    "hexCode": "2E2787",
+    "createdAt": "2019-12-13T23:44:26.899Z",
+    "updatedAt": "2019-12-13T23:44:26.899Z"
+  },
+  {
+    "objectId": "kcGscG5RMB",
+    "name": "Pink",
+    "hexCode": "FFC0CB",
+    "createdAt": "2019-12-13T23:44:26.899Z",
+    "updatedAt": "2019-12-13T23:44:26.899Z"
+  },
+  {
+    "objectId": "n4g73CFoJf",
+    "name": "Phthalo blue",
+    "hexCode": "000F89",
+    "createdAt": "2019-12-13T23:44:26.898Z",
+    "updatedAt": "2019-12-13T23:44:26.898Z"
+  },
+  {
+    "objectId": "zq94ikS6QJ",
+    "name": "Pictorial carmine",
+    "hexCode": "C30B4E",
+    "createdAt": "2019-12-13T23:44:26.899Z",
+    "updatedAt": "2019-12-13T23:44:26.899Z"
+  },
+  {
+    "objectId": "99Ifb9BNVJ",
+    "name": "Piggy pink",
+    "hexCode": "FDDDE6",
+    "createdAt": "2019-12-13T23:44:26.899Z",
+    "updatedAt": "2019-12-13T23:44:26.899Z"
+  },
+  {
+    "objectId": "jPRClNJ32i",
+    "name": "Pine tree",
+    "hexCode": "2A2F23",
+    "createdAt": "2019-12-13T23:44:26.899Z",
+    "updatedAt": "2019-12-13T23:44:26.899Z"
+  },
+  {
+    "objectId": "Qj0JoKuq4j",
+    "name": "Pink (Pantone)",
+    "hexCode": "D74894",
+    "createdAt": "2019-12-13T23:44:27.106Z",
+    "updatedAt": "2019-12-13T23:44:27.106Z"
+  },
+  {
+    "objectId": "XEuoXFPhP1",
+    "name": "Pistachio",
+    "hexCode": "93C572",
+    "createdAt": "2019-12-13T23:44:27.106Z",
+    "updatedAt": "2019-12-13T23:44:27.106Z"
+  },
+  {
+    "objectId": "cFHKFBLBOJ",
+    "name": "Prussian blue",
+    "hexCode": "003153",
+    "createdAt": "2019-12-13T23:44:27.107Z",
+    "updatedAt": "2019-12-13T23:44:27.107Z"
+  },
+  {
+    "objectId": "0J9PXuMtcE",
+    "name": "Pink Sherbet",
+    "hexCode": "F78FA7",
+    "createdAt": "2019-12-13T23:44:27.106Z",
+    "updatedAt": "2019-12-13T23:44:27.106Z"
+  },
+  {
+    "objectId": "fCqtobpgDF",
+    "name": "Pink flamingo",
+    "hexCode": "FC74FD",
+    "createdAt": "2019-12-13T23:44:27.106Z",
+    "updatedAt": "2019-12-13T23:44:27.106Z"
+  },
+  {
+    "objectId": "fmYxuEY9jq",
+    "name": "Powder blue",
+    "hexCode": "B0E0E6",
+    "createdAt": "2019-12-13T23:44:27.106Z",
+    "updatedAt": "2019-12-13T23:44:27.106Z"
+  },
+  {
+    "objectId": "dqGOIB2vxB",
+    "name": "Pink lavender",
+    "hexCode": "D8B2D1",
+    "createdAt": "2019-12-13T23:44:27.106Z",
+    "updatedAt": "2019-12-13T23:44:27.106Z"
+  },
+  {
+    "objectId": "DyIKC1X8F1",
+    "name": "Pink lace",
+    "hexCode": "FFDDF4",
+    "createdAt": "2019-12-13T23:44:27.106Z",
+    "updatedAt": "2019-12-13T23:44:27.106Z"
+  },
+  {
+    "objectId": "cZkMsjvfBV",
+    "name": "Platinum",
+    "hexCode": "E5E4E2",
+    "createdAt": "2019-12-13T23:44:27.106Z",
+    "updatedAt": "2019-12-13T23:44:27.106Z"
+  },
+  {
+    "objectId": "QpPMLWdsld",
+    "name": "Plum",
+    "hexCode": "8E4585",
+    "createdAt": "2019-12-13T23:44:27.106Z",
+    "updatedAt": "2019-12-13T23:44:27.106Z"
+  },
+  {
+    "objectId": "BdGowFva2C",
+    "name": "Polished Pine",
+    "hexCode": "5DA493",
+    "createdAt": "2019-12-13T23:44:27.106Z",
+    "updatedAt": "2019-12-13T23:44:27.106Z"
+  },
+  {
+    "objectId": "vZsymJ6r5T",
+    "name": "Plump Purple",
+    "hexCode": "5946B2",
+    "createdAt": "2019-12-13T23:44:27.106Z",
+    "updatedAt": "2019-12-13T23:44:27.106Z"
+  },
+  {
+    "objectId": "eGUIwxkjnN",
+    "name": "Prune",
+    "hexCode": "701C1C",
+    "createdAt": "2019-12-13T23:44:27.107Z",
+    "updatedAt": "2019-12-13T23:44:27.107Z"
+  },
+  {
+    "objectId": "K9spgCNSnH",
+    "name": "Portland Orange",
+    "hexCode": "FF5A36",
+    "createdAt": "2019-12-13T23:44:27.106Z",
+    "updatedAt": "2019-12-13T23:44:27.106Z"
+  },
+  {
+    "objectId": "1TxB7m9PLZ",
+    "name": "Plum (web)",
+    "hexCode": "DDA0DD",
+    "createdAt": "2019-12-13T23:44:27.106Z",
+    "updatedAt": "2019-12-13T23:44:27.106Z"
+  },
+  {
+    "objectId": "bPJKmPBMYh",
+    "name": "Psychedelic purple",
+    "hexCode": "DF00FF",
+    "createdAt": "2019-12-13T23:44:27.107Z",
+    "updatedAt": "2019-12-13T23:44:27.107Z"
+  },
+  {
+    "objectId": "fY09zOhFzq",
+    "name": "Princeton orange",
+    "hexCode": "F58025",
+    "createdAt": "2019-12-13T23:44:27.106Z",
+    "updatedAt": "2019-12-13T23:44:27.106Z"
+  },
+  {
+    "objectId": "uLr5neGECL",
+    "name": "Pomp and Power",
+    "hexCode": "86608E",
+    "createdAt": "2019-12-13T23:44:27.106Z",
+    "updatedAt": "2019-12-13T23:44:27.106Z"
+  },
+  {
+    "objectId": "nQBL1Ok3Dg",
+    "name": "Popstar",
+    "hexCode": "BE4F62",
+    "createdAt": "2019-12-13T23:44:27.106Z",
+    "updatedAt": "2019-12-13T23:44:27.106Z"
+  },
+  {
+    "objectId": "ZHykTXvNAD",
+    "name": "Puce",
+    "hexCode": "CC8899",
+    "createdAt": "2019-12-13T23:44:27.107Z",
+    "updatedAt": "2019-12-13T23:44:27.107Z"
+  },
+  {
+    "objectId": "riJhIfjet4",
+    "name": "Pullman Brown (UPS Brown)",
+    "hexCode": "644117",
+    "createdAt": "2019-12-13T23:44:27.283Z",
+    "updatedAt": "2019-12-13T23:44:27.283Z"
+  },
+  {
+    "objectId": "FCYXLpCjDD",
+    "name": "Pumpkin",
+    "hexCode": "FF7518",
+    "createdAt": "2019-12-13T23:44:27.283Z",
+    "updatedAt": "2019-12-13T23:44:27.283Z"
+  },
+  {
+    "objectId": "OGY79034Zz",
+    "name": "Purple pizzazz",
+    "hexCode": "FE4EDA",
+    "createdAt": "2019-12-13T23:44:27.283Z",
+    "updatedAt": "2019-12-13T23:44:27.283Z"
+  },
+  {
+    "objectId": "LFqzB01KNm",
+    "name": "Purple navy",
+    "hexCode": "4E5180",
+    "createdAt": "2019-12-13T23:44:27.283Z",
+    "updatedAt": "2019-12-13T23:44:27.283Z"
+  },
+  {
+    "objectId": "UYu5Dsuzit",
+    "name": "Purple",
+    "hexCode": "6A0DAD",
+    "createdAt": "2019-12-13T23:44:27.283Z",
+    "updatedAt": "2019-12-13T23:44:27.283Z"
+  },
+  {
+    "objectId": "oA5Gx2uAUH",
+    "name": "Purple (web)",
+    "hexCode": "800080",
+    "createdAt": "2019-12-13T23:44:27.283Z",
+    "updatedAt": "2019-12-13T23:44:27.283Z"
+  },
+  {
+    "objectId": "ynDhyx7pSE",
+    "name": "Purple (Munsell)",
+    "hexCode": "9F00C5",
+    "createdAt": "2019-12-13T23:44:27.283Z",
+    "updatedAt": "2019-12-13T23:44:27.283Z"
+  },
+  {
+    "objectId": "un0yPTESyB",
+    "name": "Purple Plum",
+    "hexCode": "9C51B6",
+    "createdAt": "2019-12-13T23:44:27.283Z",
+    "updatedAt": "2019-12-13T23:44:27.283Z"
+  },
+  {
+    "objectId": "27lFwAJvbQ",
+    "name": "Purpureus",
+    "hexCode": "9A4EAE",
+    "createdAt": "2019-12-13T23:44:27.283Z",
+    "updatedAt": "2019-12-13T23:44:27.283Z"
+  },
+  {
+    "objectId": "q2BLKBfO5e",
+    "name": "Purple (X11)",
+    "hexCode": "A020F0",
+    "createdAt": "2019-12-13T23:44:27.283Z",
+    "updatedAt": "2019-12-13T23:44:27.283Z"
+  },
+  {
+    "objectId": "7HjEvlI5GX",
+    "name": "Purple mountain majesty",
+    "hexCode": "9678B6",
+    "createdAt": "2019-12-13T23:44:27.283Z",
+    "updatedAt": "2019-12-13T23:44:27.283Z"
+  },
+  {
+    "objectId": "OIGMvXn2ip",
+    "name": "Queen pink",
+    "hexCode": "E8CCD7",
+    "createdAt": "2019-12-13T23:44:27.283Z",
+    "updatedAt": "2019-12-13T23:44:27.283Z"
+  },
+  {
+    "objectId": "rbnoZquFzx",
+    "name": "Raspberry glace",
+    "hexCode": "915F6D",
+    "createdAt": "2019-12-13T23:44:27.283Z",
+    "updatedAt": "2019-12-13T23:44:27.283Z"
+  },
+  {
+    "objectId": "tUKEts0oNx",
+    "name": "Raisin black",
+    "hexCode": "242124",
+    "createdAt": "2019-12-13T23:44:27.283Z",
+    "updatedAt": "2019-12-13T23:44:27.283Z"
+  },
+  {
+    "objectId": "yo5XXrZ1HX",
+    "name": "Quick Silver",
+    "hexCode": "A6A6A6",
+    "createdAt": "2019-12-13T23:44:27.283Z",
+    "updatedAt": "2019-12-13T23:44:27.283Z"
+  },
+  {
+    "objectId": "pbrKHQH3q2",
+    "name": "Quinacridone magenta",
+    "hexCode": "8E3A59",
+    "createdAt": "2019-12-13T23:44:27.283Z",
+    "updatedAt": "2019-12-13T23:44:27.283Z"
+  },
+  {
+    "objectId": "mTBo8eUcoM",
+    "name": "Queen blue",
+    "hexCode": "436B95",
+    "createdAt": "2019-12-13T23:44:27.283Z",
+    "updatedAt": "2019-12-13T23:44:27.283Z"
+  },
+  {
+    "objectId": "Gnnbwt8Ra6",
+    "name": "Radical Red",
+    "hexCode": "FF355E",
+    "createdAt": "2019-12-13T23:44:27.283Z",
+    "updatedAt": "2019-12-13T23:44:27.283Z"
+  },
+  {
+    "objectId": "pEwl7xjBN8",
+    "name": "Raspberry",
+    "hexCode": "E30B5D",
+    "createdAt": "2019-12-13T23:44:27.283Z",
+    "updatedAt": "2019-12-13T23:44:27.283Z"
+  },
+  {
+    "objectId": "mt7rU2rJKf",
+    "name": "Rajah",
+    "hexCode": "FBAB60",
+    "createdAt": "2019-12-13T23:44:27.283Z",
+    "updatedAt": "2019-12-13T23:44:27.283Z"
+  },
+  {
+    "objectId": "WfDquZOGZ9",
+    "name": "Razzle dazzle rose",
+    "hexCode": "FF33CC",
+    "createdAt": "2019-12-13T23:44:27.495Z",
+    "updatedAt": "2019-12-13T23:44:27.495Z"
+  },
+  {
+    "objectId": "3LsXCjBy4A",
+    "name": "Raspberry rose",
+    "hexCode": "B3446C",
+    "createdAt": "2019-12-13T23:44:27.494Z",
+    "updatedAt": "2019-12-13T23:44:27.494Z"
+  },
+  {
+    "objectId": "AaU9ETa5aN",
+    "name": "Rebecca Purple",
+    "hexCode": "663399",
+    "createdAt": "2019-12-13T23:44:27.495Z",
+    "updatedAt": "2019-12-13T23:44:27.495Z"
+  },
+  {
+    "objectId": "jKlAJSz8JQ",
+    "name": "Raw Sienna",
+    "hexCode": "D68A59",
+    "createdAt": "2019-12-13T23:44:27.494Z",
+    "updatedAt": "2019-12-13T23:44:27.494Z"
+  },
+  {
+    "objectId": "Uqcunkyeuz",
+    "name": "Red (Crayola)",
+    "hexCode": "EE204D",
+    "createdAt": "2019-12-13T23:44:27.495Z",
+    "updatedAt": "2019-12-13T23:44:27.495Z"
+  },
+  {
+    "objectId": "OaCBQK0DDk",
+    "name": "Raw umber",
+    "hexCode": "826644",
+    "createdAt": "2019-12-13T23:44:27.494Z",
+    "updatedAt": "2019-12-13T23:44:27.494Z"
+  },
+  {
+    "objectId": "nDy1aCdHS8",
+    "name": "Razzmatazz",
+    "hexCode": "E3256B",
+    "createdAt": "2019-12-13T23:44:27.495Z",
+    "updatedAt": "2019-12-13T23:44:27.495Z"
+  },
+  {
+    "objectId": "kuVR1X33J1",
+    "name": "Red",
+    "hexCode": "FF0000",
+    "createdAt": "2019-12-13T23:44:27.495Z",
+    "updatedAt": "2019-12-13T23:44:27.495Z"
+  },
+  {
+    "objectId": "eomXD6Ch7b",
+    "name": "Red (Munsell)",
+    "hexCode": "F2003C",
+    "createdAt": "2019-12-13T23:44:27.495Z",
+    "updatedAt": "2019-12-13T23:44:27.495Z"
+  },
+  {
+    "objectId": "Mau4bEpNef",
+    "name": "Razzmic Berry",
+    "hexCode": "8D4E85",
+    "createdAt": "2019-12-13T23:44:27.495Z",
+    "updatedAt": "2019-12-13T23:44:27.495Z"
+  },
+  {
+    "objectId": "3GwiOzfiym",
+    "name": "Red (pigment)",
+    "hexCode": "ED1C24",
+    "createdAt": "2019-12-13T23:44:27.495Z",
+    "updatedAt": "2019-12-13T23:44:27.495Z"
+  },
+  {
+    "objectId": "CIl9ge2h4y",
+    "name": "Red-orange",
+    "hexCode": "FF5349",
+    "createdAt": "2019-12-13T23:44:27.495Z",
+    "updatedAt": "2019-12-13T23:44:27.495Z"
+  },
+  {
+    "objectId": "Tasx878Jde",
+    "name": "Red (NCS)",
+    "hexCode": "C40233",
+    "createdAt": "2019-12-13T23:44:27.495Z",
+    "updatedAt": "2019-12-13T23:44:27.495Z"
+  },
+  {
+    "objectId": "sG1uTvsAtl",
+    "name": "Red (RYB)",
+    "hexCode": "FE2712",
+    "createdAt": "2019-12-13T23:44:27.495Z",
+    "updatedAt": "2019-12-13T23:44:27.495Z"
+  },
+  {
+    "objectId": "Vc4IIzBqMX",
+    "name": "Red (Pantone)",
+    "hexCode": "ED2939",
+    "createdAt": "2019-12-13T23:44:27.495Z",
+    "updatedAt": "2019-12-13T23:44:27.495Z"
+  },
+  {
+    "objectId": "9vUH24yveE",
+    "name": "Red-violet",
+    "hexCode": "C71585",
+    "createdAt": "2019-12-13T23:44:27.495Z",
+    "updatedAt": "2019-12-13T23:44:27.495Z"
+  },
+  {
+    "objectId": "BnOVKpZZsP",
+    "name": "Red Salsa",
+    "hexCode": "FD3A4A",
+    "createdAt": "2019-12-13T23:44:27.495Z",
+    "updatedAt": "2019-12-13T23:44:27.495Z"
+  },
+  {
+    "objectId": "bQTJi7FErQ",
+    "name": "Red-purple",
+    "hexCode": "E40078",
+    "createdAt": "2019-12-13T23:44:27.495Z",
+    "updatedAt": "2019-12-13T23:44:27.495Z"
+  },
+  {
+    "objectId": "yveN1TigTV",
+    "name": "Red-orange (Crayola)",
+    "hexCode": "FF681F",
+    "createdAt": "2019-12-13T23:44:27.495Z",
+    "updatedAt": "2019-12-13T23:44:27.495Z"
+  },
+  {
+    "objectId": "zOlJy8gaIf",
+    "name": "Red-orange (Color wheel)",
+    "hexCode": "FF4500",
+    "createdAt": "2019-12-13T23:44:27.495Z",
+    "updatedAt": "2019-12-13T23:44:27.495Z"
+  },
+  {
+    "objectId": "alG0GZnJ8m",
+    "name": "Red-violet (Crayola)",
+    "hexCode": "C0448F",
+    "createdAt": "2019-12-13T23:44:27.650Z",
+    "updatedAt": "2019-12-13T23:44:27.650Z"
+  },
+  {
+    "objectId": "nrrosIQ4Yt",
+    "name": "Redwood",
+    "hexCode": "A45A52",
+    "createdAt": "2019-12-13T23:44:27.650Z",
+    "updatedAt": "2019-12-13T23:44:27.650Z"
+  },
+  {
+    "objectId": "LgdFwgDMYL",
+    "name": "Resolution blue",
+    "hexCode": "002387",
+    "createdAt": "2019-12-13T23:44:27.651Z",
+    "updatedAt": "2019-12-13T23:44:27.651Z"
+  },
+  {
+    "objectId": "wYsFwFVt1r",
+    "name": "Rhythm",
+    "hexCode": "777696",
+    "createdAt": "2019-12-13T23:44:27.651Z",
+    "updatedAt": "2019-12-13T23:44:27.651Z"
+  },
+  {
+    "objectId": "YD0LRazyxj",
+    "name": "Rich black (FOGRA39)",
+    "hexCode": "010203",
+    "createdAt": "2019-12-13T23:44:27.651Z",
+    "updatedAt": "2019-12-13T23:44:27.651Z"
+  },
+  {
+    "objectId": "qdakg8c1g7",
+    "name": "Rich black",
+    "hexCode": "004040",
+    "createdAt": "2019-12-13T23:44:27.651Z",
+    "updatedAt": "2019-12-13T23:44:27.651Z"
+  },
+  {
+    "objectId": "WtHildUWTB",
+    "name": "Red-violet (Color wheel)",
+    "hexCode": "922B3E",
+    "createdAt": "2019-12-13T23:44:27.650Z",
+    "updatedAt": "2019-12-13T23:44:27.650Z"
+  },
+  {
+    "objectId": "RY3cYB3kSj",
+    "name": "Rich black (FOGRA29)",
+    "hexCode": "010B13",
+    "createdAt": "2019-12-13T23:44:27.651Z",
+    "updatedAt": "2019-12-13T23:44:27.651Z"
+  },
+  {
+    "objectId": "iOOj33QicO",
+    "name": "Rose pink",
+    "hexCode": "FF66CC",
+    "createdAt": "2019-12-13T23:44:27.651Z",
+    "updatedAt": "2019-12-13T23:44:27.651Z"
+  },
+  {
+    "objectId": "m8QuqEDK3p",
+    "name": "Rose bonbon",
+    "hexCode": "F9429E",
+    "createdAt": "2019-12-13T23:44:27.651Z",
+    "updatedAt": "2019-12-13T23:44:27.651Z"
+  },
+  {
+    "objectId": "RI3Ao2nNsR",
+    "name": "Rose",
+    "hexCode": "FF007F",
+    "createdAt": "2019-12-13T23:44:27.651Z",
+    "updatedAt": "2019-12-13T23:44:27.651Z"
+  },
+  {
+    "objectId": "SVHOtks4lh",
+    "name": "Rose ebony",
+    "hexCode": "674846",
+    "createdAt": "2019-12-13T23:44:27.651Z",
+    "updatedAt": "2019-12-13T23:44:27.651Z"
+  },
+  {
+    "objectId": "xU03XySosy",
+    "name": "Roman silver",
+    "hexCode": "838996",
+    "createdAt": "2019-12-13T23:44:27.651Z",
+    "updatedAt": "2019-12-13T23:44:27.651Z"
+  },
+  {
+    "objectId": "KRU566zUIX",
+    "name": "Robin egg blue",
+    "hexCode": "00CCCC",
+    "createdAt": "2019-12-13T23:44:27.651Z",
+    "updatedAt": "2019-12-13T23:44:27.651Z"
+  },
+  {
+    "objectId": "UhtO8AYyFR",
+    "name": "Rose Dust",
+    "hexCode": "9E5E6F",
+    "createdAt": "2019-12-13T23:44:27.651Z",
+    "updatedAt": "2019-12-13T23:44:27.651Z"
+  },
+  {
+    "objectId": "FVmDCtZnlH",
+    "name": "Rifle green",
+    "hexCode": "444C38",
+    "createdAt": "2019-12-13T23:44:27.651Z",
+    "updatedAt": "2019-12-13T23:44:27.651Z"
+  },
+  {
+    "objectId": "Aj56cwpYxw",
+    "name": "Rocket metallic",
+    "hexCode": "8A7F80",
+    "createdAt": "2019-12-13T23:44:27.651Z",
+    "updatedAt": "2019-12-13T23:44:27.651Z"
+  },
+  {
+    "objectId": "GeXz2LaJ7K",
+    "name": "Rose quartz",
+    "hexCode": "AA98A9",
+    "createdAt": "2019-12-13T23:44:27.652Z",
+    "updatedAt": "2019-12-13T23:44:27.652Z"
+  },
+  {
+    "objectId": "vanWBxTouC",
+    "name": "Rose madder",
+    "hexCode": "E32636",
+    "createdAt": "2019-12-13T23:44:27.651Z",
+    "updatedAt": "2019-12-13T23:44:27.651Z"
+  },
+  {
+    "objectId": "KSOUYW9SZI",
+    "name": "Rose red",
+    "hexCode": "C21E56",
+    "createdAt": "2019-12-13T23:44:27.652Z",
+    "updatedAt": "2019-12-13T23:44:27.652Z"
+  },
+  {
+    "objectId": "8DveqHXZWw",
+    "name": "Rose taupe",
+    "hexCode": "905D5D",
+    "createdAt": "2019-12-13T23:44:27.735Z",
+    "updatedAt": "2019-12-13T23:44:27.735Z"
+  },
+  {
+    "objectId": "8sGnQP6bsU",
+    "name": "Russet",
+    "hexCode": "80461B",
+    "createdAt": "2019-12-13T23:44:27.736Z",
+    "updatedAt": "2019-12-13T23:44:27.736Z"
+  },
+  {
+    "objectId": "MIwSExeBcC",
+    "name": "Rubine red",
+    "hexCode": "D10056",
+    "createdAt": "2019-12-13T23:44:27.736Z",
+    "updatedAt": "2019-12-13T23:44:27.736Z"
+  },
+  {
+    "objectId": "MguwOfGjak",
+    "name": "Ruber",
+    "hexCode": "CE4676",
+    "createdAt": "2019-12-13T23:44:27.736Z",
+    "updatedAt": "2019-12-13T23:44:27.736Z"
+  },
+  {
+    "objectId": "T9Z1OdB7Dc",
+    "name": "Royal yellow",
+    "hexCode": "FADA5E",
+    "createdAt": "2019-12-13T23:44:27.736Z",
+    "updatedAt": "2019-12-13T23:44:27.736Z"
+  },
+  {
+    "objectId": "7muNsuCveO",
+    "name": "Russian green",
+    "hexCode": "679267",
+    "createdAt": "2019-12-13T23:44:27.736Z",
+    "updatedAt": "2019-12-13T23:44:27.736Z"
+  },
+  {
+    "objectId": "3bJ0f0Fhuk",
+    "name": "Royal blue (dark)",
+    "hexCode": "002366",
+    "createdAt": "2019-12-13T23:44:27.736Z",
+    "updatedAt": "2019-12-13T23:44:27.736Z"
+  },
+  {
+    "objectId": "OKnTnHqNGv",
+    "name": "Rufous",
+    "hexCode": "A81C07",
+    "createdAt": "2019-12-13T23:44:27.736Z",
+    "updatedAt": "2019-12-13T23:44:27.736Z"
+  },
+  {
+    "objectId": "zXNjG6vGmX",
+    "name": "Rosso corsa",
+    "hexCode": "D40000",
+    "createdAt": "2019-12-13T23:44:27.736Z",
+    "updatedAt": "2019-12-13T23:44:27.736Z"
+  },
+  {
+    "objectId": "Yhg5HokcAb",
+    "name": "Rose vale",
+    "hexCode": "AB4E52",
+    "createdAt": "2019-12-13T23:44:27.736Z",
+    "updatedAt": "2019-12-13T23:44:27.736Z"
+  },
+  {
+    "objectId": "smkivQuD3F",
+    "name": "Royal blue (light)",
+    "hexCode": "4169E1",
+    "createdAt": "2019-12-13T23:44:27.736Z",
+    "updatedAt": "2019-12-13T23:44:27.736Z"
+  },
+  {
+    "objectId": "0IMiFLxzER",
+    "name": "Rosewood",
+    "hexCode": "65000B",
+    "createdAt": "2019-12-13T23:44:27.736Z",
+    "updatedAt": "2019-12-13T23:44:27.736Z"
+  },
+  {
+    "objectId": "TRSqIlDKYR",
+    "name": "Rosy brown",
+    "hexCode": "BC8F8F",
+    "createdAt": "2019-12-13T23:44:27.736Z",
+    "updatedAt": "2019-12-13T23:44:27.736Z"
+  },
+  {
+    "objectId": "jKtZzEsB3B",
+    "name": "Royal purple",
+    "hexCode": "7851A9",
+    "createdAt": "2019-12-13T23:44:27.736Z",
+    "updatedAt": "2019-12-13T23:44:27.736Z"
+  },
+  {
+    "objectId": "LBESzXibgH",
+    "name": "Ruby",
+    "hexCode": "E0115F",
+    "createdAt": "2019-12-13T23:44:27.736Z",
+    "updatedAt": "2019-12-13T23:44:27.736Z"
+  },
+  {
+    "objectId": "gbRdOx1qHW",
+    "name": "Ruby red",
+    "hexCode": "9B111E",
+    "createdAt": "2019-12-13T23:44:27.736Z",
+    "updatedAt": "2019-12-13T23:44:27.736Z"
+  },
+  {
+    "objectId": "MuzCXh7NJV",
+    "name": "Rusty red",
+    "hexCode": "DA2C43",
+    "createdAt": "2019-12-13T23:44:27.736Z",
+    "updatedAt": "2019-12-13T23:44:27.736Z"
+  },
+  {
+    "objectId": "k1Deuie657",
+    "name": "Sacramento State green",
+    "hexCode": "043927",
+    "createdAt": "2019-12-13T23:44:27.736Z",
+    "updatedAt": "2019-12-13T23:44:27.736Z"
+  },
+  {
+    "objectId": "4WXBOU4EMF",
+    "name": "Russian violet",
+    "hexCode": "32174D",
+    "createdAt": "2019-12-13T23:44:27.736Z",
+    "updatedAt": "2019-12-13T23:44:27.736Z"
+  },
+  {
+    "objectId": "Jd3rzKxGlV",
+    "name": "Rust",
+    "hexCode": "B7410E",
+    "createdAt": "2019-12-13T23:44:27.736Z",
+    "updatedAt": "2019-12-13T23:44:27.736Z"
+  },
+  {
+    "objectId": "FYFHRyVf6d",
+    "name": "Saddle brown",
+    "hexCode": "8B4513",
+    "createdAt": "2019-12-13T23:44:28.232Z",
+    "updatedAt": "2019-12-13T23:44:28.232Z"
+  },
+  {
+    "objectId": "vtp3k6t5Qz",
+    "name": "Saffron",
+    "hexCode": "F4C430",
+    "createdAt": "2019-12-13T23:44:28.232Z",
+    "updatedAt": "2019-12-13T23:44:28.232Z"
+  },
+  {
+    "objectId": "mAxCf5Pp2A",
+    "name": "Sage",
+    "hexCode": "BCB88A",
+    "createdAt": "2019-12-13T23:44:28.232Z",
+    "updatedAt": "2019-12-13T23:44:28.232Z"
+  },
+  {
+    "objectId": "Bwc5FV52Lr",
+    "name": "Safety yellow",
+    "hexCode": "EED202",
+    "createdAt": "2019-12-13T23:44:28.232Z",
+    "updatedAt": "2019-12-13T23:44:28.232Z"
+  },
+  {
+    "objectId": "hx0BC56ven",
+    "name": "Safety orange",
+    "hexCode": "FF7800",
+    "createdAt": "2019-12-13T23:44:28.232Z",
+    "updatedAt": "2019-12-13T23:44:28.232Z"
+  },
+  {
+    "objectId": "3Z0xhxVnIN",
+    "name": "Safety orange (blaze orange)",
+    "hexCode": "FF6700",
+    "createdAt": "2019-12-13T23:44:28.232Z",
+    "updatedAt": "2019-12-13T23:44:28.232Z"
+  },
+  {
+    "objectId": "1aIuqEsG3G",
+    "name": "Sand dune",
+    "hexCode": "967117",
+    "createdAt": "2019-12-13T23:44:28.233Z",
+    "updatedAt": "2019-12-13T23:44:28.233Z"
+  },
+  {
+    "objectId": "20DUz29vGb",
+    "name": "Sapphire (Crayola)",
+    "hexCode": "0067A5",
+    "createdAt": "2019-12-13T23:44:28.233Z",
+    "updatedAt": "2019-12-13T23:44:28.233Z"
+  },
+  {
+    "objectId": "A435MvE4YJ",
+    "name": "Salmon pink",
+    "hexCode": "FF91A4",
+    "createdAt": "2019-12-13T23:44:28.233Z",
+    "updatedAt": "2019-12-13T23:44:28.233Z"
+  },
+  {
+    "objectId": "2sgTRqoBrP",
+    "name": "Salmon",
+    "hexCode": "FA8072",
+    "createdAt": "2019-12-13T23:44:28.233Z",
+    "updatedAt": "2019-12-13T23:44:28.233Z"
+  },
+  {
+    "objectId": "Hj8zKrH546",
+    "name": "Sapphire",
+    "hexCode": "0F52BA",
+    "createdAt": "2019-12-13T23:44:28.233Z",
+    "updatedAt": "2019-12-13T23:44:28.233Z"
+  },
+  {
+    "objectId": "t2XaT3Hu00",
+    "name": "Salmon Magistrate",
+    "hexCode": "DE4E31",
+    "createdAt": "2019-12-13T23:44:28.233Z",
+    "updatedAt": "2019-12-13T23:44:28.233Z"
+  },
+  {
+    "objectId": "vPm5qIB4IP",
+    "name": "St. Patrick's blue",
+    "hexCode": "23297A",
+    "createdAt": "2019-12-13T23:44:28.233Z",
+    "updatedAt": "2019-12-13T23:44:28.233Z"
+  },
+  {
+    "objectId": "Rak8ifmYCQ",
+    "name": "Sand",
+    "hexCode": "C2B280",
+    "createdAt": "2019-12-13T23:44:28.233Z",
+    "updatedAt": "2019-12-13T23:44:28.233Z"
+  },
+  {
+    "objectId": "w6zAxSJQE6",
+    "name": "Sap green",
+    "hexCode": "507D2A",
+    "createdAt": "2019-12-13T23:44:28.233Z",
+    "updatedAt": "2019-12-13T23:44:28.233Z"
+  },
+  {
+    "objectId": "PF1rBE1HWj",
+    "name": "Sapphire blue",
+    "hexCode": "0067A5",
+    "createdAt": "2019-12-13T23:44:28.233Z",
+    "updatedAt": "2019-12-13T23:44:28.233Z"
+  },
+  {
+    "objectId": "GFfEDxc2vk",
+    "name": "Scarlet",
+    "hexCode": "FF2400",
+    "createdAt": "2019-12-13T23:44:28.233Z",
+    "updatedAt": "2019-12-13T23:44:28.233Z"
+  },
+  {
+    "objectId": "Kh0sbsLouE",
+    "name": "Schauss pink",
+    "hexCode": "FF91AF",
+    "createdAt": "2019-12-13T23:44:28.233Z",
+    "updatedAt": "2019-12-13T23:44:28.233Z"
+  },
+  {
+    "objectId": "GvDxpBtaxD",
+    "name": "Sandy brown",
+    "hexCode": "F4A460",
+    "createdAt": "2019-12-13T23:44:28.233Z",
+    "updatedAt": "2019-12-13T23:44:28.233Z"
+  },
+  {
+    "objectId": "HrR8qYdfGJ",
+    "name": "Satin sheen gold",
+    "hexCode": "CBA135",
+    "createdAt": "2019-12-13T23:44:28.233Z",
+    "updatedAt": "2019-12-13T23:44:28.233Z"
+  },
+  {
+    "objectId": "01VSpysRms",
+    "name": "School bus yellow",
+    "hexCode": "FFD800",
+    "createdAt": "2019-12-13T23:44:28.295Z",
+    "updatedAt": "2019-12-13T23:44:28.295Z"
+  },
+  {
+    "objectId": "XZAfFsb0MB",
+    "name": "Shocking pink",
+    "hexCode": "FC0FC0",
+    "createdAt": "2019-12-13T23:44:28.296Z",
+    "updatedAt": "2019-12-13T23:44:28.296Z"
+  },
+  {
+    "objectId": "OG33Zbur8h",
+    "name": "Sea green",
+    "hexCode": "2E8B57",
+    "createdAt": "2019-12-13T23:44:28.295Z",
+    "updatedAt": "2019-12-13T23:44:28.295Z"
+  },
+  {
+    "objectId": "gJFNSGU3Kp",
+    "name": "Shadow blue",
+    "hexCode": "778BA5",
+    "createdAt": "2019-12-13T23:44:28.295Z",
+    "updatedAt": "2019-12-13T23:44:28.295Z"
+  },
+  {
+    "objectId": "WdMU30978p",
+    "name": "Seashell",
+    "hexCode": "FFF5EE",
+    "createdAt": "2019-12-13T23:44:28.295Z",
+    "updatedAt": "2019-12-13T23:44:28.295Z"
+  },
+  {
+    "objectId": "6ZXpP9FmmA",
+    "name": "Sea green (Crayola)",
+    "hexCode": "00FFCD",
+    "createdAt": "2019-12-13T23:44:28.295Z",
+    "updatedAt": "2019-12-13T23:44:28.295Z"
+  },
+  {
+    "objectId": "DDX3HNiEHC",
+    "name": "Silver (Metallic)",
+    "hexCode": "AAA9AD",
+    "createdAt": "2019-12-13T23:44:28.296Z",
+    "updatedAt": "2019-12-13T23:44:28.296Z"
+  },
+  {
+    "objectId": "GGHYTvH5R6",
+    "name": "Screamin' Green",
+    "hexCode": "66FF66",
+    "createdAt": "2019-12-13T23:44:28.295Z",
+    "updatedAt": "2019-12-13T23:44:28.295Z"
+  },
+  {
+    "objectId": "CYGiL92vju",
+    "name": "Seal brown",
+    "hexCode": "59260B",
+    "createdAt": "2019-12-13T23:44:28.295Z",
+    "updatedAt": "2019-12-13T23:44:28.295Z"
+  },
+  {
+    "objectId": "CkyZD3VHuZ",
+    "name": "Shamrock green",
+    "hexCode": "009E60",
+    "createdAt": "2019-12-13T23:44:28.295Z",
+    "updatedAt": "2019-12-13T23:44:28.295Z"
+  },
+  {
+    "objectId": "PAI59fEi3l",
+    "name": "Shadow",
+    "hexCode": "8A795D",
+    "createdAt": "2019-12-13T23:44:28.295Z",
+    "updatedAt": "2019-12-13T23:44:28.295Z"
+  },
+  {
+    "objectId": "yTC2luFZcZ",
+    "name": "Sepia",
+    "hexCode": "704214",
+    "createdAt": "2019-12-13T23:44:28.295Z",
+    "updatedAt": "2019-12-13T23:44:28.295Z"
+  },
+  {
+    "objectId": "4Sg1b0vMml",
+    "name": "Selective yellow",
+    "hexCode": "FFBA00",
+    "createdAt": "2019-12-13T23:44:28.295Z",
+    "updatedAt": "2019-12-13T23:44:28.295Z"
+  },
+  {
+    "objectId": "cWLleC2DUu",
+    "name": "Shiny Shamrock",
+    "hexCode": "5FA778",
+    "createdAt": "2019-12-13T23:44:28.295Z",
+    "updatedAt": "2019-12-13T23:44:28.295Z"
+  },
+  {
+    "objectId": "QdDWgGC6yi",
+    "name": "Shocking pink (Crayola)",
+    "hexCode": "FF6FFF",
+    "createdAt": "2019-12-13T23:44:28.296Z",
+    "updatedAt": "2019-12-13T23:44:28.296Z"
+  },
+  {
+    "objectId": "H9Ly8zFCnS",
+    "name": "Shimmering Blush",
+    "hexCode": "D98695",
+    "createdAt": "2019-12-13T23:44:28.295Z",
+    "updatedAt": "2019-12-13T23:44:28.295Z"
+  },
+  {
+    "objectId": "JDbeuHgYJ8",
+    "name": "Sheen green",
+    "hexCode": "8FD400",
+    "createdAt": "2019-12-13T23:44:28.295Z",
+    "updatedAt": "2019-12-13T23:44:28.295Z"
+  },
+  {
+    "objectId": "u5DQowUFBG",
+    "name": "Silver",
+    "hexCode": "C0C0C0",
+    "createdAt": "2019-12-13T23:44:28.296Z",
+    "updatedAt": "2019-12-13T23:44:28.296Z"
+  },
+  {
+    "objectId": "PrWHR1sutw",
+    "name": "Sienna",
+    "hexCode": "882D17",
+    "createdAt": "2019-12-13T23:44:28.296Z",
+    "updatedAt": "2019-12-13T23:44:28.296Z"
+  },
+  {
+    "objectId": "28hawrgrhp",
+    "name": "Silver (Crayola)",
+    "hexCode": "C9C0BB",
+    "createdAt": "2019-12-13T23:44:28.296Z",
+    "updatedAt": "2019-12-13T23:44:28.296Z"
+  },
+  {
+    "objectId": "U2lBqZsXEC",
+    "name": "Sinopia",
+    "hexCode": "CB410B",
+    "createdAt": "2019-12-13T23:44:28.664Z",
+    "updatedAt": "2019-12-13T23:44:28.664Z"
+  },
+  {
+    "objectId": "YACQculsce",
+    "name": "Sizzling Red",
+    "hexCode": "FF3855",
+    "createdAt": "2019-12-13T23:44:28.664Z",
+    "updatedAt": "2019-12-13T23:44:28.664Z"
+  },
+  {
+    "objectId": "oS2vFbDyBa",
+    "name": "Silver chalice",
+    "hexCode": "ACACAC",
+    "createdAt": "2019-12-13T23:44:28.664Z",
+    "updatedAt": "2019-12-13T23:44:28.664Z"
+  },
+  {
+    "objectId": "upM2v020KJ",
+    "name": "Silver sand",
+    "hexCode": "BFC1C2",
+    "createdAt": "2019-12-13T23:44:28.664Z",
+    "updatedAt": "2019-12-13T23:44:28.664Z"
+  },
+  {
+    "objectId": "SsEKa3wZGQ",
+    "name": "Silver pink",
+    "hexCode": "C4AEAD",
+    "createdAt": "2019-12-13T23:44:28.664Z",
+    "updatedAt": "2019-12-13T23:44:28.664Z"
+  },
+  {
+    "objectId": "zxEwL2heTV",
+    "name": "Sky magenta",
+    "hexCode": "CF71AF",
+    "createdAt": "2019-12-13T23:44:28.664Z",
+    "updatedAt": "2019-12-13T23:44:28.664Z"
+  },
+  {
+    "objectId": "NNjCK2ENmn",
+    "name": "Skobeloff",
+    "hexCode": "007474",
+    "createdAt": "2019-12-13T23:44:28.664Z",
+    "updatedAt": "2019-12-13T23:44:28.664Z"
+  },
+  {
+    "objectId": "55TDWrhkIf",
+    "name": "Sizzling Sunrise",
+    "hexCode": "FFDB00",
+    "createdAt": "2019-12-13T23:44:28.664Z",
+    "updatedAt": "2019-12-13T23:44:28.664Z"
+  },
+  {
+    "objectId": "Pz9JEjyLnC",
+    "name": "Sky blue",
+    "hexCode": "87CEEB",
+    "createdAt": "2019-12-13T23:44:28.664Z",
+    "updatedAt": "2019-12-13T23:44:28.664Z"
+  },
+  {
+    "objectId": "oGtCMaNjUH",
+    "name": "Sky blue (Crayola)",
+    "hexCode": "76D7EA",
+    "createdAt": "2019-12-13T23:44:28.664Z",
+    "updatedAt": "2019-12-13T23:44:28.664Z"
+  },
+  {
+    "objectId": "gu8R0O78rO",
+    "name": "Smoky black",
+    "hexCode": "100C08",
+    "createdAt": "2019-12-13T23:44:28.664Z",
+    "updatedAt": "2019-12-13T23:44:28.664Z"
+  },
+  {
+    "objectId": "oolGIWpAgq",
+    "name": "Slimy green",
+    "hexCode": "299617",
+    "createdAt": "2019-12-13T23:44:28.664Z",
+    "updatedAt": "2019-12-13T23:44:28.664Z"
+  },
+  {
+    "objectId": "wlqWzYScHg",
+    "name": "Slate gray",
+    "hexCode": "708090",
+    "createdAt": "2019-12-13T23:44:28.664Z",
+    "updatedAt": "2019-12-13T23:44:28.664Z"
+  },
+  {
+    "objectId": "Sg2Tmron9l",
+    "name": "Slate blue",
+    "hexCode": "6A5ACD",
+    "createdAt": "2019-12-13T23:44:28.664Z",
+    "updatedAt": "2019-12-13T23:44:28.664Z"
+  },
+  {
+    "objectId": "2KVVVHdQb5",
+    "name": "Smitten",
+    "hexCode": "C84186",
+    "createdAt": "2019-12-13T23:44:28.664Z",
+    "updatedAt": "2019-12-13T23:44:28.664Z"
+  },
+  {
+    "objectId": "nb91dTZY1U",
+    "name": "Spanish bistre",
+    "hexCode": "807532",
+    "createdAt": "2019-12-13T23:44:28.664Z",
+    "updatedAt": "2019-12-13T23:44:28.664Z"
+  },
+  {
+    "objectId": "qs6unDfckr",
+    "name": "Solid pink",
+    "hexCode": "893843",
+    "createdAt": "2019-12-13T23:44:28.664Z",
+    "updatedAt": "2019-12-13T23:44:28.664Z"
+  },
+  {
+    "objectId": "BpIcRSkEF9",
+    "name": "Sonic silver",
+    "hexCode": "757575",
+    "createdAt": "2019-12-13T23:44:28.664Z",
+    "updatedAt": "2019-12-13T23:44:28.664Z"
+  },
+  {
+    "objectId": "f7vlZBAnRz",
+    "name": "Space cadet",
+    "hexCode": "1D2951",
+    "createdAt": "2019-12-13T23:44:28.664Z",
+    "updatedAt": "2019-12-13T23:44:28.664Z"
+  },
+  {
+    "objectId": "W5W0oVcVL1",
+    "name": "Snow",
+    "hexCode": "FFFAFA",
+    "createdAt": "2019-12-13T23:44:28.664Z",
+    "updatedAt": "2019-12-13T23:44:28.664Z"
+  },
+  {
+    "objectId": "4mHWMrWTDR",
+    "name": "Spanish orange",
+    "hexCode": "E86100",
+    "createdAt": "2019-12-13T23:44:28.709Z",
+    "updatedAt": "2019-12-13T23:44:28.709Z"
+  },
+  {
+    "objectId": "guTvliPcvR",
+    "name": "Spanish blue",
+    "hexCode": "0070B8",
+    "createdAt": "2019-12-13T23:44:28.709Z",
+    "updatedAt": "2019-12-13T23:44:28.709Z"
+  },
+  {
+    "objectId": "RBn0k277jB",
+    "name": "Spanish carmine",
+    "hexCode": "D10047",
+    "createdAt": "2019-12-13T23:44:28.709Z",
+    "updatedAt": "2019-12-13T23:44:28.709Z"
+  },
+  {
+    "objectId": "Ub8YJEYpRx",
+    "name": "Spanish gray",
+    "hexCode": "989898",
+    "createdAt": "2019-12-13T23:44:28.709Z",
+    "updatedAt": "2019-12-13T23:44:28.709Z"
+  },
+  {
+    "objectId": "ADHf8VozEg",
+    "name": "Spanish green",
+    "hexCode": "009150",
+    "createdAt": "2019-12-13T23:44:28.709Z",
+    "updatedAt": "2019-12-13T23:44:28.709Z"
+  },
+  {
+    "objectId": "F4x3yWS5lq",
+    "name": "Spanish pink",
+    "hexCode": "F7BFBE",
+    "createdAt": "2019-12-13T23:44:28.709Z",
+    "updatedAt": "2019-12-13T23:44:28.709Z"
+  },
+  {
+    "objectId": "hdFoWfTyxY",
+    "name": "Spanish sky blue",
+    "hexCode": "00FFFF",
+    "createdAt": "2019-12-13T23:44:28.709Z",
+    "updatedAt": "2019-12-13T23:44:28.709Z"
+  },
+  {
+    "objectId": "mVaPPCKIEV",
+    "name": "Spring green (Crayola)",
+    "hexCode": "ECEBBD",
+    "createdAt": "2019-12-13T23:44:28.709Z",
+    "updatedAt": "2019-12-13T23:44:28.709Z"
+  },
+  {
+    "objectId": "rDiIAte48B",
+    "name": "Steel pink",
+    "hexCode": "CC33CC",
+    "createdAt": "2019-12-13T23:44:28.709Z",
+    "updatedAt": "2019-12-13T23:44:28.709Z"
+  },
+  {
+    "objectId": "DmYrxnq28i",
+    "name": "Steel Teal",
+    "hexCode": "5F8A8B",
+    "createdAt": "2019-12-13T23:44:28.709Z",
+    "updatedAt": "2019-12-13T23:44:28.709Z"
+  },
+  {
+    "objectId": "tYhHU8GDUx",
+    "name": "Straw",
+    "hexCode": "E4D96F",
+    "createdAt": "2019-12-13T23:44:28.709Z",
+    "updatedAt": "2019-12-13T23:44:28.709Z"
+  },
+  {
+    "objectId": "3cHdfrQ2tC",
+    "name": "Spanish red",
+    "hexCode": "E60026",
+    "createdAt": "2019-12-13T23:44:28.709Z",
+    "updatedAt": "2019-12-13T23:44:28.709Z"
+  },
+  {
+    "objectId": "oSn2eSUVF4",
+    "name": "Spring bud",
+    "hexCode": "A7FC00",
+    "createdAt": "2019-12-13T23:44:28.709Z",
+    "updatedAt": "2019-12-13T23:44:28.709Z"
+  },
+  {
+    "objectId": "01djldfO0o",
+    "name": "Spring Frost",
+    "hexCode": "87FF2A",
+    "createdAt": "2019-12-13T23:44:28.709Z",
+    "updatedAt": "2019-12-13T23:44:28.709Z"
+  },
+  {
+    "objectId": "mMkA3bBIHA",
+    "name": "Spanish viridian",
+    "hexCode": "007F5C",
+    "createdAt": "2019-12-13T23:44:28.709Z",
+    "updatedAt": "2019-12-13T23:44:28.709Z"
+  },
+  {
+    "objectId": "oFk0IMUeDD",
+    "name": "Spanish violet",
+    "hexCode": "4C2882",
+    "createdAt": "2019-12-13T23:44:28.709Z",
+    "updatedAt": "2019-12-13T23:44:28.709Z"
+  },
+  {
+    "objectId": "MG01mHZwdX",
+    "name": "Steel blue",
+    "hexCode": "4682B4",
+    "createdAt": "2019-12-13T23:44:28.709Z",
+    "updatedAt": "2019-12-13T23:44:28.709Z"
+  },
+  {
+    "objectId": "utIXsAtIQ4",
+    "name": "Star command blue",
+    "hexCode": "007BB8",
+    "createdAt": "2019-12-13T23:44:28.709Z",
+    "updatedAt": "2019-12-13T23:44:28.709Z"
+  },
+  {
+    "objectId": "izOne9rDWB",
+    "name": "Spring green",
+    "hexCode": "00FF7F",
+    "createdAt": "2019-12-13T23:44:28.709Z",
+    "updatedAt": "2019-12-13T23:44:28.709Z"
+  },
+  {
+    "objectId": "m71Ev2Mx53",
+    "name": "Stil de grain yellow",
+    "hexCode": "FADA5E",
+    "createdAt": "2019-12-13T23:44:28.709Z",
+    "updatedAt": "2019-12-13T23:44:28.709Z"
+  },
+  {
+    "objectId": "8SPeJr88m6",
+    "name": "Sunglow",
+    "hexCode": "FFCC33",
+    "createdAt": "2019-12-13T23:44:29.040Z",
+    "updatedAt": "2019-12-13T23:44:29.040Z"
+  },
+  {
+    "objectId": "XkbnporjBS",
+    "name": "Sunray",
+    "hexCode": "E3AB57",
+    "createdAt": "2019-12-13T23:44:29.040Z",
+    "updatedAt": "2019-12-13T23:44:29.040Z"
+  },
+  {
+    "objectId": "tTmfC3sCUw",
+    "name": "Sugar Plum",
+    "hexCode": "914E75",
+    "createdAt": "2019-12-13T23:44:29.040Z",
+    "updatedAt": "2019-12-13T23:44:29.040Z"
+  },
+  {
+    "objectId": "icHFRyzqHm",
+    "name": "Super pink",
+    "hexCode": "CF6BA9",
+    "createdAt": "2019-12-13T23:44:29.040Z",
+    "updatedAt": "2019-12-13T23:44:29.040Z"
+  },
+  {
+    "objectId": "QWayI8cfRu",
+    "name": "Sunset",
+    "hexCode": "FAD6A5",
+    "createdAt": "2019-12-13T23:44:29.040Z",
+    "updatedAt": "2019-12-13T23:44:29.040Z"
+  },
+  {
+    "objectId": "OFwkEAGGrG",
+    "name": "Tango pink",
+    "hexCode": "E4717A",
+    "createdAt": "2019-12-13T23:44:29.040Z",
+    "updatedAt": "2019-12-13T23:44:29.040Z"
+  },
+  {
+    "objectId": "0Vxo3dUG5X",
+    "name": "Tan",
+    "hexCode": "D2B48C",
+    "createdAt": "2019-12-13T23:44:29.040Z",
+    "updatedAt": "2019-12-13T23:44:29.040Z"
+  },
+  {
+    "objectId": "2FzrziFBei",
+    "name": "Tangerine",
+    "hexCode": "F28500",
+    "createdAt": "2019-12-13T23:44:29.040Z",
+    "updatedAt": "2019-12-13T23:44:29.040Z"
+  },
+  {
+    "objectId": "Cls57H8y13",
+    "name": "Taupe",
+    "hexCode": "483C32",
+    "createdAt": "2019-12-13T23:44:29.040Z",
+    "updatedAt": "2019-12-13T23:44:29.040Z"
+  },
+  {
+    "objectId": "929zi1VuC1",
+    "name": "Tart Orange",
+    "hexCode": "FB4D46",
+    "createdAt": "2019-12-13T23:44:29.040Z",
+    "updatedAt": "2019-12-13T23:44:29.040Z"
+  },
+  {
+    "objectId": "rwmeD0fAGW",
+    "name": "Tea rose",
+    "hexCode": "F88379",
+    "createdAt": "2019-12-13T23:44:29.040Z",
+    "updatedAt": "2019-12-13T23:44:29.040Z"
+  },
+  {
+    "objectId": "PYuLToHAHS",
+    "name": "Tan (Crayola)",
+    "hexCode": "D99A6C",
+    "createdAt": "2019-12-13T23:44:29.040Z",
+    "updatedAt": "2019-12-13T23:44:29.040Z"
+  },
+  {
+    "objectId": "cHMB4VbilF",
+    "name": "Sweet Brown",
+    "hexCode": "A83731",
+    "createdAt": "2019-12-13T23:44:29.040Z",
+    "updatedAt": "2019-12-13T23:44:29.040Z"
+  },
+  {
+    "objectId": "d5Bu9GSxWh",
+    "name": "Taupe gray",
+    "hexCode": "8B8589",
+    "createdAt": "2019-12-13T23:44:29.040Z",
+    "updatedAt": "2019-12-13T23:44:29.040Z"
+  },
+  {
+    "objectId": "nw7FtRBFdz",
+    "name": "Tea green",
+    "hexCode": "D0F0C0",
+    "createdAt": "2019-12-13T23:44:29.040Z",
+    "updatedAt": "2019-12-13T23:44:29.040Z"
+  },
+  {
+    "objectId": "J9h0LJabH2",
+    "name": "Tenné (tawny)",
+    "hexCode": "CD5700",
+    "createdAt": "2019-12-13T23:44:29.040Z",
+    "updatedAt": "2019-12-13T23:44:29.040Z"
+  },
+  {
+    "objectId": "o1BlmYohmU",
+    "name": "Telemagenta",
+    "hexCode": "CF3476",
+    "createdAt": "2019-12-13T23:44:29.040Z",
+    "updatedAt": "2019-12-13T23:44:29.040Z"
+  },
+  {
+    "objectId": "EA6BrAtAyc",
+    "name": "Teal",
+    "hexCode": "008080",
+    "createdAt": "2019-12-13T23:44:29.040Z",
+    "updatedAt": "2019-12-13T23:44:29.040Z"
+  },
+  {
+    "objectId": "tPNV073k0v",
+    "name": "Tea rose",
+    "hexCode": "F4C2C2",
+    "createdAt": "2019-12-13T23:44:29.040Z",
+    "updatedAt": "2019-12-13T23:44:29.040Z"
+  },
+  {
+    "objectId": "tYCZnXDkjQ",
+    "name": "Teal blue",
+    "hexCode": "367588",
+    "createdAt": "2019-12-13T23:44:29.040Z",
+    "updatedAt": "2019-12-13T23:44:29.040Z"
+  },
+  {
+    "objectId": "kG8s52kbiG",
+    "name": "Tiffany Blue",
+    "hexCode": "0ABAB5",
+    "createdAt": "2019-12-13T23:44:29.078Z",
+    "updatedAt": "2019-12-13T23:44:29.078Z"
+  },
+  {
+    "objectId": "TeeDbRRLyV",
+    "name": "Tomato",
+    "hexCode": "FF6347",
+    "createdAt": "2019-12-13T23:44:29.078Z",
+    "updatedAt": "2019-12-13T23:44:29.078Z"
+  },
+  {
+    "objectId": "pINGdFVFQf",
+    "name": "Tuscan",
+    "hexCode": "FAD6A5",
+    "createdAt": "2019-12-13T23:44:29.078Z",
+    "updatedAt": "2019-12-13T23:44:29.078Z"
+  },
+  {
+    "objectId": "lDRTTAZn0T",
+    "name": "Tumbleweed",
+    "hexCode": "DEAA88",
+    "createdAt": "2019-12-13T23:44:29.078Z",
+    "updatedAt": "2019-12-13T23:44:29.078Z"
+  },
+  {
+    "objectId": "CVAwSKFpoz",
+    "name": "Thistle",
+    "hexCode": "D8BFD8",
+    "createdAt": "2019-12-13T23:44:29.078Z",
+    "updatedAt": "2019-12-13T23:44:29.078Z"
+  },
+  {
+    "objectId": "p6hxtplpcY",
+    "name": "Tickle Me Pink",
+    "hexCode": "FC89AC",
+    "createdAt": "2019-12-13T23:44:29.078Z",
+    "updatedAt": "2019-12-13T23:44:29.078Z"
+  },
+  {
+    "objectId": "diHUHdtwjf",
+    "name": "Thulian pink",
+    "hexCode": "DE6FA1",
+    "createdAt": "2019-12-13T23:44:29.078Z",
+    "updatedAt": "2019-12-13T23:44:29.078Z"
+  },
+  {
+    "objectId": "MMCa4PlCJ1",
+    "name": "Terra cotta",
+    "hexCode": "E2725B",
+    "createdAt": "2019-12-13T23:44:29.078Z",
+    "updatedAt": "2019-12-13T23:44:29.078Z"
+  },
+  {
+    "objectId": "r0CYfyXtW1",
+    "name": "Timberwolf",
+    "hexCode": "DBD7D2",
+    "createdAt": "2019-12-13T23:44:29.078Z",
+    "updatedAt": "2019-12-13T23:44:29.078Z"
+  },
+  {
+    "objectId": "9gDwnugYTI",
+    "name": "Tropical rain forest",
+    "hexCode": "00755E",
+    "createdAt": "2019-12-13T23:44:29.078Z",
+    "updatedAt": "2019-12-13T23:44:29.078Z"
+  },
+  {
+    "objectId": "o0eFauheJM",
+    "name": "Titanium yellow",
+    "hexCode": "EEE600",
+    "createdAt": "2019-12-13T23:44:29.078Z",
+    "updatedAt": "2019-12-13T23:44:29.078Z"
+  },
+  {
+    "objectId": "9pAkxdiz1i",
+    "name": "True Blue",
+    "hexCode": "2D68C4",
+    "createdAt": "2019-12-13T23:44:29.078Z",
+    "updatedAt": "2019-12-13T23:44:29.078Z"
+  },
+  {
+    "objectId": "sPHKZBq1SF",
+    "name": "Turquoise",
+    "hexCode": "40E0D0",
+    "createdAt": "2019-12-13T23:44:29.078Z",
+    "updatedAt": "2019-12-13T23:44:29.078Z"
+  },
+  {
+    "objectId": "5IXCaXZwgD",
+    "name": "Trypan Blue",
+    "hexCode": "1C05B3",
+    "createdAt": "2019-12-13T23:44:29.078Z",
+    "updatedAt": "2019-12-13T23:44:29.078Z"
+  },
+  {
+    "objectId": "VATt7NgX6Q",
+    "name": "Tufts blue",
+    "hexCode": "3E8EDE",
+    "createdAt": "2019-12-13T23:44:29.078Z",
+    "updatedAt": "2019-12-13T23:44:29.078Z"
+  },
+  {
+    "objectId": "TXfIqTTbYp",
+    "name": "Turquoise blue",
+    "hexCode": "00FFEF",
+    "createdAt": "2019-12-13T23:44:29.078Z",
+    "updatedAt": "2019-12-13T23:44:29.078Z"
+  },
+  {
+    "objectId": "zPJKJiQmtP",
+    "name": "Tuscan brown",
+    "hexCode": "6F4E37",
+    "createdAt": "2019-12-13T23:44:29.078Z",
+    "updatedAt": "2019-12-13T23:44:29.078Z"
+  },
+  {
+    "objectId": "VAjpFxdAhH",
+    "name": "Turtle green",
+    "hexCode": "8A9A5B",
+    "createdAt": "2019-12-13T23:44:29.078Z",
+    "updatedAt": "2019-12-13T23:44:29.078Z"
+  },
+  {
+    "objectId": "V5psxLEUF5",
+    "name": "Tuscan red",
+    "hexCode": "7C4848",
+    "createdAt": "2019-12-13T23:44:29.078Z",
+    "updatedAt": "2019-12-13T23:44:29.078Z"
+  },
+  {
+    "objectId": "DrH3O90mZ2",
+    "name": "Turquoise green",
+    "hexCode": "A0D6B4",
+    "createdAt": "2019-12-13T23:44:29.078Z",
+    "updatedAt": "2019-12-13T23:44:29.078Z"
+  },
+  {
+    "objectId": "Yfz8nDmHvP",
+    "name": "Tuscany",
+    "hexCode": "C09999",
+    "createdAt": "2019-12-13T23:44:29.383Z",
+    "updatedAt": "2019-12-13T23:44:29.383Z"
+  },
+  {
+    "objectId": "PkQ2nLgSEk",
+    "name": "Ultra pink",
+    "hexCode": "FF6FFF",
+    "createdAt": "2019-12-13T23:44:29.383Z",
+    "updatedAt": "2019-12-13T23:44:29.383Z"
+  },
+  {
+    "objectId": "rhqD1AGY5A",
+    "name": "Unmellow yellow",
+    "hexCode": "FFFF66",
+    "createdAt": "2019-12-13T23:44:29.384Z",
+    "updatedAt": "2019-12-13T23:44:29.384Z"
+  },
+  {
+    "objectId": "CmtMdgC49k",
+    "name": "USAFA blue",
+    "hexCode": "004F98",
+    "createdAt": "2019-12-13T23:44:29.384Z",
+    "updatedAt": "2019-12-13T23:44:29.384Z"
+  },
+  {
+    "objectId": "MGc1IbBAmG",
+    "name": "UA blue",
+    "hexCode": "0033AA",
+    "createdAt": "2019-12-13T23:44:29.383Z",
+    "updatedAt": "2019-12-13T23:44:29.383Z"
+  },
+  {
+    "objectId": "xJFo5AtqZA",
+    "name": "Twilight lavender",
+    "hexCode": "8A496B",
+    "createdAt": "2019-12-13T23:44:29.383Z",
+    "updatedAt": "2019-12-13T23:44:29.383Z"
+  },
+  {
+    "objectId": "CVmkwQhN6x",
+    "name": "Tuscan tan",
+    "hexCode": "A67B5B",
+    "createdAt": "2019-12-13T23:44:29.383Z",
+    "updatedAt": "2019-12-13T23:44:29.383Z"
+  },
+  {
+    "objectId": "OZGaTabP14",
+    "name": "Tyrian purple",
+    "hexCode": "66023C",
+    "createdAt": "2019-12-13T23:44:29.383Z",
+    "updatedAt": "2019-12-13T23:44:29.383Z"
+  },
+  {
+    "objectId": "ii6SWg5a2P",
+    "name": "Ultramarine",
+    "hexCode": "3F00FF",
+    "createdAt": "2019-12-13T23:44:29.383Z",
+    "updatedAt": "2019-12-13T23:44:29.383Z"
+  },
+  {
+    "objectId": "ZvWChcIGIF",
+    "name": "UA red",
+    "hexCode": "D9004C",
+    "createdAt": "2019-12-13T23:44:29.383Z",
+    "updatedAt": "2019-12-13T23:44:29.383Z"
+  },
+  {
+    "objectId": "Qpa8IaE0mC",
+    "name": "Ultramarine blue",
+    "hexCode": "4166F5",
+    "createdAt": "2019-12-13T23:44:29.383Z",
+    "updatedAt": "2019-12-13T23:44:29.383Z"
+  },
+  {
+    "objectId": "onfguT5fBm",
+    "name": "Ultra red",
+    "hexCode": "FC6C85",
+    "createdAt": "2019-12-13T23:44:29.383Z",
+    "updatedAt": "2019-12-13T23:44:29.383Z"
+  },
+  {
+    "objectId": "JMpWwqgzoU",
+    "name": "Van Dyke brown",
+    "hexCode": "664228",
+    "createdAt": "2019-12-13T23:44:29.384Z",
+    "updatedAt": "2019-12-13T23:44:29.384Z"
+  },
+  {
+    "objectId": "QCwVJHdtzR",
+    "name": "Unbleached silk",
+    "hexCode": "FFDDCA",
+    "createdAt": "2019-12-13T23:44:29.384Z",
+    "updatedAt": "2019-12-13T23:44:29.384Z"
+  },
+  {
+    "objectId": "EXDNJBJAS3",
+    "name": "Umber",
+    "hexCode": "635147",
+    "createdAt": "2019-12-13T23:44:29.384Z",
+    "updatedAt": "2019-12-13T23:44:29.384Z"
+  },
+  {
+    "objectId": "Q6dxqk9dVq",
+    "name": "United Nations blue",
+    "hexCode": "5B92E5",
+    "createdAt": "2019-12-13T23:44:29.384Z",
+    "updatedAt": "2019-12-13T23:44:29.384Z"
+  },
+  {
+    "objectId": "Nfbq4AyS6P",
+    "name": "Upsdell red",
+    "hexCode": "AE2029",
+    "createdAt": "2019-12-13T23:44:29.384Z",
+    "updatedAt": "2019-12-13T23:44:29.384Z"
+  },
+  {
+    "objectId": "puVlnArw6j",
+    "name": "UP Forest green",
+    "hexCode": "014421",
+    "createdAt": "2019-12-13T23:44:29.384Z",
+    "updatedAt": "2019-12-13T23:44:29.384Z"
+  },
+  {
+    "objectId": "QFpAX0FTfm",
+    "name": "Uranian blue",
+    "hexCode": "AFDBF5",
+    "createdAt": "2019-12-13T23:44:29.384Z",
+    "updatedAt": "2019-12-13T23:44:29.384Z"
+  },
+  {
+    "objectId": "S60XEZ973A",
+    "name": "UP maroon",
+    "hexCode": "7B1113",
+    "createdAt": "2019-12-13T23:44:29.384Z",
+    "updatedAt": "2019-12-13T23:44:29.384Z"
+  },
+  {
+    "objectId": "EWHhhNGeAb",
+    "name": "Vanilla",
+    "hexCode": "F3E5AB",
+    "createdAt": "2019-12-13T23:44:29.605Z",
+    "updatedAt": "2019-12-13T23:44:29.605Z"
+  },
+  {
+    "objectId": "lAdd1KZWlf",
+    "name": "Venetian red",
+    "hexCode": "C80815",
+    "createdAt": "2019-12-13T23:44:29.605Z",
+    "updatedAt": "2019-12-13T23:44:29.605Z"
+  },
+  {
+    "objectId": "uExK8BopGa",
+    "name": "Violet (color wheel)",
+    "hexCode": "7F00FF",
+    "createdAt": "2019-12-13T23:44:29.606Z",
+    "updatedAt": "2019-12-13T23:44:29.606Z"
+  },
+  {
+    "objectId": "wKDDORFg81",
+    "name": "Violet (crayola)",
+    "hexCode": "963D7F",
+    "createdAt": "2019-12-13T23:44:29.606Z",
+    "updatedAt": "2019-12-13T23:44:29.606Z"
+  },
+  {
+    "objectId": "UhfBD914Qz",
+    "name": "Vanilla ice",
+    "hexCode": "F38FA9",
+    "createdAt": "2019-12-13T23:44:29.605Z",
+    "updatedAt": "2019-12-13T23:44:29.605Z"
+  },
+  {
+    "objectId": "TfU8TTDVXX",
+    "name": "Verdigris",
+    "hexCode": "43B3AE",
+    "createdAt": "2019-12-13T23:44:29.606Z",
+    "updatedAt": "2019-12-13T23:44:29.606Z"
+  },
+  {
+    "objectId": "zJ2RuERWM0",
+    "name": "Vermilion",
+    "hexCode": "D9381E",
+    "createdAt": "2019-12-13T23:44:29.606Z",
+    "updatedAt": "2019-12-13T23:44:29.606Z"
+  },
+  {
+    "objectId": "O5BFTSAajP",
+    "name": "Violet",
+    "hexCode": "8F00FF",
+    "createdAt": "2019-12-13T23:44:29.606Z",
+    "updatedAt": "2019-12-13T23:44:29.606Z"
+  },
+  {
+    "objectId": "mfNXJkz5k4",
+    "name": "Veronica",
+    "hexCode": "A020F0",
+    "createdAt": "2019-12-13T23:44:29.606Z",
+    "updatedAt": "2019-12-13T23:44:29.606Z"
+  },
+  {
+    "objectId": "bAhL1ybOhk",
+    "name": "Vermilion",
+    "hexCode": "E34234",
+    "createdAt": "2019-12-13T23:44:29.606Z",
+    "updatedAt": "2019-12-13T23:44:29.606Z"
+  },
+  {
+    "objectId": "yHfwZdKJfO",
+    "name": "Vegas gold",
+    "hexCode": "C5B358",
+    "createdAt": "2019-12-13T23:44:29.605Z",
+    "updatedAt": "2019-12-13T23:44:29.605Z"
+  },
+  {
+    "objectId": "k6IeRhjmEJ",
+    "name": "Vivid burgundy",
+    "hexCode": "9F1D35",
+    "createdAt": "2019-12-13T23:44:29.606Z",
+    "updatedAt": "2019-12-13T23:44:29.606Z"
+  },
+  {
+    "objectId": "2yvCxqTB8D",
+    "name": "Viridian green",
+    "hexCode": "009698",
+    "createdAt": "2019-12-13T23:44:29.606Z",
+    "updatedAt": "2019-12-13T23:44:29.606Z"
+  },
+  {
+    "objectId": "FgAb8hFx07",
+    "name": "Violet-blue (Crayola)",
+    "hexCode": "766EC8",
+    "createdAt": "2019-12-13T23:44:29.606Z",
+    "updatedAt": "2019-12-13T23:44:29.606Z"
+  },
+  {
+    "objectId": "d0SfukGPgV",
+    "name": "Violet-red",
+    "hexCode": "F75394",
+    "createdAt": "2019-12-13T23:44:29.606Z",
+    "updatedAt": "2019-12-13T23:44:29.606Z"
+  },
+  {
+    "objectId": "T2g5ZQWX8g",
+    "name": "Violet (web)",
+    "hexCode": "EE82EE",
+    "createdAt": "2019-12-13T23:44:29.606Z",
+    "updatedAt": "2019-12-13T23:44:29.606Z"
+  },
+  {
+    "objectId": "dRb5p1Q1h5",
+    "name": "Vivid sky blue",
+    "hexCode": "00CCFF",
+    "createdAt": "2019-12-13T23:44:29.606Z",
+    "updatedAt": "2019-12-13T23:44:29.606Z"
+  },
+  {
+    "objectId": "MzmEDFw70A",
+    "name": "Violet-blue",
+    "hexCode": "324AB2",
+    "createdAt": "2019-12-13T23:44:29.606Z",
+    "updatedAt": "2019-12-13T23:44:29.606Z"
+  },
+  {
+    "objectId": "mvAPhdGN4q",
+    "name": "Violet (RYB)",
+    "hexCode": "8601AF",
+    "createdAt": "2019-12-13T23:44:29.606Z",
+    "updatedAt": "2019-12-13T23:44:29.606Z"
+  },
+  {
+    "objectId": "kIfHE5NLGS",
+    "name": "Viridian",
+    "hexCode": "40826D",
+    "createdAt": "2019-12-13T23:44:29.606Z",
+    "updatedAt": "2019-12-13T23:44:29.606Z"
+  },
+  {
+    "objectId": "YdzijJweRr",
+    "name": "Volt",
+    "hexCode": "CEFF00",
+    "createdAt": "2019-12-13T23:44:29.776Z",
+    "updatedAt": "2019-12-13T23:44:29.776Z"
+  },
+  {
+    "objectId": "W9fz4wKF2P",
+    "name": "Xanthic",
+    "hexCode": "EEED09",
+    "createdAt": "2019-12-13T23:44:29.776Z",
+    "updatedAt": "2019-12-13T23:44:29.776Z"
+  },
+  {
+    "objectId": "KcYMY54R2X",
+    "name": "Wine dregs",
+    "hexCode": "673147",
+    "createdAt": "2019-12-13T23:44:29.776Z",
+    "updatedAt": "2019-12-13T23:44:29.776Z"
+  },
+  {
+    "objectId": "TKNGk4Q5mR",
+    "name": "Wild orchid",
+    "hexCode": "D470A2",
+    "createdAt": "2019-12-13T23:44:29.776Z",
+    "updatedAt": "2019-12-13T23:44:29.776Z"
+  },
+  {
+    "objectId": "mAPN7ZMfzB",
+    "name": "Wheat",
+    "hexCode": "F5DEB3",
+    "createdAt": "2019-12-13T23:44:29.776Z",
+    "updatedAt": "2019-12-13T23:44:29.776Z"
+  },
+  {
+    "objectId": "dwEDCCax40",
+    "name": "Warm black",
+    "hexCode": "004242",
+    "createdAt": "2019-12-13T23:44:29.776Z",
+    "updatedAt": "2019-12-13T23:44:29.776Z"
+  },
+  {
+    "objectId": "yiSqgPgrl8",
+    "name": "Vivid violet",
+    "hexCode": "9F00FF",
+    "createdAt": "2019-12-13T23:44:29.776Z",
+    "updatedAt": "2019-12-13T23:44:29.776Z"
+  },
+  {
+    "objectId": "lgjL4njxdb",
+    "name": "Vivid tangerine",
+    "hexCode": "FFA089",
+    "createdAt": "2019-12-13T23:44:29.776Z",
+    "updatedAt": "2019-12-13T23:44:29.776Z"
+  },
+  {
+    "objectId": "agccs9KwF6",
+    "name": "White",
+    "hexCode": "FFFFFF",
+    "createdAt": "2019-12-13T23:44:29.776Z",
+    "updatedAt": "2019-12-13T23:44:29.776Z"
+  },
+  {
+    "objectId": "8OcGPh9a8G",
+    "name": "Wild blue yonder",
+    "hexCode": "A2ADD0",
+    "createdAt": "2019-12-13T23:44:29.776Z",
+    "updatedAt": "2019-12-13T23:44:29.776Z"
+  },
+  {
+    "objectId": "R8VzsWiIZh",
+    "name": "Wild Strawberry",
+    "hexCode": "FF43A4",
+    "createdAt": "2019-12-13T23:44:29.776Z",
+    "updatedAt": "2019-12-13T23:44:29.776Z"
+  },
+  {
+    "objectId": "C6h9cjoAao",
+    "name": "Wild watermelon",
+    "hexCode": "FC6C85",
+    "createdAt": "2019-12-13T23:44:29.776Z",
+    "updatedAt": "2019-12-13T23:44:29.776Z"
+  },
+  {
+    "objectId": "oLiF11IQUH",
+    "name": "Windsor tan",
+    "hexCode": "A75502",
+    "createdAt": "2019-12-13T23:44:29.776Z",
+    "updatedAt": "2019-12-13T23:44:29.776Z"
+  },
+  {
+    "objectId": "FoW4wo9UZP",
+    "name": "Wine",
+    "hexCode": "722F37",
+    "createdAt": "2019-12-13T23:44:29.776Z",
+    "updatedAt": "2019-12-13T23:44:29.776Z"
+  },
+  {
+    "objectId": "5pDTZCV9wh",
+    "name": "Winter Sky",
+    "hexCode": "FF007C",
+    "createdAt": "2019-12-13T23:44:29.776Z",
+    "updatedAt": "2019-12-13T23:44:29.776Z"
+  },
+  {
+    "objectId": "QdMbIsbg8a",
+    "name": "Wintergreen Dream",
+    "hexCode": "56887D",
+    "createdAt": "2019-12-13T23:44:29.776Z",
+    "updatedAt": "2019-12-13T23:44:29.776Z"
+  },
+  {
+    "objectId": "n3lXXuowRE",
+    "name": "Wisteria",
+    "hexCode": "C9A0DC",
+    "createdAt": "2019-12-13T23:44:29.776Z",
+    "updatedAt": "2019-12-13T23:44:29.776Z"
+  },
+  {
+    "objectId": "c2TUGxNnRe",
+    "name": "Xanadu",
+    "hexCode": "738678",
+    "createdAt": "2019-12-13T23:44:29.776Z",
+    "updatedAt": "2019-12-13T23:44:29.776Z"
+  },
+  {
+    "objectId": "zBCJcOFaDQ",
+    "name": "Wood brown",
+    "hexCode": "C19A6B",
+    "createdAt": "2019-12-13T23:44:29.776Z",
+    "updatedAt": "2019-12-13T23:44:29.776Z"
+  },
+  {
+    "objectId": "rIxOBb7Weq",
+    "name": "Xiketic",
+    "hexCode": "0C020F",
+    "createdAt": "2019-12-13T23:44:29.776Z",
+    "updatedAt": "2019-12-13T23:44:29.776Z"
+  },
+  {
+    "objectId": "fyDvdEdX4M",
+    "name": "Yellow (Crayola)",
+    "hexCode": "FCE883",
+    "createdAt": "2019-12-13T23:44:29.974Z",
+    "updatedAt": "2019-12-13T23:44:29.974Z"
+  },
+  {
+    "objectId": "eQZP58dQtH",
+    "name": "Yale Blue",
+    "hexCode": "0F4D92",
+    "createdAt": "2019-12-13T23:44:29.974Z",
+    "updatedAt": "2019-12-13T23:44:29.974Z"
+  },
+  {
+    "objectId": "UDVhmUyjmV",
+    "name": "Zomp",
+    "hexCode": "39A78E",
+    "createdAt": "2019-12-13T23:44:29.974Z",
+    "updatedAt": "2019-12-13T23:44:29.974Z"
+  },
+  {
+    "objectId": "MpALn1erSy",
+    "name": "Yellow (RYB)",
+    "hexCode": "FEFE33",
+    "createdAt": "2019-12-13T23:44:29.974Z",
+    "updatedAt": "2019-12-13T23:44:29.974Z"
+  },
+  {
+    "objectId": "bTYC9cCdTA",
+    "name": "Yellow (NCS)",
+    "hexCode": "FFD300",
+    "createdAt": "2019-12-13T23:44:29.974Z",
+    "updatedAt": "2019-12-13T23:44:29.974Z"
+  },
+  {
+    "objectId": "kTswbKd5He",
+    "name": "YInMn Blue",
+    "hexCode": "2E5090",
+    "createdAt": "2019-12-13T23:44:29.974Z",
+    "updatedAt": "2019-12-13T23:44:29.974Z"
+  },
+  {
+    "objectId": "y8fWGVtNP4",
+    "name": "Yellow (Munsell)",
+    "hexCode": "EFCC00",
+    "createdAt": "2019-12-13T23:44:29.974Z",
+    "updatedAt": "2019-12-13T23:44:29.974Z"
+  },
+  {
+    "objectId": "USJoTdLQmF",
+    "name": "Yellow (process)",
+    "hexCode": "FFEF00",
+    "createdAt": "2019-12-13T23:44:29.974Z",
+    "updatedAt": "2019-12-13T23:44:29.974Z"
+  },
+  {
+    "objectId": "MbFTfElPUs",
+    "name": "Zaffre",
+    "hexCode": "0014A8",
+    "createdAt": "2019-12-13T23:44:29.974Z",
+    "updatedAt": "2019-12-13T23:44:29.974Z"
+  },
+  {
+    "objectId": "cqjQUJ7g9L",
+    "name": "Yellow-green",
+    "hexCode": "9ACD32",
+    "createdAt": "2019-12-13T23:44:29.974Z",
+    "updatedAt": "2019-12-13T23:44:29.974Z"
+  },
+  {
+    "objectId": "8vswFKrC8e",
+    "name": "Yellow",
+    "hexCode": "FFFF00",
+    "createdAt": "2019-12-13T23:44:29.974Z",
+    "updatedAt": "2019-12-13T23:44:29.974Z"
+  },
+  {
+    "objectId": "pte068JI09",
+    "name": "Yellow Sunshine",
+    "hexCode": "FFF700",
+    "createdAt": "2019-12-13T23:44:29.974Z",
+    "updatedAt": "2019-12-13T23:44:29.974Z"
+  },
+  {
+    "objectId": "9IYQ87BLd0",
+    "name": "Yellow-green (Crayola)",
+    "hexCode": "C5E384",
+    "createdAt": "2019-12-13T23:44:29.974Z",
+    "updatedAt": "2019-12-13T23:44:29.974Z"
+  },
+  {
+    "objectId": "EdAOADXfIp",
+    "name": "Yellow-green (Color Wheel)",
+    "hexCode": "30B21A",
+    "createdAt": "2019-12-13T23:44:29.974Z",
+    "updatedAt": "2019-12-13T23:44:29.974Z"
+  },
+  {
+    "objectId": "04z34LIP1z",
+    "name": "Yellow (Pantone)",
+    "hexCode": "FEDF00",
+    "createdAt": "2019-12-13T23:44:29.974Z",
+    "updatedAt": "2019-12-13T23:44:29.974Z"
+  },
+  {
+    "objectId": "rN3ApdA9OA",
+    "name": "Yellow Orange (Color Wheel)",
+    "hexCode": "FF9505",
+    "createdAt": "2019-12-13T23:44:29.974Z",
+    "updatedAt": "2019-12-13T23:44:29.974Z"
+  },
+  {
+    "objectId": "J3jpHhs2jz",
+    "name": "Yellow Orange",
+    "hexCode": "FFAE42",
+    "createdAt": "2019-12-13T23:44:29.974Z",
+    "updatedAt": "2019-12-13T23:44:29.974Z"
+  }
+]
+}
