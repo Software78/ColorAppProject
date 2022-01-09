@@ -41,7 +41,9 @@ class _ResultsBottomSheetState extends State<ResultsBottomSheet> {
         child: FutureBuilder(
           builder: (context, snapshot) {
             if (snapshot.connectionState == ConnectionState.waiting) {
-              return const CircularProgressIndicator();
+              return CircularProgressIndicator(
+                color: Theme.of(context).primaryColor,
+              );
             } else {
               return Text(
                 snapshot.data.toString(),

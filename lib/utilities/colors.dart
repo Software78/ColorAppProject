@@ -6,6 +6,8 @@ class ColorItem {
 
   factory ColorItem.fromJson(dynamic json) {
     return ColorItem(
-        name: json['results']['name'], hexCode: json['results']['hexCode']);
+      name: json['results']['name'],
+      hexCode: json['results']['hexCode'],
+    );
   }
 }

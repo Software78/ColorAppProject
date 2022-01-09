@@ -1,12 +1,9 @@
-// ignore_for_file: avoid_print
-
 import 'dart:convert';
 import 'package:color_app/screens/settings.dart';
 import 'package:color_app/widgets/results_bottom_sheet.dart';
+import 'package:connectivity_plus/connectivity_plus.dart';
 import 'package:flutter_styled_toast/flutter_styled_toast.dart';
-// import 'package:color_app/widgets/color_count.dart';
 import 'package:color_app/widgets/color_picker.dart';
-// import 'package:color_app/widgets/text_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_color/flutter_color.dart';
@@ -48,7 +45,12 @@ class _TwoColorsState extends State<TwoColors>
     return Scaffold(
       appBar: AppBar(
         backgroundColor: globalcolor,
-        title: const Text('Color App'),
+        title: const Text(
+          'Color App',
+          style: TextStyle(
+            fontSize: 40,
+          ),
+        ),
         actions: [
           GestureDetector(
             child: const Icon(Icons.info),
@@ -57,7 +59,7 @@ class _TwoColorsState extends State<TwoColors>
             },
           ),
           const SizedBox(
-            width: 10,
+            width: 20,
           ),
         ],
         bottom: TabBar(
@@ -69,14 +71,24 @@ class _TwoColorsState extends State<TwoColors>
                 bottom: 10,
                 top: 10,
               ),
-              child: Text('Two Colors'),
+              child: Text(
+                'Two Colors',
+                style: TextStyle(
+                  fontSize: 20,
+                ),
+              ),
             ),
             Padding(
               padding: EdgeInsets.only(
                 bottom: 10,
                 top: 10,
               ),
-              child: Text('Three Colors'),
+              child: Text(
+                'Three Colors',
+                style: TextStyle(
+                  fontSize: 20,
+                ),
+              ),
             ),
           ],
         ),
@@ -268,7 +280,9 @@ class _TwoColorsState extends State<TwoColors>
       ),
       floatingActionButton: FloatingActionButton(
         backgroundColor: Colors.white,
-        onPressed: () {
+        onPressed: () async {
+          var connectivityResult = Connectivity().checkConnectivity();
+
           if (bgcolor1 == null || bgcolor2 == null) {
             showToast('please select a color',
                 context: context,
@@ -303,9 +317,6 @@ class _TwoColorsState extends State<TwoColors>
               (val5 / 2).round(),
             ];
 
-            print(finalval);
-            print(HEX.encode(finalval));
-
             showModalBottomSheet(
               context: context,
               builder: (context) => ResultsBottomSheet(
@@ -313,6 +324,16 @@ class _TwoColorsState extends State<TwoColors>
               ),
             );
             deleteColors();
+          } else if (connectivityResult == ConnectivityResult.none) {
+            showToast('please connect to internet',
+                context: context,
+                animation: StyledToastAnimation.scale,
+                position: StyledToastPosition.bottom,
+                reverseAnimation: StyledToastAnimation.fade,
+                animDuration: const Duration(seconds: 1),
+                duration: const Duration(seconds: 3),
+                curve: Curves.elasticOut,
+                reverseCurve: Curves.linear);
           } else {
             var val1 = HEX.decode(color1!);
             var val2 = HEX.decode(color2!);
@@ -325,9 +346,6 @@ class _TwoColorsState extends State<TwoColors>
               (val5 / 3).round(),
               (val6 / 3).round(),
             ];
-
-            print(finalval);
-            print(HEX.encode(finalval));
 
             showModalBottomSheet(
               context: context,
@@ -388,7 +406,10 @@ class _ChooseColor1ScreenState extends State<ChooseColor1Screen> {
   }
 
   late TextEditingController _search;
-  Widget appBarTitle = const Text("Choose Color");
+  Widget appBarTitle = const Text(
+    "Choose Color",
+    style: TextStyle(),
+  );
   Icon actionIcon = const Icon(Icons.search);
   List items = [];
 
@@ -410,6 +431,7 @@ class _ChooseColor1ScreenState extends State<ChooseColor1Screen> {
     }
 
     return Scaffold(
+      backgroundColor: Theme.of(context).primaryColor,
       body: ListView.builder(
         itemCount: newDataList.length,
         itemBuilder: (context, int index) => ListTile(
@@ -417,8 +439,7 @@ class _ChooseColor1ScreenState extends State<ChooseColor1Screen> {
             onTap: () async {
               colorname1 = newDataList[index]['name'];
               color1 = newDataList[index]['hexCode'];
-              print(colorname1);
-              print(color1);
+
               Navigator.pop(context);
             },
             hoverColor: HexColor(newDataList[index]['hexCode']),
@@ -503,7 +524,10 @@ class _ChooseColor2ScreenState extends State<ChooseColor2Screen> {
   }
 
   late TextEditingController _search;
-  Widget appBarTitle = const Text("Choose Color");
+  Widget appBarTitle = const Text(
+    "Choose Color",
+    style: TextStyle(),
+  );
   Icon actionIcon = const Icon(Icons.search);
   List items = [];
 
@@ -525,6 +549,7 @@ class _ChooseColor2ScreenState extends State<ChooseColor2Screen> {
     }
 
     return Scaffold(
+      backgroundColor: Theme.of(context).primaryColor,
       body: ListView.builder(
         itemCount: newDataList.length,
         itemBuilder: (context, int index) => ListTile(
@@ -532,8 +557,7 @@ class _ChooseColor2ScreenState extends State<ChooseColor2Screen> {
             onTap: () {
               colorname2 = newDataList[index]['name'];
               color2 = newDataList[index]['hexCode'];
-              print(color2);
-              print(colorname2);
+
               Navigator.pop(context);
             },
             hoverColor: HexColor(newDataList[index]['hexCode']),
@@ -547,7 +571,7 @@ class _ChooseColor2ScreenState extends State<ChooseColor2Screen> {
         ),
       ),
       appBar: AppBar(
-        backgroundColor: const Color(0xff7165e3),
+        backgroundColor: Theme.of(context).primaryColor,
         centerTitle: true,
         title: appBarTitle,
         automaticallyImplyLeading: false,
@@ -577,7 +601,10 @@ class _ChooseColor2ScreenState extends State<ChooseColor2Screen> {
                     );
                   } else {
                     actionIcon = const Icon(Icons.search);
-                    appBarTitle = const Text("AppBar Title");
+                    appBarTitle = const Text(
+                      "AppBar Title",
+                      style: TextStyle(),
+                    );
                   }
                 },
               );
@@ -618,7 +645,10 @@ class _ChooseColor3ScreenState extends State<ChooseColor3Screen> {
   }
 
   late TextEditingController _search;
-  Widget appBarTitle = const Text("Choose Color");
+  Widget appBarTitle = const Text(
+    "Choose Color",
+    style: TextStyle(),
+  );
   Icon actionIcon = const Icon(Icons.search);
   List items = [];
 
@@ -640,6 +670,7 @@ class _ChooseColor3ScreenState extends State<ChooseColor3Screen> {
     }
 
     return Scaffold(
+      backgroundColor: Theme.of(context).primaryColor,
       body: ListView.builder(
         itemCount: newDataList.length,
         itemBuilder: (context, int index) => ListTile(
@@ -647,8 +678,7 @@ class _ChooseColor3ScreenState extends State<ChooseColor3Screen> {
             onTap: () {
               colorname3 = newDataList[index]['name'];
               color3 = newDataList[index]['hexCode'];
-              print(color3);
-              print(colorname3);
+
               Navigator.pop(context);
             },
             hoverColor: HexColor(newDataList[index]['hexCode']),
@@ -662,7 +692,7 @@ class _ChooseColor3ScreenState extends State<ChooseColor3Screen> {
         ),
       ),
       appBar: AppBar(
-        backgroundColor: const Color(0xff7165e3),
+        backgroundColor: Theme.of(context).primaryColor,
         centerTitle: true,
         title: appBarTitle,
         automaticallyImplyLeading: false,
@@ -692,7 +722,10 @@ class _ChooseColor3ScreenState extends State<ChooseColor3Screen> {
                     );
                   } else {
                     actionIcon = const Icon(Icons.search);
-                    appBarTitle = const Text("AppBar Title");
+                    appBarTitle = const Text(
+                      "AppBar Title",
+                      style: TextStyle(),
+                    );
                   }
                 },
               );

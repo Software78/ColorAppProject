@@ -9,14 +9,12 @@ class ColorPicker extends StatefulWidget {
     required this.height,
     required this.color,
     required this.istapped,
-    // required this.colorname,
   }) : super(key: key);
   final double width;
   final double height;
   final Function() onPressed;
   final Color? color;
   final bool istapped;
-  // final String colorname;
 
   @override
   State<ColorPicker> createState() => _ColorPickerState();
